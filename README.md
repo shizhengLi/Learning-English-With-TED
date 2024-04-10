@@ -1,8 +1,8 @@
-# Learning English
+# Learning English From TED
 
 This repo contains materials about studying English.
 
-- TED: learning notes of TED speech
+- TED: learning notes of TED speeches
 
-- Books: vocabulary, grammar, writing, etc.
+- Books: books of vocabulary, grammar, writing, etc.
 
