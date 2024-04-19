@@ -12,7 +12,9 @@ Format
 # Title
 
 Link:
-Speaker:   
+
+Speaker:  
+
 Date:
 
 @[toc]
