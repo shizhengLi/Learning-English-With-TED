@@ -1,7 +1,3 @@
-
-
-
-
 # How AI could empower any business
 
 ![image-20240419184303458](./assets/image-20240419184303458.png)
@@ -16,7 +12,59 @@ Date: April 2022
 
 ## Introduction
 
+Expensive to build and often needing highly skilled engineers to maintain, artificial intelligence systems generally only pay off for large tech companies with vast amounts of data. But what if your local pizza shop could use AI to predict which flavor would sell best each day of the week? Andrew Ng shares a vision for democratizing access to AI, empowering any business to make decisions that will increase their profit and productivity. Learn how we could build a richer society – all with just a few self-provided data points. 
+
+人工智能系统建造成本高昂，通常需要技术精湛的工程师来维护，通常只有拥有大量数据的大型科技公司才能获得回报。但是，如果您当地的披萨店可以利用人工智能预测一周内每天哪种口味的披萨卖得最好呢？吴恩达（Andrew Ng）分享了让人工智能平民化的愿景，让任何企业都能做出提高利润和生产力的决策。了解我们如何建立一个更富裕的社会--所有这一切只需几个自己提供的数据点。
+
+
+
 ## Vocabulary
+
+tend fields: 耕地
+
+Back then, many people were tending fields or herding sheep 那时，许多人在耕地或放羊
+
+priest：美 [priːst] 牧师，祭司
+
+priestess：美 [ˈpristɪs]  女祭司
+
+making these investments pay off 让这些投资获得回报
+
+
+
+there are hardly any projects that apply to 100 million people or that **generate comparable economics**. 几乎没有任何项目适用于1亿人或产生可比的经济效益。
+
+out of stock：缺货，脱销
+
+but he always has a lot of cold pizzas sitting around, and every weekend some different flavor of pizza is **out of stock**. 但他总是有很多冷披萨放在身边，每个周末都会有一些不同口味的披萨缺货。
+
+
+
+The real problem is that the small pizza store could never serve enough customers to **justify the cost of** hiring an AI team. 真正的问题是，这家小型披萨店永远无法为足够多的顾客提供服务，以证明雇佣一个人工智能团队的成本是合理的。
+
+
+
+to check if there are any tears or discolorations in the cloth. 检查布料是否有破损或变色。
+
+auto mechanic：汽车修理工；美 [məˈkænɪk] 
+
+Today, large tech companies routinely use AI to solve problems like these and to great effect. But a typical T-shirt company or a typical auto mechanic or retailer or school or local farm will be using AI for exactly zero of these applications today. 如今，大型科技公司经常使用人工智能来解决此类问题，并取得了很好的效果。但是，一家典型的t恤公司、一家典型的汽车修理工、零售商、学校或当地农场今天将完全没有使用人工智能。
+
+pharmaceutical: 美 [ˌfɑːrməˈsuːtɪkl] 制药的，医药的
+
+pharmaceutical companies：制药公司
+
+pizzeria：美 [ˌpitsəˈriə]  披萨饼店，披萨饼餐馆
+
+aggregate value is massive：总价值很大
+
+chisel：美 [ˈtʃɪzl] 凿子
+
+stone tablet and chisel：石碑和凿子
+
+savvy：美 [ˈsævi] 智慧，悟性，高手，精通
+
+someone that is tech savvy 精通技术的人
 
 ## Transcript
 
@@ -613,3 +661,5 @@ To address this issue, the speaker proposes the use of emerging AI development p
 
 
 ## 后记
+
+2024年4月19日19点46分完成这篇演讲的学习。
