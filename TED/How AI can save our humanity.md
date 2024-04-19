@@ -1,6 +1,6 @@
 # How AI can save our humanity
 
-![image-20240419173527015](./assets/image-20240419173527015.png)
+![image-20240419183945587](./assets/image-20240419183945587.png)
 
 Link: [https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity](https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity)
 
