@@ -1,12 +1,12 @@
 # Learning English From TED
 
-This repo contains materials about studying English.
+This repo contains materials for studying English.
 
 - TED: learning notes of TED speeches
 
 
 
-Format
+Format of learning notes
 
 ```markdown
 # Title
