@@ -1,6 +1,6 @@
 # The future of money
 
-
+![image-20240504184257839](./assets/image-20240504184257839.png)
 
 Link: [https://www.ted.com/talks/neha_narula_the_future_of_money](https://www.ted.com/talks/neha_narula_the_future_of_money)
 
