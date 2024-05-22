@@ -48,6 +48,18 @@ I just have a flip camera and a little tripod and invested in this tiny little w
 
 pedagogy：美 [ˈpedəɡɑːdʒi]   教育法；教学法；教学
 
+
+
+## Summary
+
+In his speech, Bill Gates highlights the critical role of teachers and the lack of systematic feedback they receive to improve their practice. He emphasizes the importance of feedback in every profession, including teaching, and draws attention to the disparity in educational outcomes between countries with effective teacher feedback systems and those without. Gates stresses that teachers deserve better feedback mechanisms to enhance their skills and ultimately improve student outcomes.
+
+Gates explores successful models of teacher feedback systems, such as those in Shanghai, China, where teachers have opportunities to observe master teachers, participate in study groups, and provide feedback to colleagues. He argues that a system that helps all teachers reach their full potential is essential for ensuring student success. Gates introduces the Measures of Effective Teaching project, which uses videos and student surveys to provide teachers with actionable feedback, demonstrating how such tools can be valuable for professional development.
+
+Finally, Gates addresses the challenges and investments required to implement comprehensive teacher feedback systems, estimating a cost of up to five billion dollars. Despite the financial investment needed, Gates believes the impact on teacher development and student achievement would be substantial. He concludes by emphasizing the potential benefits of investing in teacher support systems, not only for individual educators but also for the future success and equity of the nation.
+
+
+
 ## Transcript
 
 Everyone needs a coach.
@@ -470,17 +482,13 @@ Thank you.
 
 
 
-## Summary
-
-In his speech, Bill Gates highlights the critical role of teachers and the lack of systematic feedback they receive to improve their practice. He emphasizes the importance of feedback in every profession, including teaching, and draws attention to the disparity in educational outcomes between countries with effective teacher feedback systems and those without. Gates stresses that teachers deserve better feedback mechanisms to enhance their skills and ultimately improve student outcomes.
-
-Gates explores successful models of teacher feedback systems, such as those in Shanghai, China, where teachers have opportunities to observe master teachers, participate in study groups, and provide feedback to colleagues. He argues that a system that helps all teachers reach their full potential is essential for ensuring student success. Gates introduces the Measures of Effective Teaching project, which uses videos and student surveys to provide teachers with actionable feedback, demonstrating how such tools can be valuable for professional development.
-
-Finally, Gates addresses the challenges and investments required to implement comprehensive teacher feedback systems, estimating a cost of up to five billion dollars. Despite the financial investment needed, Gates believes the impact on teacher development and student achievement would be substantial. He concludes by emphasizing the potential benefits of investing in teacher support systems, not only for individual educators but also for the future success and equity of the nation.
 
 
 
-## 后记
+
+## Afterword
+
+
 
 2024年5月9日12点42分于上海。
 

@@ -92,6 +92,22 @@ coalition：美 [ˌkoʊəˈlɪʃn]  联合，联盟
 
 We've also joined forces with a coalition of employee ownership advocates who have come together to put new energy behind something called an ESOP, or employee stock ownership plan. 我们还与员工持股倡导者联盟联手，共同为员工持股计划注入新的活力。
 
+
+
+## Summary
+
+
+
+Pete Stavros begins by recounting his early experiences as an investor, emphasizing the significance of employee stock ownership in creating wealth and aligning incentives within companies. He reflects on his father's lifelong advocacy for worker ownership, inspired by his own experiences as a laborer in a union construction company. Stavros highlights the transformative potential of employee ownership in addressing wealth inequality, worker engagement, and corporate governance issues.
+
+In the second part of his speech, Stavros shares a success story of implementing employee ownership at CHI Overhead Doors, illustrating how broadening stock ownership among employees can lead to tangible benefits for both workers and companies. Through transparent communication, financial education, and participatory decision-making, CHI Overhead Doors saw improvements in productivity, quality, and employee morale, ultimately resulting in substantial financial gains for all stakeholders.
+
+In the final section, Stavros outlines his mission to promote employee ownership through his nonprofit organization, Ownership Works, and advocates for policy changes to expand the adoption of employee stock ownership plans (ESOPs). He envisions a future where employee ownership becomes the norm, empowering workers, strengthening communities, and reshaping the economy. Stavros concludes with a nod to his father's approval of his endeavors, emphasizing the urgency of implementing widespread employee ownership.
+
+
+
+
+
 ## Transcript
 
 
@@ -770,19 +786,11 @@ Thank you.
 
 
 
-## Summary
 
 
-
-Pete Stavros begins by recounting his early experiences as an investor, emphasizing the significance of employee stock ownership in creating wealth and aligning incentives within companies. He reflects on his father's lifelong advocacy for worker ownership, inspired by his own experiences as a laborer in a union construction company. Stavros highlights the transformative potential of employee ownership in addressing wealth inequality, worker engagement, and corporate governance issues.
-
-In the second part of his speech, Stavros shares a success story of implementing employee ownership at CHI Overhead Doors, illustrating how broadening stock ownership among employees can lead to tangible benefits for both workers and companies. Through transparent communication, financial education, and participatory decision-making, CHI Overhead Doors saw improvements in productivity, quality, and employee morale, ultimately resulting in substantial financial gains for all stakeholders.
-
-In the final section, Stavros outlines his mission to promote employee ownership through his nonprofit organization, Ownership Works, and advocates for policy changes to expand the adoption of employee stock ownership plans (ESOPs). He envisions a future where employee ownership becomes the norm, empowering workers, strengthening communities, and reshaping the economy. Stavros concludes with a nod to his father's approval of his endeavors, emphasizing the urgency of implementing widespread employee ownership.
+## Afterword
 
 
-
-## 后记
 
 
 

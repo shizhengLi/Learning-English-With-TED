@@ -60,6 +60,22 @@ depletion：美 [dɪˈpliʃən] 消耗，耗尽
 
 resource depletion：资源消耗
 
+
+
+## Summary
+
+
+
+In his speech, engineer Cedrik Neike addresses urgent global challenges, particularly regarding climate change and resource depletion. He highlights the looming deadlines, such as reaching the 1.5 degrees Celsius target of the Paris Agreement and the World Overshoot Day, emphasizing the critical need for innovative solutions. Neike emphasizes his background as an engineer and the profession's problem-solving ethos. However, he acknowledges the limitations of traditional approaches in tackling complex issues like climate change and resource management.
+
+Neike introduces the concept of leveraging the digital world to address real-world challenges effectively. He contrasts the slow, resource-intensive processes of the physical world with the limitless possibilities of the digital realm. Neike proposes using digital simulations and virtual environments to accelerate innovation and experimentation, particularly in industries like renewable energy and battery manufacturing. He outlines examples of how digital twins and simulations can optimize processes, reduce waste, and improve efficiency, such as in battery design, production, and recycling.
+
+In conclusion, Neike urges the audience to embrace digital technologies as powerful tools for addressing pressing global issues. He advocates for a paradigm shift in industries to adopt digital simulations, artificial intelligence, and cloud computing to accelerate progress towards sustainability goals. Neike emphasizes the potential of these technologies to revolutionize various sectors, from transportation and agriculture to urban planning and building design. He calls upon individuals and industries to leverage these tools to create a better, more sustainable world for future generations.
+
+
+
+
+
 ## Transcript
 
 When I listen to all of this,
@@ -594,18 +610,10 @@ Thank you.
 
 (Applause)
 
-## Summary
 
 
-
-In his speech, engineer Cedrik Neike addresses urgent global challenges, particularly regarding climate change and resource depletion. He highlights the looming deadlines, such as reaching the 1.5 degrees Celsius target of the Paris Agreement and the World Overshoot Day, emphasizing the critical need for innovative solutions. Neike emphasizes his background as an engineer and the profession's problem-solving ethos. However, he acknowledges the limitations of traditional approaches in tackling complex issues like climate change and resource management.
-
-Neike introduces the concept of leveraging the digital world to address real-world challenges effectively. He contrasts the slow, resource-intensive processes of the physical world with the limitless possibilities of the digital realm. Neike proposes using digital simulations and virtual environments to accelerate innovation and experimentation, particularly in industries like renewable energy and battery manufacturing. He outlines examples of how digital twins and simulations can optimize processes, reduce waste, and improve efficiency, such as in battery design, production, and recycling.
-
-In conclusion, Neike urges the audience to embrace digital technologies as powerful tools for addressing pressing global issues. He advocates for a paradigm shift in industries to adopt digital simulations, artificial intelligence, and cloud computing to accelerate progress towards sustainability goals. Neike emphasizes the potential of these technologies to revolutionize various sectors, from transportation and agriculture to urban planning and building design. He calls upon individuals and industries to leverage these tools to create a better, more sustainable world for future generations.
+## Afterword
 
 
-
-## 后记
 
 2024年5月5日18点08分于上海。

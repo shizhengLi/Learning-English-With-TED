@@ -50,6 +50,20 @@ conduit：美 [ˈkɑnˌd(j)uət]  水管，管道
 
 But problems don’t impede progress. Problems are the conduit of progress. No problems, no progress. 但是问题不会阻碍进步。问题是进步的管道。没有问题，就没有进步。
 
+
+
+## Summary
+
+
+
+Kevin Kelly's speech revolves around the theme of optimism in the face of daunting global challenges. He acknowledges the existence of significant problems such as climate change and social inequality but argues that the scale of these challenges is precisely why optimism is warranted. Kelly asserts that historical progress and breakthroughs have always been fueled by a strong sense of optimism that change is possible. He emphasizes the importance of envisioning a better world and believing in our capacity to make it a reality.
+
+Kelly delves into the concept of "pro-topia," describing it as a world where incremental improvements lead to a slightly better existence. He clarifies that optimism is not merely a sunny disposition but rather a rational perspective based on historical progress. He addresses common reasons for pessimism, including the tendency to focus on negative events and the invisibility of incremental progress amid larger societal challenges. Kelly advocates for embracing problems as opportunities for progress, rejecting the notion of utopia in favor of continuous improvement.
+
+In the final section of his speech, Kelly explores the role of trust and cooperation in driving progress. He emphasizes the importance of trusting future generations and being good ancestors by investing in long-term solutions. Kelly contends that problems are the catalysts for progress and that optimism enables us to shape the future positively. He concludes by asserting that optimism is a choice and a moral obligation, empowering us to create a better world through collaboration, innovation, and a belief in our collective ability to overcome challenges.
+
+
+
 ## Transcript
 
 
@@ -526,19 +540,11 @@ Thank you.
 
 
 
-## Summary
 
 
 
-Kevin Kelly's speech revolves around the theme of optimism in the face of daunting global challenges. He acknowledges the existence of significant problems such as climate change and social inequality but argues that the scale of these challenges is precisely why optimism is warranted. Kelly asserts that historical progress and breakthroughs have always been fueled by a strong sense of optimism that change is possible. He emphasizes the importance of envisioning a better world and believing in our capacity to make it a reality.
 
-Kelly delves into the concept of "pro-topia," describing it as a world where incremental improvements lead to a slightly better existence. He clarifies that optimism is not merely a sunny disposition but rather a rational perspective based on historical progress. He addresses common reasons for pessimism, including the tendency to focus on negative events and the invisibility of incremental progress amid larger societal challenges. Kelly advocates for embracing problems as opportunities for progress, rejecting the notion of utopia in favor of continuous improvement.
-
-In the final section of his speech, Kelly explores the role of trust and cooperation in driving progress. He emphasizes the importance of trusting future generations and being good ancestors by investing in long-term solutions. Kelly contends that problems are the catalysts for progress and that optimism enables us to shape the future positively. He concludes by asserting that optimism is a choice and a moral obligation, empowering us to create a better world through collaboration, innovation, and a belief in our collective ability to overcome challenges.
-
-
-
-## 后记
+## Afterword
 
 
 

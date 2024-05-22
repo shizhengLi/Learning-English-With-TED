@@ -42,6 +42,20 @@ bespoke：美 [bəˈspoʊk] 定做的
 
 bespoke machines
 
+## Summary
+
+
+
+Summary:
+
+In her speech, the female scientist highlights the transformative potential of physical intelligence, which combines AI with robotics to enable machines to interact with the physical world. She begins by recounting an anecdote from her student days, where a failed attempt to program a robot to cut a cake taught her about the challenges of bridging the gap between the digital and physical realms. She emphasizes the need for AI to move beyond traditional 2D interactions and enter the vibrant 3D world, which her lab is actively working on.
+
+Next, she introduces the concept of liquid networks, a new approach to AI inspired by the simple neural structure of C. elegans. Liquid networks allow for more compact and explainable AI solutions compared to traditional methods, enabling machines to adapt and learn continuously even after training. By using differential equations to model neural computation, these networks offer promising results in tasks such as self-driving cars, where traditional AI solutions fall short.
+
+Finally, the scientist discusses the practical applications of physical intelligence, such as text-to-robot and image-to-robot transformations. These advancements allow for faster prototyping and testing of new products, leading to a more rapid innovation cycle. She also introduces the idea of human-to-robot learning, where robots can be trained to perform tasks by observing humans. By combining these approaches, physical intelligence offers unprecedented opportunities for benefitting humanity and the planet, while also highlighting the importance of responsible development and stewardship of this technology.
+
+
+
 ## Transcript
 
 
@@ -636,18 +650,10 @@ Thank you.
 
 
 
-## Summary
 
 
+## Afterword
 
-Summary:
 
-In her speech, the female scientist highlights the transformative potential of physical intelligence, which combines AI with robotics to enable machines to interact with the physical world. She begins by recounting an anecdote from her student days, where a failed attempt to program a robot to cut a cake taught her about the challenges of bridging the gap between the digital and physical realms. She emphasizes the need for AI to move beyond traditional 2D interactions and enter the vibrant 3D world, which her lab is actively working on.
-
-Next, she introduces the concept of liquid networks, a new approach to AI inspired by the simple neural structure of C. elegans. Liquid networks allow for more compact and explainable AI solutions compared to traditional methods, enabling machines to adapt and learn continuously even after training. By using differential equations to model neural computation, these networks offer promising results in tasks such as self-driving cars, where traditional AI solutions fall short.
-
-Finally, the scientist discusses the practical applications of physical intelligence, such as text-to-robot and image-to-robot transformations. These advancements allow for faster prototyping and testing of new products, leading to a more rapid innovation cycle. She also introduces the idea of human-to-robot learning, where robots can be trained to perform tasks by observing humans. By combining these approaches, physical intelligence offers unprecedented opportunities for benefitting humanity and the planet, while also highlighting the importance of responsible development and stewardship of this technology.
-
-## 后记
 
 2024年4月27日19点45分于上海。

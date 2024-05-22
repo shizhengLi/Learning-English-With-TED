@@ -136,6 +136,22 @@ All language tasks can be expressed as text in and text out. Be it writing poetr
 
 
 
+## Summary
+
+
+
+In spring of 2016, the speaker was sitting in a classroom at Columbia University but wasn't paying attention to the lecture. Instead, he was watching a board game tournament on his laptop, a very special one between AlphaGo and Lee Sedol. AlphaGo had just made history by beating a human champion at the game of Go, winning three out of five games. The adrenaline of witnessing this historic moment marked the entry of AI agents into the mainstream.
+
+After the excitement faded, the speaker realized that as mighty as AlphaGo was, it could only play Go and nothing else. The vision for AI agents that we truly want is to be as versatile as Wall-E, capable of diverse actions across infinite realities. To achieve this, research efforts are focused on three axes: the number of skills an agent can perform, the body forms or embodiments it can control, and the realities it can master.
+
+Taking one axis at a time, progress is being made. The Voyager project, which he led, demonstrated an agent's ability to scale up massively in the number of skills it can perform, using Minecraft as a platform for its diverse actions. Voyager's core insight is "coding as action," where it converts the 3D world into a textual representation, uses GPT-4 to write executable skills in JavaScript, and employs self-reflection mechanisms for improvement.
+
+MetaMorph, another initiative, aims to control thousands of robots with varied configurations. By designing a special vocabulary to describe robot body parts and applying a transformer model to generate motor controls, MetaMorph demonstrates the potential for multi-body control. IsaacSim, Nvidia's simulation effort, accelerates physics simulations to enable rapid skill acquisition in virtual environments, bridging the gap between virtual and physical realities.
+
+The ultimate goal is to develop a Foundation Agent that can generalize across all three axes, mastering diverse skills, controlling various bodies, and understanding multiple realities. This agent, trained on massive amounts of data and across numerous realities, represents the next grand challenge in the quest for AI.
+
+
+
 ## Transcript
 
 In spring of 2016,
@@ -629,22 +645,12 @@ in our quest for AI.
 
 
 
-## Summary
 
 
 
-In spring of 2016, the speaker was sitting in a classroom at Columbia University but wasn't paying attention to the lecture. Instead, he was watching a board game tournament on his laptop, a very special one between AlphaGo and Lee Sedol. AlphaGo had just made history by beating a human champion at the game of Go, winning three out of five games. The adrenaline of witnessing this historic moment marked the entry of AI agents into the mainstream.
 
-After the excitement faded, the speaker realized that as mighty as AlphaGo was, it could only play Go and nothing else. The vision for AI agents that we truly want is to be as versatile as Wall-E, capable of diverse actions across infinite realities. To achieve this, research efforts are focused on three axes: the number of skills an agent can perform, the body forms or embodiments it can control, and the realities it can master.
-
-Taking one axis at a time, progress is being made. The Voyager project, which he led, demonstrated an agent's ability to scale up massively in the number of skills it can perform, using Minecraft as a platform for its diverse actions. Voyager's core insight is "coding as action," where it converts the 3D world into a textual representation, uses GPT-4 to write executable skills in JavaScript, and employs self-reflection mechanisms for improvement.
-
-MetaMorph, another initiative, aims to control thousands of robots with varied configurations. By designing a special vocabulary to describe robot body parts and applying a transformer model to generate motor controls, MetaMorph demonstrates the potential for multi-body control. IsaacSim, Nvidia's simulation effort, accelerates physics simulations to enable rapid skill acquisition in virtual environments, bridging the gap between virtual and physical realities.
-
-The ultimate goal is to develop a Foundation Agent that can generalize across all three axes, mastering diverse skills, controlling various bodies, and understanding multiple realities. This agent, trained on massive amounts of data and across numerous realities, represents the next grand challenge in the quest for AI.
+## Afterword
 
 
-
-## 后记
 
 2024年4月11日20点19分于上海。

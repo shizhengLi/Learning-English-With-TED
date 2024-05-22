@@ -82,6 +82,24 @@ Title IX
 
 >1972年，美国通过了一项具有里程碑意义的立法，即“第九条标题”（Title IX）。这项法律旨在禁止对性别进行歧视，特别是在教育领域。Title IX要求任何接受联邦资助的教育项目或活动不得因性别而歧视任何人。这意味着学校、大学和其他教育机构必须提供平等的机会和资源给男性和女性学生，包括在体育、课程选择、招生和奖学金等方面。Title IX的通过标志着美国历史上对性别平等和性别歧视问题的重大进步，为确保公平和平等的教育机会起到了重要作用。
 
+
+
+## Summary
+
+
+
+Richard Reeves' speech addresses the shifting landscape of gender inequality in education, highlighting how traditional gender roles have been reversed over time. He emphasizes the need to recognize and address the challenges faced by boys and men in education, particularly in terms of academic performance and access to male role models. Reeves argues for policy changes such as starting boys in school later and recruiting more male teachers, especially in subjects where boys struggle the most, like English. He stresses the importance of acknowledging and respecting differences between genders and calls for a balanced approach that supports both boys and girls. 
+
+In the first part of his speech, Reeves outlines the historical context of gender inequality in education, noting the significant advancements made by women since the passage of Title IX in 1972. He highlights the surprising trend of men falling behind in higher education attainment, challenging the conventional notion of gender equality solely benefiting women. Reeves underscores the importance of recognizing and addressing gender disparities in both directions, especially concerning boys' struggles in the education system.
+
+Next, Reeves delves into the structural disadvantages faced by boys in education, focusing on differences in brain development and the lack of male teachers. He explains how boys' later development of non-cognitive skills impacts their academic performance, advocating for policies that accommodate these differences, such as starting boys in school later. Additionally, Reeves emphasizes the importance of male teachers as role models and advocates for efforts to recruit more male educators, particularly in subjects where boys lag behind.
+
+In the final part of his speech, Reeves calls for a balanced approach to addressing gender inequality in education, one that supports the needs of both boys and girls. He acknowledges the interconnectedness of gender with race and socioeconomic status, emphasizing the importance of considering these intersections in policy interventions. Reeves concludes by urging action to address the challenges faced by boys and men in education, emphasizing the need for a collaborative effort to ensure a future where everyone can thrive.
+
+
+
+
+
 ## Transcript
 
 
@@ -861,21 +879,11 @@ CA: Thank you so much.
 
 
 
-## Summary
 
 
-
-Richard Reeves' speech addresses the shifting landscape of gender inequality in education, highlighting how traditional gender roles have been reversed over time. He emphasizes the need to recognize and address the challenges faced by boys and men in education, particularly in terms of academic performance and access to male role models. Reeves argues for policy changes such as starting boys in school later and recruiting more male teachers, especially in subjects where boys struggle the most, like English. He stresses the importance of acknowledging and respecting differences between genders and calls for a balanced approach that supports both boys and girls. 
-
-In the first part of his speech, Reeves outlines the historical context of gender inequality in education, noting the significant advancements made by women since the passage of Title IX in 1972. He highlights the surprising trend of men falling behind in higher education attainment, challenging the conventional notion of gender equality solely benefiting women. Reeves underscores the importance of recognizing and addressing gender disparities in both directions, especially concerning boys' struggles in the education system.
-
-Next, Reeves delves into the structural disadvantages faced by boys in education, focusing on differences in brain development and the lack of male teachers. He explains how boys' later development of non-cognitive skills impacts their academic performance, advocating for policies that accommodate these differences, such as starting boys in school later. Additionally, Reeves emphasizes the importance of male teachers as role models and advocates for efforts to recruit more male educators, particularly in subjects where boys lag behind.
-
-In the final part of his speech, Reeves calls for a balanced approach to addressing gender inequality in education, one that supports the needs of both boys and girls. He acknowledges the interconnectedness of gender with race and socioeconomic status, emphasizing the importance of considering these intersections in policy interventions. Reeves concludes by urging action to address the challenges faced by boys and men in education, emphasizing the need for a collaborative effort to ensure a future where everyone can thrive.
+## Afterword
 
 
-
-## 后记
 
 2024年5月16日于上海。
 

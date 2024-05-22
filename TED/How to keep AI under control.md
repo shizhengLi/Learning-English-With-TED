@@ -72,6 +72,28 @@ Let's heed the warning from ancient Greece and not get hubris, like in the story
 
 
 
+## Summary
+
+
+
+In his TED talk, Max Tegmark reflects on his past predictions regarding the development of superintelligence, admitting that the progress of AI has exceeded his expectations. He highlights the rapid advancement of AI technologies and the growing concern over the lack of regulation in the industry, emphasizing the urgency of addressing these issues. Tegmark discusses the concept of artificial general intelligence (AGI) and the efforts of companies like OpenAI and Google DeepMind to achieve it, warning of the potential risks associated with superintelligence and the need for proactive measures to ensure AI safety.
+
+Transitioning to the current state of AI technology, Tegmark showcases recent advancements in robotics, deep learning, and natural language processing, illustrating the remarkable pace of progress. He acknowledges the skepticism surrounding AI's ability to truly understand the world but argues that recent developments indicate otherwise. Tegmark discusses the implications of achieving AGI and superintelligence, echoing Alan Turing's prediction that such entities could surpass human control and become a new form of intelligence, posing existential risks to humanity.
+
+In response to the escalating concerns, Tegmark advocates for a robust plan for AI safety, emphasizing the importance of provably safe AI systems. He introduces the concept of formal verification as a means to ensure the safety and reliability of AI algorithms, proposing a method for creating and verifying AI tools that adhere to specified criteria. Tegmark underscores the need for collaborative efforts to develop and implement these safety measures, urging the AI community to prioritize ethical considerations and responsible innovation in the pursuit of AI advancements.
+
+中文：
+
+在他的TED演讲中，Max Tegmark回顾了他对超级智能发展的过去预测，承认了人工智能的进步超出了他的预期。他强调了人工智能技术的迅速发展和行业监管不足的日益严重的问题，强调了解决这些问题的紧迫性。Tegmark讨论了人工通用智能（AGI）的概念，以及OpenAI和Google DeepMind等公司实现该目标的努力，警告了超级智能可能带来的潜在风险，以及确保人工智能安全的积极措施的必要性。
+
+随着人工智能技术的发展，Tegmark展示了机器人技术、深度学习和自然语言处理的最新进展，说明了进展的惊人速度。他承认了围绕人工智能是否真正理解世界的怀疑，但认为最近的发展情况表明了不同的看法。Tegmark讨论了实现AGI和超级智能的影响，回应了Alan Turing的预测，称这样的实体可能会超越人类控制，成为一种新形式的智能，对人类构成存在风险。
+
+针对不断加剧的担忧，Tegmark主张制定强有力的人工智能安全计划，强调了确保人工智能算法安全可靠的重要性。他介绍了形式验证的概念，作为确保人工智能工具符合指定标准的手段，提出了一种创建和验证人工智能工具的方法。Tegmark强调了发展和实施这些安全措施的合作努力的必要性，敦促人工智能界在追求人工智能进步时优先考虑伦理问题和负责任的创新。
+
+
+
+
+
 ## Transcript
 
 
@@ -628,29 +650,13 @@ Thank you.
 
 
 
-## Summary
-
-
-
-In his TED talk, Max Tegmark reflects on his past predictions regarding the development of superintelligence, admitting that the progress of AI has exceeded his expectations. He highlights the rapid advancement of AI technologies and the growing concern over the lack of regulation in the industry, emphasizing the urgency of addressing these issues. Tegmark discusses the concept of artificial general intelligence (AGI) and the efforts of companies like OpenAI and Google DeepMind to achieve it, warning of the potential risks associated with superintelligence and the need for proactive measures to ensure AI safety.
-
-Transitioning to the current state of AI technology, Tegmark showcases recent advancements in robotics, deep learning, and natural language processing, illustrating the remarkable pace of progress. He acknowledges the skepticism surrounding AI's ability to truly understand the world but argues that recent developments indicate otherwise. Tegmark discusses the implications of achieving AGI and superintelligence, echoing Alan Turing's prediction that such entities could surpass human control and become a new form of intelligence, posing existential risks to humanity.
-
-In response to the escalating concerns, Tegmark advocates for a robust plan for AI safety, emphasizing the importance of provably safe AI systems. He introduces the concept of formal verification as a means to ensure the safety and reliability of AI algorithms, proposing a method for creating and verifying AI tools that adhere to specified criteria. Tegmark underscores the need for collaborative efforts to develop and implement these safety measures, urging the AI community to prioritize ethical considerations and responsible innovation in the pursuit of AI advancements.
-
-中文：
-
-在他的TED演讲中，Max Tegmark回顾了他对超级智能发展的过去预测，承认了人工智能的进步超出了他的预期。他强调了人工智能技术的迅速发展和行业监管不足的日益严重的问题，强调了解决这些问题的紧迫性。Tegmark讨论了人工通用智能（AGI）的概念，以及OpenAI和Google DeepMind等公司实现该目标的努力，警告了超级智能可能带来的潜在风险，以及确保人工智能安全的积极措施的必要性。
-
-随着人工智能技术的发展，Tegmark展示了机器人技术、深度学习和自然语言处理的最新进展，说明了进展的惊人速度。他承认了围绕人工智能是否真正理解世界的怀疑，但认为最近的发展情况表明了不同的看法。Tegmark讨论了实现AGI和超级智能的影响，回应了Alan Turing的预测，称这样的实体可能会超越人类控制，成为一种新形式的智能，对人类构成存在风险。
-
-针对不断加剧的担忧，Tegmark主张制定强有力的人工智能安全计划，强调了确保人工智能算法安全可靠的重要性。他介绍了形式验证的概念，作为确保人工智能工具符合指定标准的手段，提出了一种创建和验证人工智能工具的方法。Tegmark强调了发展和实施这些安全措施的合作努力的必要性，敦促人工智能界在追求人工智能进步时优先考虑伦理问题和负责任的创新。
 
 
 
 
+## Afterword
 
-## 后记
+
 
 
 

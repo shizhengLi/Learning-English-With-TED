@@ -114,6 +114,24 @@ And this is an important reason why I'm hopeful that despite the great challenge
 
 
 
+## Summary
+
+The speaker's presentation focused on the advancement of artificial intelligence (AI), particularly the concept of artificial general intelligence (AGI). He highlighted the rapid progress of AI technology and its potential to surpass human intelligence. The speaker emphasized the profound impact AGI could have on various aspects of society, such as healthcare, where intelligent computers could revolutionize medical practices.
+
+Despite acknowledging the challenges and concerns surrounding AGI, such as the potential for AI to become uncontrollable or "go rogue," the speaker remained hopeful. He pointed out that as AI continues to progress and more people become aware of its capabilities, there will be a natural shift towards collaborative efforts to ensure AI's safe and beneficial development.
+
+In conclusion, the speaker expressed optimism about our ability to navigate the challenges posed by AGI, believing that increased collaboration and understanding will lead to a positive outcome.
+
+
+
+
+
+Wy does the speaker do research in AI？
+
+The speaker was drawn to research in AI for several reasons. Firstly, from a young age, he was fascinated by his own conscious experience and saw AI as a potential tool to better understand human consciousness. Secondly, he was curious about how intelligence works and was motivated by the challenge of unraveling this complex phenomenon. Finally, he recognized the immense potential impact of AI, believing that if successful, it would be incredibly impactful across all areas of human activity and society.
+
+
+
 
 
 ## Transcript
@@ -677,25 +695,13 @@ Thank you.
 
 
 
-## Summary
-
-The speaker's presentation focused on the advancement of artificial intelligence (AI), particularly the concept of artificial general intelligence (AGI). He highlighted the rapid progress of AI technology and its potential to surpass human intelligence. The speaker emphasized the profound impact AGI could have on various aspects of society, such as healthcare, where intelligent computers could revolutionize medical practices.
-
-Despite acknowledging the challenges and concerns surrounding AGI, such as the potential for AI to become uncontrollable or "go rogue," the speaker remained hopeful. He pointed out that as AI continues to progress and more people become aware of its capabilities, there will be a natural shift towards collaborative efforts to ensure AI's safe and beneficial development.
-
-In conclusion, the speaker expressed optimism about our ability to navigate the challenges posed by AGI, believing that increased collaboration and understanding will lead to a positive outcome.
 
 
 
 
-
-Wy does the speaker do research in AI？
-
-The speaker was drawn to research in AI for several reasons. Firstly, from a young age, he was fascinated by his own conscious experience and saw AI as a potential tool to better understand human consciousness. Secondly, he was curious about how intelligence works and was motivated by the challenge of unraveling this complex phenomenon. Finally, he recognized the immense potential impact of AI, believing that if successful, it would be incredibly impactful across all areas of human activity and society.
+## Afterword
 
 
-
-## 后记
 
 2024年4月11日12点48分于上海。
 

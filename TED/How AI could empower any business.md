@@ -66,6 +66,26 @@ savvy：美 [ˈsævi] 智慧，悟性，高手，精通
 
 someone that is tech savvy 精通技术的人
 
+## Summary
+
+
+
+The speaker begins by highlighting the current concentration of AI expertise in large tech companies, likening them to the "high priests and priestesses" of literacy in the past. He points out that while these companies have been successful in applying AI to projects with massive data sets, such as web search engines or online shopping recommendations, the same approach does not work for smaller businesses or industries outside of tech.
+
+He introduces the concept of the "long-tail problem of AI," explaining that there are millions of potential AI projects that could benefit smaller businesses but are not being pursued because they are unique and require custom-built solutions. The speaker argues that enabling small businesses and individuals to use AI could unlock significant value, citing examples like demand forecasting for a local pizza store or product placement optimization for a T-shirt company.
+
+To address this issue, the speaker proposes the use of emerging AI development platforms that focus on data rather than code. He explains how these platforms allow individuals, such as a quality inspector at a T-shirt company, to easily train AI systems to perform specific tasks, such as detecting defects in fabric. By democratizing access to AI in this way, the speaker believes that more people will be able to benefit from its capabilities, leading to a more equitable distribution of wealth and a more exciting future for AI development.
+
+
+
+演讲者首先强调了当前人工智能专业知识在大型科技公司的集中，将它们比作过去文字普及的“高级祭司和女祭司”。他指出，虽然这些公司在将人工智能应用于拥有海量数据集的项目方面取得了成功，比如网络搜索引擎或在线购物推荐，但同样的方法并不适用于规模较小的企业或科技领域以外的行业。
+
+他介绍了“人工智能的长尾问题”，解释说有数百万潜在的人工智能项目可以使规模较小的企业受益，但由于它们是独特的，需要定制的解决方案，因此并未被实施。演讲者认为，让小型企业和个人使用人工智能可以释放出巨大的价值，举例说明了像对本地披萨店的需求预测或对 T 恤公司产品摆放优化等情况。
+
+为了解决这个问题，演讲者提出了使用新兴人工智能开发平台的概念，这些平台侧重于数据而不是代码。他解释了这些平台如何让个人，比如 T 恤公司的质检员，轻松地训练人工智能系统来执行特定任务，比如检测织物缺陷。通过以这种方式使人工智能的使用方式民主化，演讲者相信更多人将能够从其能力中受益，从而实现财富的更公平分配，并为人工智能开发带来更令人兴奋的未来。
+
+
+
 ## Transcript
 
 When I think about the rise of AI,
@@ -638,28 +658,14 @@ Thank you very much.
 
 (Applause)
 
-## Summary
-
-
-
-The speaker begins by highlighting the current concentration of AI expertise in large tech companies, likening them to the "high priests and priestesses" of literacy in the past. He points out that while these companies have been successful in applying AI to projects with massive data sets, such as web search engines or online shopping recommendations, the same approach does not work for smaller businesses or industries outside of tech.
-
-He introduces the concept of the "long-tail problem of AI," explaining that there are millions of potential AI projects that could benefit smaller businesses but are not being pursued because they are unique and require custom-built solutions. The speaker argues that enabling small businesses and individuals to use AI could unlock significant value, citing examples like demand forecasting for a local pizza store or product placement optimization for a T-shirt company.
-
-To address this issue, the speaker proposes the use of emerging AI development platforms that focus on data rather than code. He explains how these platforms allow individuals, such as a quality inspector at a T-shirt company, to easily train AI systems to perform specific tasks, such as detecting defects in fabric. By democratizing access to AI in this way, the speaker believes that more people will be able to benefit from its capabilities, leading to a more equitable distribution of wealth and a more exciting future for AI development.
-
-
-
-演讲者首先强调了当前人工智能专业知识在大型科技公司的集中，将它们比作过去文字普及的“高级祭司和女祭司”。他指出，虽然这些公司在将人工智能应用于拥有海量数据集的项目方面取得了成功，比如网络搜索引擎或在线购物推荐，但同样的方法并不适用于规模较小的企业或科技领域以外的行业。
-
-他介绍了“人工智能的长尾问题”，解释说有数百万潜在的人工智能项目可以使规模较小的企业受益，但由于它们是独特的，需要定制的解决方案，因此并未被实施。演讲者认为，让小型企业和个人使用人工智能可以释放出巨大的价值，举例说明了像对本地披萨店的需求预测或对 T 恤公司产品摆放优化等情况。
-
-为了解决这个问题，演讲者提出了使用新兴人工智能开发平台的概念，这些平台侧重于数据而不是代码。他解释了这些平台如何让个人，比如 T 恤公司的质检员，轻松地训练人工智能系统来执行特定任务，比如检测织物缺陷。通过以这种方式使人工智能的使用方式民主化，演讲者相信更多人将能够从其能力中受益，从而实现财富的更公平分配，并为人工智能开发带来更令人兴奋的未来。
 
 
 
 
 
-## 后记
+
+## Afterword
+
+
 
 2024年4月19日19点46分完成这篇演讲的学习。

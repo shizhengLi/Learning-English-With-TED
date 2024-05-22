@@ -46,6 +46,18 @@ the looming challenges：迫在眉睫的挑战
 
 
 
+## Summary
+
+
+
+In his speech, Bill Gates brings attention to the importance of state budgets, despite the topic often being perceived as boring. He emphasizes the significant impact state budgets have on education funding, which is crucial for the future success of children. Gates highlights the concerning state of many state budgets, revealing a large deficit and problematic financial practices that obscure the true financial challenges facing states. He stresses the need for increased scrutiny and understanding of state budgets to address long-term liabilities and ensure adequate funding for education.
+
+Gates delves into the complexities of state budgets, pointing out the discrepancy between spending and revenue, which has led to substantial deficits. He uses California as an example to illustrate how budgetary tricks and unsustainable practices have contributed to financial crises. He emphasizes the systemic nature of the problem, affecting not only California but also numerous other states across the country. Gates highlights the looming challenges posed by growing healthcare costs and pension liabilities, which threaten to undermine education spending and investment in the future generation.
+
+In conclusion, Gates calls for greater transparency, accountability, and informed decision-making regarding state budgets. He stresses the need for better tools, such as improved accounting methods and accessible information, to enable citizens and policymakers to understand and address the financial challenges effectively. Gates emphasizes that investing in education is essential for the nation's prosperity and urges collective action to ensure adequate funding for education and address the pressing issues facing state budgets.
+
+
+
 ## Transcript
 
 
@@ -548,19 +560,13 @@ Thank you.
 
 
 
-## Summary
 
 
 
-In his speech, Bill Gates brings attention to the importance of state budgets, despite the topic often being perceived as boring. He emphasizes the significant impact state budgets have on education funding, which is crucial for the future success of children. Gates highlights the concerning state of many state budgets, revealing a large deficit and problematic financial practices that obscure the true financial challenges facing states. He stresses the need for increased scrutiny and understanding of state budgets to address long-term liabilities and ensure adequate funding for education.
 
-Gates delves into the complexities of state budgets, pointing out the discrepancy between spending and revenue, which has led to substantial deficits. He uses California as an example to illustrate how budgetary tricks and unsustainable practices have contributed to financial crises. He emphasizes the systemic nature of the problem, affecting not only California but also numerous other states across the country. Gates highlights the looming challenges posed by growing healthcare costs and pension liabilities, which threaten to undermine education spending and investment in the future generation.
-
-In conclusion, Gates calls for greater transparency, accountability, and informed decision-making regarding state budgets. He stresses the need for better tools, such as improved accounting methods and accessible information, to enable citizens and policymakers to understand and address the financial challenges effectively. Gates emphasizes that investing in education is essential for the nation's prosperity and urges collective action to ensure adequate funding for education and address the pressing issues facing state budgets.
+## Afterword
 
 
-
-## 后记
 
 
 

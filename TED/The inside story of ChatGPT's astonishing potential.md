@@ -78,6 +78,42 @@ And if there's one thing to take away from this talk, it's that this technology 
 
 
 
+## Summary
+
+
+
+关于演讲：
+
+The speaker began by reflecting on OpenAI's founding seven years ago, driven by a desire to positively influence the rapidly evolving field of AI. They expressed amazement at the progress made since then and highlighted the diverse reactions from users, ranging from excitement to concern. Despite these varied responses, the speaker expressed confidence in humanity's ability to responsibly manage AI's impact. They showcased the new DALL-E model and demonstrated how ChatGPT can use it to generate detailed images based on text prompts, illustrating the power of AI as a creative tool.
+
+Next, the speaker delved into the underlying principles of how OpenAI trains its AI models, drawing parallels to Alan Turing's concept of teaching machines through feedback. They explained the two-step process: first, training the AI with unsupervised learning on vast amounts of data, and second, refining its responses through human feedback. This approach allows the AI to generalize and infer intent in novel scenarios. The speaker highlighted the importance of feedback in improving the AI's capabilities, citing examples such as teaching it to double-check math in educational settings.
+
+The speaker then demonstrated how ChatGPT can be used for data analysis, showcasing its ability to interpret and visualize data from a CSV file. They emphasized the AI's role as a collaborative tool, able to generate insightful graphs and analyses based on high-level instructions. This highlighted a vision of AI as a partner in problem-solving, where humans provide guidance and oversight while the AI performs tasks that would be tedious or time-consuming for humans. Overall, the speaker emphasized the need for AI literacy and collaboration between humans and AI to ensure AI's benefits for humanity.
+
+
+
+关于两个人对话：
+
+Chris Anderson expresses awe and a sense of urgency, suggesting that many viewers are likely feeling the need to completely rethink their work methods after seeing the technology presented. He praises OpenAI's accomplishments but also voices a common concern: the technology is both amazing and frightening. He questions how OpenAI, with fewer resources than tech giants like Google, has achieved such groundbreaking technology.
+
+Greg Brockman attributes OpenAI's success to building on existing advancements and making deliberate choices. He emphasizes the importance of teamwork and diversity in achieving their goals. He recounts a key moment when a model unexpectedly produced a sentiment analysis classifier, showcasing the technology's emergent capabilities. He also discusses the responsible approach of incrementally releasing the technology and actively seeking feedback.
+
+Both speakers discuss the concept of emergence, where complex capabilities arise from simple rules or processes. They also address concerns about the risks associated with developing such powerful technology and stress the importance of responsible deployment and ongoing oversight. Overall, they advocate for a collaborative approach to AI development, with the goal of ensuring that AI benefits humanity.
+
+
+
+克里斯·安德森表达了敬畏和紧迫感，他暗示许多观众在看到所展示的技术后可能感到有必要彻底重新思考他们的工作方法。他赞扬了OpenAI的成就，但也表达了一种普遍的担忧：这项技术既令人惊叹又令人恐惧。他提出疑问，OpenAI是如何在资源比谷歌等科技巨头少的情况下取得如此突破性的技术。
+
+格雷格·布洛克曼将OpenAI的成功归因于在现有进展基础上的建设和做出的深思熟虑的选择。他强调团队合作和多样性在实现目标上的重要性。他回顾了一个关键时刻，当一个模型意外地生成了一个情感分析分类器，展示了技术的新兴能力。他还讨论了分阶段释放技术并积极寻求反馈的负责任方法。
+
+两位演讲者都讨论了新兴性的概念，即复杂的能力是由简单的规则或过程产生的。他们还讨论了与开发如此强大技术相关的风险，并强调了负责任地部署和持续监督的重要性。总体而言，他们主张以合作的方式发展人工智能，目标是确保人工智能造福人类。
+
+
+
+Comments and summary from glasp: [https://blog.glasp.co/the-inside-story-of-chatgpts-astonishing-potential-greg-brockman-ted/](https://blog.glasp.co/the-inside-story-of-chatgpts-astonishing-potential-greg-brockman-ted/)
+
+
+
 ## Transcript
 
 
@@ -1784,41 +1820,11 @@ for coming to TED and blowing our minds.
 
 (Applause)
 
-## Summary
 
 
-
-关于演讲：
-
-The speaker began by reflecting on OpenAI's founding seven years ago, driven by a desire to positively influence the rapidly evolving field of AI. They expressed amazement at the progress made since then and highlighted the diverse reactions from users, ranging from excitement to concern. Despite these varied responses, the speaker expressed confidence in humanity's ability to responsibly manage AI's impact. They showcased the new DALL-E model and demonstrated how ChatGPT can use it to generate detailed images based on text prompts, illustrating the power of AI as a creative tool.
-
-Next, the speaker delved into the underlying principles of how OpenAI trains its AI models, drawing parallels to Alan Turing's concept of teaching machines through feedback. They explained the two-step process: first, training the AI with unsupervised learning on vast amounts of data, and second, refining its responses through human feedback. This approach allows the AI to generalize and infer intent in novel scenarios. The speaker highlighted the importance of feedback in improving the AI's capabilities, citing examples such as teaching it to double-check math in educational settings.
-
-The speaker then demonstrated how ChatGPT can be used for data analysis, showcasing its ability to interpret and visualize data from a CSV file. They emphasized the AI's role as a collaborative tool, able to generate insightful graphs and analyses based on high-level instructions. This highlighted a vision of AI as a partner in problem-solving, where humans provide guidance and oversight while the AI performs tasks that would be tedious or time-consuming for humans. Overall, the speaker emphasized the need for AI literacy and collaboration between humans and AI to ensure AI's benefits for humanity.
+## Afterword
 
 
-
-关于两个人对话：
-
-Chris Anderson expresses awe and a sense of urgency, suggesting that many viewers are likely feeling the need to completely rethink their work methods after seeing the technology presented. He praises OpenAI's accomplishments but also voices a common concern: the technology is both amazing and frightening. He questions how OpenAI, with fewer resources than tech giants like Google, has achieved such groundbreaking technology.
-
-Greg Brockman attributes OpenAI's success to building on existing advancements and making deliberate choices. He emphasizes the importance of teamwork and diversity in achieving their goals. He recounts a key moment when a model unexpectedly produced a sentiment analysis classifier, showcasing the technology's emergent capabilities. He also discusses the responsible approach of incrementally releasing the technology and actively seeking feedback.
-
-Both speakers discuss the concept of emergence, where complex capabilities arise from simple rules or processes. They also address concerns about the risks associated with developing such powerful technology and stress the importance of responsible deployment and ongoing oversight. Overall, they advocate for a collaborative approach to AI development, with the goal of ensuring that AI benefits humanity.
-
-
-
-克里斯·安德森表达了敬畏和紧迫感，他暗示许多观众在看到所展示的技术后可能感到有必要彻底重新思考他们的工作方法。他赞扬了OpenAI的成就，但也表达了一种普遍的担忧：这项技术既令人惊叹又令人恐惧。他提出疑问，OpenAI是如何在资源比谷歌等科技巨头少的情况下取得如此突破性的技术。
-
-格雷格·布洛克曼将OpenAI的成功归因于在现有进展基础上的建设和做出的深思熟虑的选择。他强调团队合作和多样性在实现目标上的重要性。他回顾了一个关键时刻，当一个模型意外地生成了一个情感分析分类器，展示了技术的新兴能力。他还讨论了分阶段释放技术并积极寻求反馈的负责任方法。
-
-两位演讲者都讨论了新兴性的概念，即复杂的能力是由简单的规则或过程产生的。他们还讨论了与开发如此强大技术相关的风险，并强调了负责任地部署和持续监督的重要性。总体而言，他们主张以合作的方式发展人工智能，目标是确保人工智能造福人类。
-
-
-
-Comments and summary from glasp: [https://blog.glasp.co/the-inside-story-of-chatgpts-astonishing-potential-greg-brockman-ted/](https://blog.glasp.co/the-inside-story-of-chatgpts-astonishing-potential-greg-brockman-ted/)
-
-## 后记
 
 2024年4月11日15点35分于上海。
 

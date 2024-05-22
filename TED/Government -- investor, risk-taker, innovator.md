@@ -92,6 +92,22 @@ nationalistic：英 [ˌnæʃnəˈlɪstɪk] 民族主义的；
 
 Globalization, and that's fine. We shouldn't be nationalistic
 
+
+
+## Summary
+
+
+
+Mariana Mazzucato, an economist, explores the dynamics behind innovation and economic growth, focusing on why innovative companies like Apple, Google, and Facebook predominantly emerge from the United States. She emphasizes the curiosity among policymakers worldwide about the absence of similar groundbreaking companies in Europe. Mazzucato challenges the conventional narrative that attributes innovative success solely to the private sector, highlighting the significant role played by the state in shaping markets, funding research, and taking on high-risk ventures.
+
+Mazzucato critically examines the dichotomy between the private sector's perceived dynamism and the state's perceived bureaucratic constraints. She argues that while the private sector is often credited with out-of-the-box thinking and risk-taking, the state has historically been instrumental in funding groundbreaking innovations. Using examples like the Internet, GPS, and touchscreen display, she demonstrates how government funding and strategic vision have been crucial in driving technological advancements and shaping entire industries.
+
+In conclusion, Mazzucato advocates for a reevaluation of the state's role in innovation and value creation, challenging the notion that its contributions should be limited to fixing market failures. She suggests that by acknowledging the state's role as a market shaper and risk-taker, policymakers can develop more effective public-private partnerships and mechanisms for capturing returns on public investments. Ultimately, she envisions a future where innovation-led growth is not only smart and green but also more inclusive, benefiting public services and communities as a whole.
+
+
+
+
+
 ## Transcript
 
 
@@ -768,19 +784,11 @@ Thank you.
 
 
 
-## Summary
 
 
-
-Mariana Mazzucato, an economist, explores the dynamics behind innovation and economic growth, focusing on why innovative companies like Apple, Google, and Facebook predominantly emerge from the United States. She emphasizes the curiosity among policymakers worldwide about the absence of similar groundbreaking companies in Europe. Mazzucato challenges the conventional narrative that attributes innovative success solely to the private sector, highlighting the significant role played by the state in shaping markets, funding research, and taking on high-risk ventures.
-
-Mazzucato critically examines the dichotomy between the private sector's perceived dynamism and the state's perceived bureaucratic constraints. She argues that while the private sector is often credited with out-of-the-box thinking and risk-taking, the state has historically been instrumental in funding groundbreaking innovations. Using examples like the Internet, GPS, and touchscreen display, she demonstrates how government funding and strategic vision have been crucial in driving technological advancements and shaping entire industries.
-
-In conclusion, Mazzucato advocates for a reevaluation of the state's role in innovation and value creation, challenging the notion that its contributions should be limited to fixing market failures. She suggests that by acknowledging the state's role as a market shaper and risk-taker, policymakers can develop more effective public-private partnerships and mechanisms for capturing returns on public investments. Ultimately, she envisions a future where innovation-led growth is not only smart and green but also more inclusive, benefiting public services and communities as a whole.
+## Afterword
 
 
-
-## 后记
 
 2024年5月10日18点55分于上海。
 

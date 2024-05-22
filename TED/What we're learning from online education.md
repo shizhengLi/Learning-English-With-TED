@@ -46,6 +46,20 @@ testimonial：美 [ˌtɛstəˈmoʊniəl] 证明书；介绍信；推荐信；
 
 curriculum：美 [kəˈrɪkjələm] 课程；教学大纲；课程设置；
 
+
+
+## Summary
+
+In Daphne Koller's speech, she addresses the pressing challenges facing education globally, highlighting disparities in access and affordability. She vividly illustrates the struggles faced by individuals in South Africa and the escalating costs of higher education in the United States. These obstacles underscore the urgent need for innovative solutions to make quality education accessible to all, regardless of socio-economic status or geographic location.
+
+Koller then introduces Coursera as a transformative initiative aimed at democratizing education. Through Coursera's online platform, she explains how top-quality courses from leading universities are made available to millions of learners worldwide for free. The platform's structured approach, including real deadlines, graded assignments, and interactive content, fosters engagement and ensures meaningful learning experiences. Koller emphasizes the profound impact of Coursera, citing compelling stories of individuals whose lives have been transformed through access to education.
+
+Finally, Koller envisions a future where education is a fundamental human right and lifelong learning is accessible to everyone. She advocates for active learning approaches in universities, emphasizing the importance of igniting students' creativity and problem-solving skills. By leveraging technology and fostering global collaboration, Koller believes that education can empower individuals, drive innovation, and create positive change on a global scale.
+
+
+
+
+
 ## Transcript
 
 Like many of you, I'm one of the lucky people.
@@ -970,17 +984,11 @@ Thank you very much.
 
 
 
-## Summary
-
-In Daphne Koller's speech, she addresses the pressing challenges facing education globally, highlighting disparities in access and affordability. She vividly illustrates the struggles faced by individuals in South Africa and the escalating costs of higher education in the United States. These obstacles underscore the urgent need for innovative solutions to make quality education accessible to all, regardless of socio-economic status or geographic location.
-
-Koller then introduces Coursera as a transformative initiative aimed at democratizing education. Through Coursera's online platform, she explains how top-quality courses from leading universities are made available to millions of learners worldwide for free. The platform's structured approach, including real deadlines, graded assignments, and interactive content, fosters engagement and ensures meaningful learning experiences. Koller emphasizes the profound impact of Coursera, citing compelling stories of individuals whose lives have been transformed through access to education.
-
-Finally, Koller envisions a future where education is a fundamental human right and lifelong learning is accessible to everyone. She advocates for active learning approaches in universities, emphasizing the importance of igniting students' creativity and problem-solving skills. By leveraging technology and fostering global collaboration, Koller believes that education can empower individuals, drive innovation, and create positive change on a global scale.
 
 
+## Afterword
 
-## 后记
+
 
 
 

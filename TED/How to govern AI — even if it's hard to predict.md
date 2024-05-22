@@ -110,6 +110,22 @@ arena：美 [əˈriːnə]场地；活动场所；辩论场所
 
 and then we can get in the arena and push for futures we actually want. 然后我们可以进入场地，推动我们真正想要的未来。
 
+
+
+## Summary
+
+
+
+In Helen Toner's speech, she discusses the challenges surrounding understanding and governing artificial intelligence (AI). Non-experts often express confusion about AI, while even experts admit to limited understanding. Toner highlights the importance of grasping AI's inner workings to anticipate its future capabilities. She emphasizes the need for proactive governance despite the complexity of AI technology.
+
+Toner delves into the difficulty in defining intelligence, a crucial aspect in AI development. The absence of consensus among experts complicates predicting AI's trajectory. Traditional distinctions between narrow and general AI are blurred by advancements like ChatGPT. Toner stresses the necessity of agreement on AI's purpose to inform regulatory efforts effectively.
+
+Despite AI's opacity, Toner encourages engagement rather than intimidation. She advocates for transparent research and inclusive policymaking to address AI's risks and potentials. Toner proposes measures such as improved measurement standards, mandatory disclosure from AI companies, and incident reporting mechanisms. These efforts aim to foster adaptability and provide a clearer view of AI's development path.
+
+In conclusion, Toner urges active participation in shaping AI's future. She emphasizes the importance of informed governance to steer AI's progress responsibly. By promoting transparency, accountability, and public involvement, Toner advocates for a collective effort in navigating the complexities of AI technology.
+
+
+
 ## Transcript
 
 
@@ -659,21 +675,13 @@ Thank you.
 
 
 
-## Summary
 
 
 
-In Helen Toner's speech, she discusses the challenges surrounding understanding and governing artificial intelligence (AI). Non-experts often express confusion about AI, while even experts admit to limited understanding. Toner highlights the importance of grasping AI's inner workings to anticipate its future capabilities. She emphasizes the need for proactive governance despite the complexity of AI technology.
 
-Toner delves into the difficulty in defining intelligence, a crucial aspect in AI development. The absence of consensus among experts complicates predicting AI's trajectory. Traditional distinctions between narrow and general AI are blurred by advancements like ChatGPT. Toner stresses the necessity of agreement on AI's purpose to inform regulatory efforts effectively.
-
-Despite AI's opacity, Toner encourages engagement rather than intimidation. She advocates for transparent research and inclusive policymaking to address AI's risks and potentials. Toner proposes measures such as improved measurement standards, mandatory disclosure from AI companies, and incident reporting mechanisms. These efforts aim to foster adaptability and provide a clearer view of AI's development path.
-
-In conclusion, Toner urges active participation in shaping AI's future. She emphasizes the importance of informed governance to steer AI's progress responsibly. By promoting transparency, accountability, and public involvement, Toner advocates for a collective effort in navigating the complexities of AI technology.
+## Afterword
 
 
-
-## 后记
 
 
 

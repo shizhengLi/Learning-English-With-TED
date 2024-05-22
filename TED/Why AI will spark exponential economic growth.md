@@ -115,6 +115,14 @@ Many people ask me, we have a lot of doubters out there, which I think you proba
 
 
 
+## Summary
+
+The speaker highlights a unique moment in technological advancement, with five innovation platforms evolving simultaneously, including AI, robotics, energy storage, blockchain, and multiomic sequencing. These platforms are expected to drive exponential growth and productivity, leading to significant economic transformation. The speaker discusses how AI is reducing training costs and enabling generative AI, leading to unprecedented growth opportunities. One example cited is autonomous taxi platforms, which could generate trillions in revenue. The convergence of these platforms is expected to accelerate GDP growth, potentially reaching six to nine percent globally. Despite current concerns about inflation, the speaker believes we are heading into a deflationary period. The transformative power of these technologies is likened to the early days of the internet, with the potential for disruptive innovation across various industries. The speaker emphasizes the importance of embracing change and focusing on long-term opportunities amidst uncertainty.
+
+
+
+
+
 ## Transcript
 
  
@@ -709,10 +717,6 @@ Thank you.
 (Applause)
 
 
-
-## Summary
-
-The speaker highlights a unique moment in technological advancement, with five innovation platforms evolving simultaneously, including AI, robotics, energy storage, blockchain, and multiomic sequencing. These platforms are expected to drive exponential growth and productivity, leading to significant economic transformation. The speaker discusses how AI is reducing training costs and enabling generative AI, leading to unprecedented growth opportunities. One example cited is autonomous taxi platforms, which could generate trillions in revenue. The convergence of these platforms is expected to accelerate GDP growth, potentially reaching six to nine percent globally. Despite current concerns about inflation, the speaker believes we are heading into a deflationary period. The transformative power of these technologies is likened to the early days of the internet, with the potential for disruptive innovation across various industries. The speaker emphasizes the importance of embracing change and focusing on long-term opportunities amidst uncertainty.
 
 
 

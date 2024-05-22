@@ -126,6 +126,20 @@ base voter
 
 >"base voter" 指的是某政党中最忠诚、最核心的选民群体，他们通常对该政党持有强烈的政治立场和支持态度。这些选民往往是党内最活跃、最投入的成员，他们对于党派的政治议程和价值观持有高度认同，并在选举中坚定地支持自己所属的政党候选人。在美国政治中，共和党的基础选民通常包括保守派、基督教右翼和乡村居民，而民主党的基础选民则通常包括少数族裔、女性、年轻人和城市居民。
 
+
+
+## Summary
+
+
+
+Andrew Yang's speech highlights the fundamental flaws within American politics and proposes a solution to address these issues. He begins by illustrating the broken incentives that drive political behavior, emphasizing the disconnect between low congressional approval ratings and high re-election rates for incumbents. Yang argues that the primary system, dominated by a small, ideologically extreme voter base, pushes politicians toward partisan extremes, hindering meaningful progress on critical issues like immigration, climate change, and poverty.
+
+Next, Yang introduces a potential solution based on Alaska's recent electoral reforms, which replace traditional partisan primaries with a single primary open to all candidates, followed by ranked-choice voting in the general election. He describes how this new system promotes moderation and compromise by allowing voters to support candidates across party lines. Yang points out the success of Alaska's reforms in producing more representative outcomes, as evidenced by the defeat of polarizing figures like Sarah Palin and the re-election of Senator Lisa Murkowski despite her unpopular impeachment vote.
+
+In the final segment of his speech, Yang emphasizes the cost-effectiveness and scalability of implementing similar reforms in other states, with the potential to reshape American politics for the better. He urges the audience to support political change by advocating for electoral reform initiatives, highlighting the opportunity to realign incentives, reduce polarization, and promote cooperation in government. Yang concludes by encouraging people to join the movement for political reform, envisioning a future where government works more effectively to address the challenges of the modern era and build a brighter future for all citizens.
+
+
+
 ## Transcript
 
 
@@ -732,19 +746,13 @@ Thank you all.
 
 
 
-## Summary
 
 
 
-Andrew Yang's speech highlights the fundamental flaws within American politics and proposes a solution to address these issues. He begins by illustrating the broken incentives that drive political behavior, emphasizing the disconnect between low congressional approval ratings and high re-election rates for incumbents. Yang argues that the primary system, dominated by a small, ideologically extreme voter base, pushes politicians toward partisan extremes, hindering meaningful progress on critical issues like immigration, climate change, and poverty.
 
-Next, Yang introduces a potential solution based on Alaska's recent electoral reforms, which replace traditional partisan primaries with a single primary open to all candidates, followed by ranked-choice voting in the general election. He describes how this new system promotes moderation and compromise by allowing voters to support candidates across party lines. Yang points out the success of Alaska's reforms in producing more representative outcomes, as evidenced by the defeat of polarizing figures like Sarah Palin and the re-election of Senator Lisa Murkowski despite her unpopular impeachment vote.
-
-In the final segment of his speech, Yang emphasizes the cost-effectiveness and scalability of implementing similar reforms in other states, with the potential to reshape American politics for the better. He urges the audience to support political change by advocating for electoral reform initiatives, highlighting the opportunity to realign incentives, reduce polarization, and promote cooperation in government. Yang concludes by encouraging people to join the movement for political reform, envisioning a future where government works more effectively to address the challenges of the modern era and build a brighter future for all citizens.
+## Afterword
 
 
-
-## 后记
 
 2024年5月11日16点40分于上海。
 

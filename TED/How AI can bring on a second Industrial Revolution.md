@@ -90,6 +90,38 @@ So everything that we had electrified, we're now going to cognify：所以我们
 
 medical diagnostician：美 [ˌdaɪəgnɑs'tɪʃən]  诊断医生
 
+## Summary
+
+
+
+Kevin Kelly's talk focused on the predictable nature of technological progress, driven by the inherent tendencies in technological systems. He likened these tendencies to gravity, guiding technological advancements along recurring patterns. Kelly emphasized the increasing intelligence of technology, known as "cognification" or artificial intelligence (AI), as a significant trend shaping society. He highlighted AI's current applications in various fields and its potential to become smarter through learning.
+
+Furthermore, Kelly discussed the multidimensional nature of intelligence, stating that human intelligence consists of various types of intelligences, which will also be reflected in AI. He envisioned a future where AI is integrated into everyday tasks, leading to a new Industrial Revolution. This integration will redefine jobs, creating new roles and tasks for humans to work alongside AI.
+
+In conclusion, Kelly emphasized the importance of embracing AI and working alongside it, as it will fundamentally change how we work and live. He suggested that we are only at the beginning of understanding AI, and the most popular AI products of the future have yet to be invented.
+
+
+
+凯文·凯利介绍的被低估的三个趋势是：
+
+1. **智能多元化**：人类的智能并非单一维度的，而是像交响乐般由不同音符组成，每个音符在认知的不同仪器上演奏。我们的思维中有许多种智能，如演绎推理、情感智能、空间智能等，它们可能有100种不同类型，这些类型在不同人群中的强度也不同。
+2. **AI驱动的第二次工业革命**：与第一次工业革命类似，AI将成为人类的人工动力，通过将AI分布在网格上，将人工智能添加到各种设备中，使其变得智能化。这将带来新的创新和就业机会，类似于电气化带来的影响。
+3. **与AI合作**：未来人们将与AI合作，因为AI的思维方式与我们不同。最好的国际象棋冠军不是AI，也不是人类，而是人类和AI的团队。我们将与这些AI合作，未来的报酬将取决于与这些机器人合作的程度。
+
+
+
+Kevin Kelly introduced three underestimated trends:
+
+1. **Diversification of Intelligence**: Human intelligence is not a single-dimensional thing, but rather like a symphony of different notes, each played on a different instrument of cognition. There are many types of intelligences in our own minds. We have deductive reasoning, emotional intelligence, spatial intelligence; we have maybe 100 different types that are all grouped together, and they vary in different strengths with different people.
+
+2. **AI-Driven Second Industrial Revolution**: Similar to the first Industrial Revolution, AI will become humankind's artificial power, by distributing AI on a grid and adding AI to various devices, making them intelligent. This will bring new innovations and job opportunities, similar to the impact of electrification.
+
+3. **Collaborating with AI**: In the future, people will collaborate with AI because their way of thinking is different. The best chess champion is not AI or a human, but a team of a human and an AI. We will work with these AIs, and future compensation will depend on how well we work with these robots.
+
+
+
+
+
 ## Transcript
 
 
@@ -796,40 +828,14 @@ Thank you.
 
 
 
-## Summary
-
-
-
-Kevin Kelly's talk focused on the predictable nature of technological progress, driven by the inherent tendencies in technological systems. He likened these tendencies to gravity, guiding technological advancements along recurring patterns. Kelly emphasized the increasing intelligence of technology, known as "cognification" or artificial intelligence (AI), as a significant trend shaping society. He highlighted AI's current applications in various fields and its potential to become smarter through learning.
-
-Furthermore, Kelly discussed the multidimensional nature of intelligence, stating that human intelligence consists of various types of intelligences, which will also be reflected in AI. He envisioned a future where AI is integrated into everyday tasks, leading to a new Industrial Revolution. This integration will redefine jobs, creating new roles and tasks for humans to work alongside AI.
-
-In conclusion, Kelly emphasized the importance of embracing AI and working alongside it, as it will fundamentally change how we work and live. He suggested that we are only at the beginning of understanding AI, and the most popular AI products of the future have yet to be invented.
-
-
-
-凯文·凯利介绍的被低估的三个趋势是：
-
-1. **智能多元化**：人类的智能并非单一维度的，而是像交响乐般由不同音符组成，每个音符在认知的不同仪器上演奏。我们的思维中有许多种智能，如演绎推理、情感智能、空间智能等，它们可能有100种不同类型，这些类型在不同人群中的强度也不同。
-2. **AI驱动的第二次工业革命**：与第一次工业革命类似，AI将成为人类的人工动力，通过将AI分布在网格上，将人工智能添加到各种设备中，使其变得智能化。这将带来新的创新和就业机会，类似于电气化带来的影响。
-3. **与AI合作**：未来人们将与AI合作，因为AI的思维方式与我们不同。最好的国际象棋冠军不是AI，也不是人类，而是人类和AI的团队。我们将与这些AI合作，未来的报酬将取决于与这些机器人合作的程度。
-
-
-
-Kevin Kelly introduced three underestimated trends:
-
-1. **Diversification of Intelligence**: Human intelligence is not a single-dimensional thing, but rather like a symphony of different notes, each played on a different instrument of cognition. There are many types of intelligences in our own minds. We have deductive reasoning, emotional intelligence, spatial intelligence; we have maybe 100 different types that are all grouped together, and they vary in different strengths with different people.
-
-2. **AI-Driven Second Industrial Revolution**: Similar to the first Industrial Revolution, AI will become humankind's artificial power, by distributing AI on a grid and adding AI to various devices, making them intelligent. This will bring new innovations and job opportunities, similar to the impact of electrification.
-
-3. **Collaborating with AI**: In the future, people will collaborate with AI because their way of thinking is different. The best chess champion is not AI or a human, but a team of a human and an AI. We will work with these AIs, and future compensation will depend on how well we work with these robots.
 
 
 
 
 
 
+## Afterword
 
-## 后记
+
 
 2024年4月16日21点10分完成这篇演讲的学习与记录。

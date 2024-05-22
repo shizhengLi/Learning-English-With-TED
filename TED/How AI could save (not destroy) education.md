@@ -122,6 +122,22 @@ The phrase "we are going to fight like hell" is an expression indicating that **
 
 
 
+## Summary
+
+Sal Khan's speech outlines the potential of AI to revolutionize education positively. He addresses concerns about AI being used for cheating and undermining education, arguing that with proper guardrails and use, AI can become a powerful tool for personalized learning. Khan introduces the concept of the "2 sigma problem" from Benjamin Bloom's study and suggests that AI could provide personalized tutoring and assistance to every student and teacher worldwide, leading to significant educational transformation.
+
+Furthermore, Khan demonstrates how AI, exemplified by Khanmigo, can provide personalized tutoring, feedback, and coaching across various subjects, including mathematics, computer programming, literature, and writing. He emphasizes AI's ability to understand student misconceptions, engage in Socratic dialogue, and offer tailored support, thereby enhancing learning experiences and outcomes. Additionally, Khan highlights AI's potential to provide guidance counseling, debate practice, and writing collaboration, making education more accessible and effective for all learners.
+
+In conclusion, Khan discusses the broader implications of AI in education and society. He acknowledges both optimistic and pessimistic views of AI's impact but argues that active participation is essential in shaping its future. Khan warns against a self-fulfilling prophecy of fear-driven restrictions on AI, advocating instead for responsible regulation and promotion of positive use cases. Ultimately, he envisions AI as a tool to augment human intelligence, potential, and purpose, urging for concerted efforts to harness its benefits for the betterment of education and society.
+
+Sal Khan的演讲概述了人工智能在教育领域引发革命性变革的潜力。他解决了人工智能被用于作弊和破坏教育的担忧，认为通过适当的监管和使用，人工智能可以成为个性化学习的强大工具。Khan介绍了本杰明·布鲁姆研究中的“2 sigma问题”的概念，并提出人工智能可以为全球每个学生和教师提供个性化辅导和帮助，从而实现教育的重大转型。
+
+此外，Khan展示了人工智能（以Khanmigo为例）如何在各种学科领域提供个性化辅导、反馈和指导，包括数学、计算机编程、文学和写作。他强调了人工智能理解学生误解、进行苏格拉底式对话和提供定制支持的能力，从而增强学习体验和成果。此外，Khan还强调了人工智能提供辅导咨询、辩论实践和写作合作的潜力，使教育对所有学习者更具可访问性和效果。
+
+最后，Khan讨论了人工智能在教育和社会领域的更广泛影响。他承认了人工智能影响的乐观和悲观观点，但认为积极参与对塑造其未来至关重要。Khan警告称，基于恐惧的人工智能限制可能成为自我实现的预言，主张负责任的监管和促进积极使用案例。最终，他将人工智能视为增强人类智慧、潜力和目的的工具，并呼吁共同努力，将其益处用于教育和社会的改善。
+
+
+
 ## Transcript
 
 
@@ -1025,22 +1041,12 @@ Thank you.
 
 (Applause)
 
-## Summary
-
-Sal Khan's speech outlines the potential of AI to revolutionize education positively. He addresses concerns about AI being used for cheating and undermining education, arguing that with proper guardrails and use, AI can become a powerful tool for personalized learning. Khan introduces the concept of the "2 sigma problem" from Benjamin Bloom's study and suggests that AI could provide personalized tutoring and assistance to every student and teacher worldwide, leading to significant educational transformation.
-
-Furthermore, Khan demonstrates how AI, exemplified by Khanmigo, can provide personalized tutoring, feedback, and coaching across various subjects, including mathematics, computer programming, literature, and writing. He emphasizes AI's ability to understand student misconceptions, engage in Socratic dialogue, and offer tailored support, thereby enhancing learning experiences and outcomes. Additionally, Khan highlights AI's potential to provide guidance counseling, debate practice, and writing collaboration, making education more accessible and effective for all learners.
-
-In conclusion, Khan discusses the broader implications of AI in education and society. He acknowledges both optimistic and pessimistic views of AI's impact but argues that active participation is essential in shaping its future. Khan warns against a self-fulfilling prophecy of fear-driven restrictions on AI, advocating instead for responsible regulation and promotion of positive use cases. Ultimately, he envisions AI as a tool to augment human intelligence, potential, and purpose, urging for concerted efforts to harness its benefits for the betterment of education and society.
-
-Sal Khan的演讲概述了人工智能在教育领域引发革命性变革的潜力。他解决了人工智能被用于作弊和破坏教育的担忧，认为通过适当的监管和使用，人工智能可以成为个性化学习的强大工具。Khan介绍了本杰明·布鲁姆研究中的“2 sigma问题”的概念，并提出人工智能可以为全球每个学生和教师提供个性化辅导和帮助，从而实现教育的重大转型。
-
-此外，Khan展示了人工智能（以Khanmigo为例）如何在各种学科领域提供个性化辅导、反馈和指导，包括数学、计算机编程、文学和写作。他强调了人工智能理解学生误解、进行苏格拉底式对话和提供定制支持的能力，从而增强学习体验和成果。此外，Khan还强调了人工智能提供辅导咨询、辩论实践和写作合作的潜力，使教育对所有学习者更具可访问性和效果。
-
-最后，Khan讨论了人工智能在教育和社会领域的更广泛影响。他承认了人工智能影响的乐观和悲观观点，但认为积极参与对塑造其未来至关重要。Khan警告称，基于恐惧的人工智能限制可能成为自我实现的预言，主张负责任的监管和促进积极使用案例。最终，他将人工智能视为增强人类智慧、潜力和目的的工具，并呼吁共同努力，将其益处用于教育和社会的改善。
 
 
 
-## 后记
+
+## Afterword
+
+
 
 2024年4月20日18点53分完成这篇演讲的学习。

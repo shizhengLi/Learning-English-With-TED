@@ -82,6 +82,24 @@ in remission：病情缓解
 
 "Serendipity"的中文意思是“意外发现”或“意外收获”，指的是无意间发现或获得的令人愉快的事情。
 
+## Summary
+
+The speaker discusses the coexistence of AI and mankind, emphasizing the need to rethink human values. He shares a personal story about prioritizing work over family, highlighting the importance of love and relationships. He then discusses the evolution of AI, particularly the impact of deep learning, and the differences in AI development between the US and China.
+
+He explains that while the US leads in AI discovery, China excels in implementation, driven by a competitive environment. Chinese products like WeChat and Weibo are considered superior to their American counterparts. The Chinese market's size and rapid technological advancements, like mobile payments, contribute to this success.
+
+The speaker reflects on his battle with cancer, which led him to reassess his priorities and recognize the importance of love over work. He proposes that as AI takes over routine jobs, humans should focus on jobs of compassion, such as social work and caregiving. He believes that AI's role is to liberate humans from mundane tasks and remind us of what makes us human: compassion and creativity.
+
+
+
+演讲者探讨了人工智能（AI）与人类的共存，并强调了重新思考人类价值观的必要性。他分享了一个关于将工作置于家庭之上的个人故事，强调了爱和人际关系的重要性。然后，他讨论了AI的发展，特别是深度学习的影响，以及美国和中国在AI发展中的差异。
+
+他解释说，虽然美国在AI发现方面领先，但中国在实施方面表现出色，这得益于竞争激烈的环境。中国的产品，如微信和微博，被认为优于美国的同类产品。中国市场的规模和快速的技术进步，如移动支付，促进了这一成功。
+
+演讲者反思了自己与癌症的斗争，这使他重新评估了自己的优先事项，并意识到爱胜过工作的重要性。他提出，随着AI接管例行工作，人类应该专注于具有同情心的工作，如社会工作和护理工作。他认为，AI的作用是解放人类脱离单调任务，并提醒我们人类的本质：同情心和创造力。
+
+
+
 ## Transcript
 
 
@@ -742,25 +760,13 @@ Thank you.
 
 
 
-## Summary
-
-The speaker discusses the coexistence of AI and mankind, emphasizing the need to rethink human values. He shares a personal story about prioritizing work over family, highlighting the importance of love and relationships. He then discusses the evolution of AI, particularly the impact of deep learning, and the differences in AI development between the US and China.
-
-He explains that while the US leads in AI discovery, China excels in implementation, driven by a competitive environment. Chinese products like WeChat and Weibo are considered superior to their American counterparts. The Chinese market's size and rapid technological advancements, like mobile payments, contribute to this success.
-
-The speaker reflects on his battle with cancer, which led him to reassess his priorities and recognize the importance of love over work. He proposes that as AI takes over routine jobs, humans should focus on jobs of compassion, such as social work and caregiving. He believes that AI's role is to liberate humans from mundane tasks and remind us of what makes us human: compassion and creativity.
 
 
 
-演讲者探讨了人工智能（AI）与人类的共存，并强调了重新思考人类价值观的必要性。他分享了一个关于将工作置于家庭之上的个人故事，强调了爱和人际关系的重要性。然后，他讨论了AI的发展，特别是深度学习的影响，以及美国和中国在AI发展中的差异。
 
-他解释说，虽然美国在AI发现方面领先，但中国在实施方面表现出色，这得益于竞争激烈的环境。中国的产品，如微信和微博，被认为优于美国的同类产品。中国市场的规模和快速的技术进步，如移动支付，促进了这一成功。
-
-演讲者反思了自己与癌症的斗争，这使他重新评估了自己的优先事项，并意识到爱胜过工作的重要性。他提出，随着AI接管例行工作，人类应该专注于具有同情心的工作，如社会工作和护理工作。他认为，AI的作用是解放人类脱离单调任务，并提醒我们人类的本质：同情心和创造力。
+## Afterword
 
 
-
-## 后记
 
 2024年4月19日18点24分完成这篇演讲的学习。
 

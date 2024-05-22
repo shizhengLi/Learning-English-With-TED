@@ -98,6 +98,20 @@ sukiyaki：美 [ˌsukiˈjɑki] 寿喜烧
 
 Japanese sukiyaki meal
 
+
+
+## Summary
+
+
+
+In her speech, Fei-Fei Li explores the transformative journey of visual intelligence, starting from the primordial times when the world was shrouded in darkness not due to the absence of light, but the absence of sight. She describes how the emergence of trilobites, the first organisms capable of sensing light, marked a significant evolutionary milestone, leading to the Cambrian explosion and the development of intelligence through the ability to see, understand, and act. This foundational process parallels the progress in computer vision and artificial intelligence, which began with neural networks, GPUs, and big data, culminating in the creation of algorithms capable of not only labeling images but also understanding dynamic relationships and generating new visual content.
+
+Li then discusses the advancements in AI, emphasizing the need for spatial intelligence that combines seeing with doing. She illustrates the progress with examples such as algorithms translating 2D images into 3D spaces, and robotic arms performing tasks based on verbal instructions. These advancements highlight the importance of integrating perception with action, akin to human spatial intelligence. She underscores that this capability is essential for the next phase of AI development, which aims to create machines that can learn and act in the 3D world, similar to how biological intelligence evolved through interactions with the environment.
+
+Finally, Li envisions a future where AI, endowed with spatial intelligence, becomes an indispensable partner in various fields, particularly in healthcare. She describes ongoing projects where AI helps monitor and assist medical staff, improving patient outcomes and reducing burnout. Looking ahead, she imagines autonomous robots and augmented reality enhancing medical procedures and aiding patients with severe paralysis. Li concludes with a call for responsible development of AI technologies, emphasizing the potential for these digital companions to enhance human productivity and well-being while maintaining dignity and collective prosperity.
+
+
+
 ## Transcript
 
 Let me show you something.
@@ -706,19 +720,13 @@ Thank you.
 
 (Applause)
 
-## Summary
 
 
 
-In her speech, Fei-Fei Li explores the transformative journey of visual intelligence, starting from the primordial times when the world was shrouded in darkness not due to the absence of light, but the absence of sight. She describes how the emergence of trilobites, the first organisms capable of sensing light, marked a significant evolutionary milestone, leading to the Cambrian explosion and the development of intelligence through the ability to see, understand, and act. This foundational process parallels the progress in computer vision and artificial intelligence, which began with neural networks, GPUs, and big data, culminating in the creation of algorithms capable of not only labeling images but also understanding dynamic relationships and generating new visual content.
 
-Li then discusses the advancements in AI, emphasizing the need for spatial intelligence that combines seeing with doing. She illustrates the progress with examples such as algorithms translating 2D images into 3D spaces, and robotic arms performing tasks based on verbal instructions. These advancements highlight the importance of integrating perception with action, akin to human spatial intelligence. She underscores that this capability is essential for the next phase of AI development, which aims to create machines that can learn and act in the 3D world, similar to how biological intelligence evolved through interactions with the environment.
-
-Finally, Li envisions a future where AI, endowed with spatial intelligence, becomes an indispensable partner in various fields, particularly in healthcare. She describes ongoing projects where AI helps monitor and assist medical staff, improving patient outcomes and reducing burnout. Looking ahead, she imagines autonomous robots and augmented reality enhancing medical procedures and aiding patients with severe paralysis. Li concludes with a call for responsible development of AI technologies, emphasizing the potential for these digital companions to enhance human productivity and well-being while maintaining dignity and collective prosperity.
+## Afterword
 
 
-
-## 后记
 
 2024年5月17日于上海。
 

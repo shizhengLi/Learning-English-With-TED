@@ -98,6 +98,22 @@ delve into：钻研；深究；深入钻研
 
 empowerment： 授权，许可
 
+
+
+## Summary
+
+
+
+Neha Narula's speech explores the evolution and implications of digital currency, particularly focusing on cryptocurrencies like Bitcoin. She begins by illustrating the concept of money through historical examples, such as the Rai stones of the Yap culture, to underscore the collective agreement that underpins the value of currency. Narula highlights the transition from physical to digital money, emphasizing its potential to transcend geographical boundaries and intermediaries.
+
+In the second part of her speech, Narula delves into the mechanics of cryptocurrencies, explaining how they leverage cryptography and decentralized networks to facilitate secure transactions. She demystifies the process of mining, where computers solve cryptographic puzzles to validate transactions and earn new bitcoins. Narula draws parallels between cryptocurrencies and traditional currencies, illustrating their potential to disrupt existing financial systems and enable permission-less innovation.
+
+In the final segment, Narula explores the transformative potential of programmable money, envisioning a future where transactions are seamless, secure, and accessible to all. She discusses the broader implications of programmable money, including its impact on data privacy, surveillance, and economic empowerment. Narula acknowledges the challenges and trade-offs associated with digital currencies but remains optimistic about their ability to democratize access to financial services and catalyze innovation.
+
+
+
+
+
 ## Transcript
 
 
@@ -864,19 +880,11 @@ Thank you.
 
 
 
-## Summary
 
 
-
-Neha Narula's speech explores the evolution and implications of digital currency, particularly focusing on cryptocurrencies like Bitcoin. She begins by illustrating the concept of money through historical examples, such as the Rai stones of the Yap culture, to underscore the collective agreement that underpins the value of currency. Narula highlights the transition from physical to digital money, emphasizing its potential to transcend geographical boundaries and intermediaries.
-
-In the second part of her speech, Narula delves into the mechanics of cryptocurrencies, explaining how they leverage cryptography and decentralized networks to facilitate secure transactions. She demystifies the process of mining, where computers solve cryptographic puzzles to validate transactions and earn new bitcoins. Narula draws parallels between cryptocurrencies and traditional currencies, illustrating their potential to disrupt existing financial systems and enable permission-less innovation.
-
-In the final segment, Narula explores the transformative potential of programmable money, envisioning a future where transactions are seamless, secure, and accessible to all. She discusses the broader implications of programmable money, including its impact on data privacy, surveillance, and economic empowerment. Narula acknowledges the challenges and trade-offs associated with digital currencies but remains optimistic about their ability to democratize access to financial services and catalyze innovation.
+## Afterword
 
 
-
-## 后记
 
 2024年5月4日18点39分于上海。
 

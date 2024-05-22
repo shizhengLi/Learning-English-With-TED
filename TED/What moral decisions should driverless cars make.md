@@ -86,6 +86,20 @@ zeroth：第零个
 
 Asimov introduced the zeroth law which takes precedence above all, and it's that a robot may not harm humanity as a whole. 阿西莫夫提出了第零定律，该定律高于一切，即机器人不得伤害整个人类。
 
+
+
+## Summary
+
+In Iyad Rahwan's TED Talk, he delves into the ethical dilemmas surrounding the advent of driverless car technology. He begins by highlighting the potential of this technology to significantly reduce traffic accidents caused by human error, thereby saving countless lives. However, he poses a thought-provoking scenario: if faced with a situation where a driverless car must choose between different courses of action, such as swerving to avoid pedestrians at the risk of harming the passenger, who should decide and how? Rahwan draws parallels to the classic philosophical trolley problem to illustrate the complex ethical considerations at play in programming autonomous vehicles.
+
+Rahwan emphasizes the societal implications of adopting driverless car technology and the challenges it poses. He discusses the tension between individual preferences for safety and societal values, pointing out the paradox where individuals may support utilitarian ethics for autonomous vehicles while prioritizing their own safety when it comes to purchasing decisions. This dilemma reflects the classic tragedy of the commons, where individual rational choices may lead to suboptimal outcomes for society as a whole. Rahwan argues that addressing these challenges requires collective decision-making and regulation informed by societal values.
+
+To explore societal values and preferences regarding the ethical dilemmas of driverless cars, Rahwan and his collaborators conducted surveys and developed the Moral Machine website. Through this platform, they collected data on people's choices in hypothetical scenarios, revealing diverse perspectives and priorities across cultures. Rahwan underscores the importance of understanding and reconciling these differences in shaping regulations for autonomous vehicles. He concludes by advocating for ongoing dialogue and cooperation to navigate the ethical complexities of driverless car technology, ultimately aiming to ensure that societal values are reflected in its implementation.
+
+
+
+
+
 ## Transcript
 
 Today I'm going to talk
@@ -722,16 +736,10 @@ Thank you.
 
 (Applause)
 
-## Summary
-
-In Iyad Rahwan's TED Talk, he delves into the ethical dilemmas surrounding the advent of driverless car technology. He begins by highlighting the potential of this technology to significantly reduce traffic accidents caused by human error, thereby saving countless lives. However, he poses a thought-provoking scenario: if faced with a situation where a driverless car must choose between different courses of action, such as swerving to avoid pedestrians at the risk of harming the passenger, who should decide and how? Rahwan draws parallels to the classic philosophical trolley problem to illustrate the complex ethical considerations at play in programming autonomous vehicles.
-
-Rahwan emphasizes the societal implications of adopting driverless car technology and the challenges it poses. He discusses the tension between individual preferences for safety and societal values, pointing out the paradox where individuals may support utilitarian ethics for autonomous vehicles while prioritizing their own safety when it comes to purchasing decisions. This dilemma reflects the classic tragedy of the commons, where individual rational choices may lead to suboptimal outcomes for society as a whole. Rahwan argues that addressing these challenges requires collective decision-making and regulation informed by societal values.
-
-To explore societal values and preferences regarding the ethical dilemmas of driverless cars, Rahwan and his collaborators conducted surveys and developed the Moral Machine website. Through this platform, they collected data on people's choices in hypothetical scenarios, revealing diverse perspectives and priorities across cultures. Rahwan underscores the importance of understanding and reconciling these differences in shaping regulations for autonomous vehicles. He concludes by advocating for ongoing dialogue and cooperation to navigate the ethical complexities of driverless car technology, ultimately aiming to ensure that societal values are reflected in its implementation.
 
 
+## Afterword
 
-## 后记
+
 
 2024年5月6日18点41分于上海。

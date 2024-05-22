@@ -130,6 +130,18 @@ The Goldilocks Zone, also known as the habitable zone, is a term used in astrobi
 
 
 
+## Summary
+
+
+
+The speaker begins by discussing artificial intelligence (AI) and its current state, highlighting its power and potential, but also its limitations and challenges. They emphasize the need to demystify AI and address its societal impact. The speaker raises concerns about the concentration of power among tech companies due to the high cost of training AI models, and the lack of transparency and environmental impact associated with these models.
+
+The speaker argues that common sense is a key challenge for AI and suggests that brute-force scale may not be the best approach to teaching AI. They propose innovations in data and algorithms to make AI more sustainable and humanistic. This includes developing open and transparent datasets and exploring new learning algorithms that prioritize common sense knowledge acquisition.
+
+In conclusion, the speaker calls for a more thoughtful approach to AI development, focusing on common sense, norms, and values. They suggest that by teaching AI these fundamental principles, we can create more ethical and responsible AI systems.
+
+
+
 
 
 ## Transcript
@@ -880,19 +892,13 @@ so much for your talk.
 
 
 
-## Summary
 
 
 
-The speaker begins by discussing artificial intelligence (AI) and its current state, highlighting its power and potential, but also its limitations and challenges. They emphasize the need to demystify AI and address its societal impact. The speaker raises concerns about the concentration of power among tech companies due to the high cost of training AI models, and the lack of transparency and environmental impact associated with these models.
 
-The speaker argues that common sense is a key challenge for AI and suggests that brute-force scale may not be the best approach to teaching AI. They propose innovations in data and algorithms to make AI more sustainable and humanistic. This includes developing open and transparent datasets and exploring new learning algorithms that prioritize common sense knowledge acquisition.
-
-In conclusion, the speaker calls for a more thoughtful approach to AI development, focusing on common sense, norms, and values. They suggest that by teaching AI these fundamental principles, we can create more ethical and responsible AI systems.
+## Afterword
 
 
-
-## 后记
 
 2024年4月14日19点33分完成这份演讲的学习与整理。
 

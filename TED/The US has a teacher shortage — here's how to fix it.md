@@ -88,6 +88,20 @@ hinge on：取决于
 
 the nation's prosperity hinges on the success of its educators. 国家的繁荣取决于教育者的成功。
 
+
+
+## Summary
+
+
+
+Randy Seriguchi Jr.'s speech addresses the pressing issue of the teacher shortage in the United States and its profound impact on the education system. He begins by highlighting the severity of the shortage and its detrimental effects on millions of students nationwide. Seriguchi emphasizes the importance of addressing this shortage, particularly in contrast to other types of workforce shortages, given the critical role teachers play in shaping students' academic success. He underscores the urgency of finding innovative solutions to recruit and retain teachers, especially in light of the impending challenges posed by artificial intelligence and the need to prepare students for the future economy.
+
+Next, Seriguchi proposes a bold solution inspired by the historic success of the G.I. Bill following World War II. He suggests implementing a similar program to invest in teachers, offering financial, educational, workforce, and wellness supports to attract new talent and encourage existing teachers to stay in the profession. Drawing parallels between the importance of veterans' service to the nation and teachers' contributions to children's lives, he advocates for a comprehensive approach to elevate the teaching profession and inspire diverse talent to join it.
+
+In the final part of his speech, Seriguchi shares a successful example from the Bay Area, where Urban Ed Academy implemented initiatives to recruit and support Black male teachers. He explains how their approach involved collaborative partnerships and holistic support to address the unique challenges faced by Black male educators. Seriguchi emphasizes the importance of prioritizing marginalized communities in education initiatives, drawing an analogy to the curb cut effect and highlighting the benefits of designing solutions that meet the needs of the most vulnerable. He concludes by calling for collective action and community support to invest in teachers, asserting that the nation's prosperity hinges on the success of its educators.
+
+
+
 ## Transcript
 
 
@@ -626,18 +640,12 @@ Thank you.
 
 
 
-## Summary
 
 
 
-Randy Seriguchi Jr.'s speech addresses the pressing issue of the teacher shortage in the United States and its profound impact on the education system. He begins by highlighting the severity of the shortage and its detrimental effects on millions of students nationwide. Seriguchi emphasizes the importance of addressing this shortage, particularly in contrast to other types of workforce shortages, given the critical role teachers play in shaping students' academic success. He underscores the urgency of finding innovative solutions to recruit and retain teachers, especially in light of the impending challenges posed by artificial intelligence and the need to prepare students for the future economy.
 
-Next, Seriguchi proposes a bold solution inspired by the historic success of the G.I. Bill following World War II. He suggests implementing a similar program to invest in teachers, offering financial, educational, workforce, and wellness supports to attract new talent and encourage existing teachers to stay in the profession. Drawing parallels between the importance of veterans' service to the nation and teachers' contributions to children's lives, he advocates for a comprehensive approach to elevate the teaching profession and inspire diverse talent to join it.
-
-In the final part of his speech, Seriguchi shares a successful example from the Bay Area, where Urban Ed Academy implemented initiatives to recruit and support Black male teachers. He explains how their approach involved collaborative partnerships and holistic support to address the unique challenges faced by Black male educators. Seriguchi emphasizes the importance of prioritizing marginalized communities in education initiatives, drawing an analogy to the curb cut effect and highlighting the benefits of designing solutions that meet the needs of the most vulnerable. He concludes by calling for collective action and community support to invest in teachers, asserting that the nation's prosperity hinges on the success of its educators.
+## Afterword
 
 
-
-## 后记
 
 2024年5月8日15点28分于上海。

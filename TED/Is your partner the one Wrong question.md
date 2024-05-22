@@ -136,6 +136,18 @@ I know people fall head over heels in love feeling they have found the one. Judg
 
 
 
+## Summary
+
+In his speech, George Blair-West challenges the conventional view of romantic love and finding "the one," arguing that preventing long-term relationship breakdown is as crucial as preventing serious illness. He draws parallels between the approach to preventing illness and preventing relationship breakdown, emphasizing the importance of understanding the dynamics of romantic relationships. Blair-West suggests that an inability to overcome emerging mismatches in relationships often leads to breakdowns and divorces.
+
+Blair-West explores the origins of relationship mismatches, highlighting research findings that indicate the timing of marriage proposals can significantly impact the likelihood of divorce. He discusses the implications of this research and shares insights from his own experience working with couples. Additionally, Blair-West challenges the notion of "finding the one" and proposes a shift towards asking more meaningful questions about acceptance, commitment, and mutual growth in relationships.
+
+In the final part of his speech, Blair-West examines the impact of parental divorce on children and the long-term consequences of relationship breakdowns. He explores the concept of arranged marriages, both traditional and modern, and presents research findings that suggest arranged marriages may lead to higher levels of marital satisfaction. Blair-West concludes by offering a new definition of true love and urging individuals to prioritize acceptance, commitment, and mutual growth in their relationships, rather than solely focusing on romantic notions of finding "the one."
+
+
+
+
+
 ## Transcript
 
 Around 500 years ago,
@@ -809,17 +821,11 @@ Thank you.
 
 
 
-## Summary
-
-In his speech, George Blair-West challenges the conventional view of romantic love and finding "the one," arguing that preventing long-term relationship breakdown is as crucial as preventing serious illness. He draws parallels between the approach to preventing illness and preventing relationship breakdown, emphasizing the importance of understanding the dynamics of romantic relationships. Blair-West suggests that an inability to overcome emerging mismatches in relationships often leads to breakdowns and divorces.
-
-Blair-West explores the origins of relationship mismatches, highlighting research findings that indicate the timing of marriage proposals can significantly impact the likelihood of divorce. He discusses the implications of this research and shares insights from his own experience working with couples. Additionally, Blair-West challenges the notion of "finding the one" and proposes a shift towards asking more meaningful questions about acceptance, commitment, and mutual growth in relationships.
-
-In the final part of his speech, Blair-West examines the impact of parental divorce on children and the long-term consequences of relationship breakdowns. He explores the concept of arranged marriages, both traditional and modern, and presents research findings that suggest arranged marriages may lead to higher levels of marital satisfaction. Blair-West concludes by offering a new definition of true love and urging individuals to prioritize acceptance, commitment, and mutual growth in their relationships, rather than solely focusing on romantic notions of finding "the one."
 
 
+## Afterword
 
-## 后记
+
 
 
 

@@ -60,6 +60,21 @@ which include the frontal cortex and the parietal cortex：包括额叶皮层和
 
 
 
+## Summary
+
+
+
+**Introduction and Neural Entrainment**:
+Uri Hasson begins by comparing human communication to a theoretical device that could transmit memories and ideas directly between brains. He explains that this "device" already exists in the form of storytelling and effective communication. To understand how this works, Hasson's lab at Princeton uses fMRI to scan the brains of people while they listen to and tell stories. He demonstrates that when a story is told, listeners' brain responses align with the storyteller's, a phenomenon called neural entrainment. This alignment occurs because of the common neural protocols developed for communication, similar to how metronomes synchronize when placed on a moving platform.
+
+**Mechanisms of Communication**:
+Hasson delves into what drives neural entrainment by experimenting with different forms of storytelling. He shows that while sound and words alone can induce some brain alignment, a coherent and engaging story activates higher-order brain areas associated with meaning. This alignment suggests that effective communication is not just about the words or sounds used but about the shared meaning and understanding between speaker and listener. Hasson's experiments also reveal that stories told in different languages but conveying the same meaning produce similar brain responses in higher-order areas, underscoring the importance of shared meaning over linguistic differences.
+
+**Importance of Common Ground**:
+Hasson emphasizes that communication relies on a common ground, which can be influenced by prior knowledge and beliefs. He demonstrates this by showing how a single sentence can alter brain responses to a story based on the listener's beliefs. This highlights the broader societal implications, where different media perspectives can shape people's understanding of the same events. Hasson concludes by advocating for dialogue and mutual understanding to maintain effective communication. He shares a personal anecdote about his son's early vocal interactions, illustrating the fundamental human desire to connect with others and how these connections shape our identities. He urges the audience to continue sharing ideas and fostering connections, as collective understanding is greater than individual parts.
+
+
+
 ## Transcript
 
 
@@ -819,21 +834,12 @@ Thank you.
 
 
 
-## Summary
 
 
 
-**Introduction and Neural Entrainment**:
-Uri Hasson begins by comparing human communication to a theoretical device that could transmit memories and ideas directly between brains. He explains that this "device" already exists in the form of storytelling and effective communication. To understand how this works, Hasson's lab at Princeton uses fMRI to scan the brains of people while they listen to and tell stories. He demonstrates that when a story is told, listeners' brain responses align with the storyteller's, a phenomenon called neural entrainment. This alignment occurs because of the common neural protocols developed for communication, similar to how metronomes synchronize when placed on a moving platform.
 
-**Mechanisms of Communication**:
-Hasson delves into what drives neural entrainment by experimenting with different forms of storytelling. He shows that while sound and words alone can induce some brain alignment, a coherent and engaging story activates higher-order brain areas associated with meaning. This alignment suggests that effective communication is not just about the words or sounds used but about the shared meaning and understanding between speaker and listener. Hasson's experiments also reveal that stories told in different languages but conveying the same meaning produce similar brain responses in higher-order areas, underscoring the importance of shared meaning over linguistic differences.
-
-**Importance of Common Ground**:
-Hasson emphasizes that communication relies on a common ground, which can be influenced by prior knowledge and beliefs. He demonstrates this by showing how a single sentence can alter brain responses to a story based on the listener's beliefs. This highlights the broader societal implications, where different media perspectives can shape people's understanding of the same events. Hasson concludes by advocating for dialogue and mutual understanding to maintain effective communication. He shares a personal anecdote about his son's early vocal interactions, illustrating the fundamental human desire to connect with others and how these connections shape our identities. He urges the audience to continue sharing ideas and fostering connections, as collective understanding is greater than individual parts.
+## Afterword
 
 
-
-## 后记
 
 2024年5月21日于上海。

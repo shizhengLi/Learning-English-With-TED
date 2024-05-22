@@ -168,6 +168,20 @@ poignant：美 [ˈpɔɪnjənt] 深刻的；辛辣的  **注意发音**
 
 poignant question：尖锐的问题
 
+
+
+## Summary
+
+
+
+Scott Galloway's speech delves into the socioeconomic challenges faced by younger generations, highlighting a significant wealth and opportunity gap between older and younger demographics. He starts by illustrating the decline in prosperity for younger individuals compared to their parents' generation, pointing out rising costs of education and housing relative to income. Galloway argues that this disparity leads to feelings of rage and disenchantment among younger people, fueling societal unrest. He criticizes the deliberate suppression of minimum wage and the housing market by older generations, exacerbating the wealth gap.
+
+In the second part of his speech, Galloway discusses the inflated costs of higher education, attributing it to an artificial scarcity strategy employed by universities. He emphasizes the need for reform in higher education to make it more accessible and affordable. Galloway proposes measures to incentivize public institutions to reduce tuition and increase enrollment, aiming to double freshman seats and halve the cost within a decade. He also calls for a progressive tax structure and other policy changes to address the wealth transfer from young to old.
+
+The final segment of Galloway's speech addresses various societal issues affecting young people, including mental health, addiction, and declining birth rates. He criticizes the impact of social media, big tech, and economic policies on the well-being of younger generations. Galloway advocates for policy reforms, such as universal pre-K, income-based affirmative action, and national service, to address these challenges. He concludes with a poignant question: Do we truly love our children? imploring the audience to consider the well-being of future generations and take action to create a more equitable society.
+
+
+
 ## Transcript
 
 
@@ -1247,19 +1261,11 @@ Thank you.
 
 
 
-## Summary
 
 
 
-Scott Galloway's speech delves into the socioeconomic challenges faced by younger generations, highlighting a significant wealth and opportunity gap between older and younger demographics. He starts by illustrating the decline in prosperity for younger individuals compared to their parents' generation, pointing out rising costs of education and housing relative to income. Galloway argues that this disparity leads to feelings of rage and disenchantment among younger people, fueling societal unrest. He criticizes the deliberate suppression of minimum wage and the housing market by older generations, exacerbating the wealth gap.
 
-In the second part of his speech, Galloway discusses the inflated costs of higher education, attributing it to an artificial scarcity strategy employed by universities. He emphasizes the need for reform in higher education to make it more accessible and affordable. Galloway proposes measures to incentivize public institutions to reduce tuition and increase enrollment, aiming to double freshman seats and halve the cost within a decade. He also calls for a progressive tax structure and other policy changes to address the wealth transfer from young to old.
-
-The final segment of Galloway's speech addresses various societal issues affecting young people, including mental health, addiction, and declining birth rates. He criticizes the impact of social media, big tech, and economic policies on the well-being of younger generations. Galloway advocates for policy reforms, such as universal pre-K, income-based affirmative action, and national service, to address these challenges. He concludes with a poignant question: Do we truly love our children? imploring the audience to consider the well-being of future generations and take action to create a more equitable society.
-
-
-
-## 后记
+## Afterword
 
 
 

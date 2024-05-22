@@ -217,6 +217,16 @@ Competition can be an amazing tool, provided we wield it wisely. And we're going
 
 
 
+## Summary
+
+The speaker discusses the concept of competition, highlighting its various manifestations and impacts, both positive and negative, using examples from different industries like technology, media, and environmental conservation. She explains how competition can lead to harmful outcomes when driven by misaligned incentives, creating lose-lose situations. Drawing parallels with the Moloch myth, she warns against the dangers of sacrificing long-term benefits for short-term gains. The speaker emphasizes the need for AI leaders to prioritize ethical considerations over competitive pressures, suggesting that smart regulation and responsible practices are crucial in navigating the challenges posed by advanced AI technologies. She concludes by advocating for a shift in mindset among AI developers and companies, urging them to collaborate and innovate responsibly to avoid the pitfalls of unchecked competition.
+
+
+
+演讲者讨论了竞争的概念，强调了其各种表现形式和影响，无论是积极的还是消极的，都使用了来自不同行业（如技术、媒体和环境保护）的例子。她解释了当竞争由不协调的激励驱动时，会导致有害结果，造成双输局面。她将这一现象与摩洛克神话相提并论，警告人们不要为了获得胜利而牺牲长远利益。演讲者强调了AI领导者需要优先考虑道德因素而不是竞争压力的重要性，建议智能监管和负责任的做法在应对先进AI技术带来的挑战时至关重要。她最后呼吁AI开发者和公司改变思维方式，敦促他们合作创新，以避免不受限制的竞争带来的陷阱。
+
+
+
 ## Transcript
 
 
@@ -809,14 +819,10 @@ change the game.
 
 
 
-## Summary
-
-The speaker discusses the concept of competition, highlighting its various manifestations and impacts, both positive and negative, using examples from different industries like technology, media, and environmental conservation. She explains how competition can lead to harmful outcomes when driven by misaligned incentives, creating lose-lose situations. Drawing parallels with the Moloch myth, she warns against the dangers of sacrificing long-term benefits for short-term gains. The speaker emphasizes the need for AI leaders to prioritize ethical considerations over competitive pressures, suggesting that smart regulation and responsible practices are crucial in navigating the challenges posed by advanced AI technologies. She concludes by advocating for a shift in mindset among AI developers and companies, urging them to collaborate and innovate responsibly to avoid the pitfalls of unchecked competition.
 
 
+## Afterword
 
-演讲者讨论了竞争的概念，强调了其各种表现形式和影响，无论是积极的还是消极的，都使用了来自不同行业（如技术、媒体和环境保护）的例子。她解释了当竞争由不协调的激励驱动时，会导致有害结果，造成双输局面。她将这一现象与摩洛克神话相提并论，警告人们不要为了获得胜利而牺牲长远利益。演讲者强调了AI领导者需要优先考虑道德因素而不是竞争压力的重要性，建议智能监管和负责任的做法在应对先进AI技术带来的挑战时至关重要。她最后呼吁AI开发者和公司改变思维方式，敦促他们合作创新，以避免不受限制的竞争带来的陷阱。
 
-## 后记
 
 2024年4月12日20点40分于上海。
