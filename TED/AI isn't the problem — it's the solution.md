@@ -196,6 +196,26 @@ muster: 美 [ˈmʌstər] 召集，集合，聚集
 
 And I think for all of us to address and solve these global problems, we will need all the intelligence -- including all the artificial intelligence -- we can muster. 我认为对于我们所有人来说，要处理和解决这些全球性问题，我们需要所有的智慧，包括所有的人工智能。
 
+
+
+
+
+## Summary
+
+In this speech, the speaker discusses the prevailing anxiety surrounding artificial intelligence (AI) and addresses various concerns related to its development and impact on society. The speaker acknowledges the significant advancements in AI, from recognizing images to generating creative content, and the accompanying worries about its potential negative consequences.
+
+The speaker emphasizes the need to view AI as a tool for progress rather than a threat, likening it to electricity, which revolutionized human endeavor. They acknowledge the valid concerns raised by critics but argue that these are engineering problems that can be solved rather than insurmountable obstacles.
+
+Furthermore, the speaker highlights the importance of addressing biases in AI and suggests techniques like reinforcement learning from human feedback to mitigate these issues. They also discuss the impact of AI on employment, explaining that while it will change the nature of work, it will also create new opportunities.
+
+Overall, the speaker advocates for embracing AI as a solution to many of humanity's challenges, stressing the need for continued development and responsible use to ensure a brighter future for all. 总的来说，演讲者倡导将人工智能作为解决人类许多挑战的解决方案，强调需要持续发展和负责任的使用，以确保所有人都有一个更光明的未来。
+
+
+
+insurmountable：美 [ˌɪnsərˈmaʊntəbl] 不能克服的；难以逾越的
+
+
+
 ## Transcript
 
 
@@ -809,16 +829,3 @@ Thank you very much.
 
 
 
-## Summary
-
-In this speech, the speaker discusses the prevailing anxiety surrounding artificial intelligence (AI) and addresses various concerns related to its development and impact on society. The speaker acknowledges the significant advancements in AI, from recognizing images to generating creative content, and the accompanying worries about its potential negative consequences.
-
-The speaker emphasizes the need to view AI as a tool for progress rather than a threat, likening it to electricity, which revolutionized human endeavor. They acknowledge the valid concerns raised by critics but argue that these are engineering problems that can be solved rather than insurmountable obstacles.
-
-Furthermore, the speaker highlights the importance of addressing biases in AI and suggests techniques like reinforcement learning from human feedback to mitigate these issues. They also discuss the impact of AI on employment, explaining that while it will change the nature of work, it will also create new opportunities.
-
-Overall, the speaker advocates for embracing AI as a solution to many of humanity's challenges, stressing the need for continued development and responsible use to ensure a brighter future for all. 总的来说，演讲者倡导将人工智能作为解决人类许多挑战的解决方案，强调需要持续发展和负责任的使用，以确保所有人都有一个更光明的未来。
-
-
-
-insurmountable：美 [ˌɪnsərˈmaʊntəbl] 不能克服的；难以逾越的

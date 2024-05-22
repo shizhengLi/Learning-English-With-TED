@@ -64,6 +64,22 @@ We need to have you retake the course, because you need a strong foundation if y
 
 goosebumps：鸡皮疙瘩
 
+
+
+## Summary
+
+
+
+Freeman Hrabowski's speech centers on the success of the University of Maryland, Baltimore County (UMBC) in educating students from diverse backgrounds, particularly African-American, Latino, and low-income students, in science and engineering. He begins by sharing his personal story of growing up in Birmingham, Alabama, and his involvement in the civil rights movement, emphasizing the importance of empowering children to take ownership of their education. Hrabowski highlights UMBC's founding principles of diversity and inclusivity, established in 1963, and its commitment to providing a supportive environment where students of all races can excel academically.
+
+Hrabowski then outlines the four key factors that have contributed to UMBC's success in producing minority students who excel in science and engineering. Firstly, he emphasizes the importance of setting high expectations for students, encouraging curiosity, and promoting a passion for learning. Secondly, he underscores the significance of building a sense of community among students, fostering collaboration, trust, and support. Thirdly, he discusses the role of researchers in mentoring and guiding students, providing hands-on research experiences to inspire their academic pursuits. Lastly, he emphasizes the crucial involvement of faculty in engaging with students both inside and outside the classroom, creating opportunities for personalized support and guidance.
+
+In conclusion, Hrabowski highlights UMBC's innovative approach to academic innovation, including the redesign of courses in various disciplines to enhance student engagement and learning outcomes. He stresses the importance of empowering students to pursue their dreams and values, emphasizing that excellence is the result of intentional effort and intelligent execution. Hrabowski's speech underscores the transformative impact of education in shaping individuals' destinies and emphasizes the importance of choice in determining one's path to success.
+
+
+
+
+
 ## Transcript
 
 
@@ -666,18 +682,8 @@ Thank you all very much.
 
 
 
-## Summary
+## Afterword
 
 
-
-Freeman Hrabowski's speech centers on the success of the University of Maryland, Baltimore County (UMBC) in educating students from diverse backgrounds, particularly African-American, Latino, and low-income students, in science and engineering. He begins by sharing his personal story of growing up in Birmingham, Alabama, and his involvement in the civil rights movement, emphasizing the importance of empowering children to take ownership of their education. Hrabowski highlights UMBC's founding principles of diversity and inclusivity, established in 1963, and its commitment to providing a supportive environment where students of all races can excel academically.
-
-Hrabowski then outlines the four key factors that have contributed to UMBC's success in producing minority students who excel in science and engineering. Firstly, he emphasizes the importance of setting high expectations for students, encouraging curiosity, and promoting a passion for learning. Secondly, he underscores the significance of building a sense of community among students, fostering collaboration, trust, and support. Thirdly, he discusses the role of researchers in mentoring and guiding students, providing hands-on research experiences to inspire their academic pursuits. Lastly, he emphasizes the crucial involvement of faculty in engaging with students both inside and outside the classroom, creating opportunities for personalized support and guidance.
-
-In conclusion, Hrabowski highlights UMBC's innovative approach to academic innovation, including the redesign of courses in various disciplines to enhance student engagement and learning outcomes. He stresses the importance of empowering students to pursue their dreams and values, emphasizing that excellence is the result of intentional effort and intelligent execution. Hrabowski's speech underscores the transformative impact of education in shaping individuals' destinies and emphasizes the importance of choice in determining one's path to success.
-
-
-
-## 后记
 
 2024年5月7日21点36分于上海。

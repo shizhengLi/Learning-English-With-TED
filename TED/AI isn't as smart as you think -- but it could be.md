@@ -42,6 +42,22 @@ hydroponic：美 [ˌhaɪdrə'pɒnɪk] 水耕法的， 水栽法的
 
 I've been honing my gardening skills, experimenting with vertical hydroponic gardening. 我一直在磨练我的园艺技能，尝试垂直水培园艺。
 
+
+
+## Summary
+
+
+
+Jeff Dean's speech focuses on the transformative potential of AI, highlighting the significant progress made in the last decade. He discusses the capabilities of AI in various domains, such as computer vision, language understanding, and medical diagnosis. Dean attributes this progress to advancements in neural networks and computational power. However, he acknowledges several shortcomings in current AI systems, including their single-task nature, limited modalities, and dense architecture.
+
+Dean proposes solutions to address these shortcomings, advocating for the development of multitask models capable of handling diverse tasks and modalities. He emphasizes the importance of sparse, high-capacity models that can efficiently activate relevant components for specific tasks. Dean introduces the concept of "Pathways," a system designed to enable these approaches, which he believes will represent a significant step forward in AI research and development.
+
+In addition to discussing technical advancements, Dean emphasizes the importance of responsible AI, highlighting the need for fairness, interpretability, privacy, and security in AI systems. He outlines Google's AI principles as a guiding framework for responsible AI development and acknowledges the ongoing research and challenges in this area. Dean concludes his speech by expressing optimism about the potential of AI to address complex societal challenges and the importance of multidisciplinary collaboration in realizing this potential.
+
+
+
+
+
 ## Transcript
 
 
@@ -1142,18 +1158,10 @@ JD: Thank you.
 
 
 
-## Summary
 
 
-
-Jeff Dean's speech focuses on the transformative potential of AI, highlighting the significant progress made in the last decade. He discusses the capabilities of AI in various domains, such as computer vision, language understanding, and medical diagnosis. Dean attributes this progress to advancements in neural networks and computational power. However, he acknowledges several shortcomings in current AI systems, including their single-task nature, limited modalities, and dense architecture.
-
-Dean proposes solutions to address these shortcomings, advocating for the development of multitask models capable of handling diverse tasks and modalities. He emphasizes the importance of sparse, high-capacity models that can efficiently activate relevant components for specific tasks. Dean introduces the concept of "Pathways," a system designed to enable these approaches, which he believes will represent a significant step forward in AI research and development.
-
-In addition to discussing technical advancements, Dean emphasizes the importance of responsible AI, highlighting the need for fairness, interpretability, privacy, and security in AI systems. He outlines Google's AI principles as a guiding framework for responsible AI development and acknowledges the ongoing research and challenges in this area. Dean concludes his speech by expressing optimism about the potential of AI to address complex societal challenges and the importance of multidisciplinary collaboration in realizing this potential.
+## Afterword
 
 
-
-## 后记
 
 2024年4月29日18点23分完成这篇演讲的学习。

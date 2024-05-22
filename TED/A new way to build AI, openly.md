@@ -124,6 +124,20 @@ I feel the same excitement about this vision as I did 19 years ago as that maste
 
 
 
+## Summary
+
+The speaker's manuscript outlines his journey from a young master's student working on his first NLP research project in 2004 to becoming an AI researcher. He highlights the significant advancements made by the research community over the last 19 years, particularly in language and foundation models. However, he expresses concerns about the recent trend towards less open innovation, with advanced models now hidden behind closed APIs. This shift raises issues of transparency, values, and attribution in AI development.
+
+The speaker emphasizes the importance of transparency in evaluating and auditing models, as well as the need to consider whose values are embedded in these models. He also discusses the lack of attribution and consent in the data used to train these models, calling attention to the broken incentive system in AI development.
+
+To address these challenges, the speaker advocates for a more open and participatory approach to AI development, citing the success of projects like Wikipedia and Linux. He believes that by embracing open source and peer production principles, the AI community can create a more transparent and inclusive future for AI development.
+
+演讲者的手稿概述了他从2004年作为年轻的硕士生开始进行他的第一个自然语言处理研究项目，到成为人工智能研究员的旅程。他强调了过去19年来研究界取得的重大进展，特别是在语言和基础模型方面。然而，他对最近向较少开放创新的趋势表示担忧，因为现在先进的模型都隐藏在封闭的API背后。这种转变引发了AI开发中透明度、价值观和归因的问题。
+
+演讲者强调了在评估和审计模型时透明度的重要性，以及需要考虑到这些模型中嵌入的价值观。他还讨论了在训练这些模型所使用的数据中缺乏归因和同意，引起了人工智能开发中破碎的激励机制的关注。
+
+为了解决这些挑战，演讲者主张采取更开放和参与式的人工智能开发方式，引用了维基百科和Linux等项目的成功。他认为，通过 embracing开源和peer production原则，AI社区可以为AI开发创造一个更透明和包容的未来。
+
 
 
 ## Transcript
@@ -562,17 +576,8 @@ Thank you.
 
 
 
-## Summary
 
-The speaker's manuscript outlines his journey from a young master's student working on his first NLP research project in 2004 to becoming an AI researcher. He highlights the significant advancements made by the research community over the last 19 years, particularly in language and foundation models. However, he expresses concerns about the recent trend towards less open innovation, with advanced models now hidden behind closed APIs. This shift raises issues of transparency, values, and attribution in AI development.
 
-The speaker emphasizes the importance of transparency in evaluating and auditing models, as well as the need to consider whose values are embedded in these models. He also discusses the lack of attribution and consent in the data used to train these models, calling attention to the broken incentive system in AI development.
+## Afterword
 
-To address these challenges, the speaker advocates for a more open and participatory approach to AI development, citing the success of projects like Wikipedia and Linux. He believes that by embracing open source and peer production principles, the AI community can create a more transparent and inclusive future for AI development.
-
-演讲者的手稿概述了他从2004年作为年轻的硕士生开始进行他的第一个自然语言处理研究项目，到成为人工智能研究员的旅程。他强调了过去19年来研究界取得的重大进展，特别是在语言和基础模型方面。然而，他对最近向较少开放创新的趋势表示担忧，因为现在先进的模型都隐藏在封闭的API背后。这种转变引发了AI开发中透明度、价值观和归因的问题。
-
-演讲者强调了在评估和审计模型时透明度的重要性，以及需要考虑到这些模型中嵌入的价值观。他还讨论了在训练这些模型所使用的数据中缺乏归因和同意，引起了人工智能开发中破碎的激励机制的关注。
-
-为了解决这些挑战，演讲者主张采取更开放和参与式的人工智能开发方式，引用了维基百科和Linux等项目的成功。他认为，通过 embracing开源和peer production原则，AI社区可以为AI开发创造一个更透明和包容的未来。
-
+2024年4月10日19点17分写于上海市。

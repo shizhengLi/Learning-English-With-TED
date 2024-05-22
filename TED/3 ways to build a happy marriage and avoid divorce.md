@@ -112,6 +112,20 @@ quirky：美 [ˈkwɜːrki] 离奇的，古怪的
 
 Romance is a grand and beautiful and quirky thing. 浪漫是一种宏伟、美丽而古怪的东西。
 
+
+
+## Summary
+
+The speaker discusses the importance of preventing divorce and highlights three key life hacks for maintaining successful relationships. He emphasizes the need for policymakers to recognize that relationship dynamics are changeable and educable, especially in the context of modern society. The first life hack involves understanding the impact of technology and hookup culture on relationships, suggesting that delaying marriage can lead to more stable unions. The second hack focuses on sharing power in relationships, particularly highlighting the importance of men being influenceable and respectful towards their partners. The third hack addresses the concept of reliability, emphasizing the importance of partners being there for each other, especially during times of need. Overall, the speaker advocates for a thoughtful and informed approach to choosing a life partner, combining romanticism with practicality.
+
+演讲者探讨了预防离婚的重要性，并强调了维持成功关系的三个关键生活技巧。他强调了决策者需要认识到在现代社会中，关系动态是可变的和可教育的。第一个生活技巧涉及了解科技和约会文化对关系的影响，暗示推迟结婚可能会导致更稳定的婚姻。第二个技巧着重于在关系中分享权力，特别强调了男性在决策中的可影响性和对伴侣的尊重的重要性。第三个技巧涉及到可靠性的概念，强调了伴侣在彼此需要时的支持，尤其是在需要时。总的来说，演讲者主张在选择生活伴侣时要有思想和理性的态度，将浪漫与实际结合起来。
+
+romanticism： 美 [roʊˈmæntɪsɪzəm] 浪漫主义
+
+practicality：美 [ˌpræktɪˈkæləti] 实际性，实用性
+
+
+
 ## Transcript
 
 Almost 50 years ago,
@@ -578,18 +592,6 @@ Thank you.
 
 
 
-## Summary
-
-The speaker discusses the importance of preventing divorce and highlights three key life hacks for maintaining successful relationships. He emphasizes the need for policymakers to recognize that relationship dynamics are changeable and educable, especially in the context of modern society. The first life hack involves understanding the impact of technology and hookup culture on relationships, suggesting that delaying marriage can lead to more stable unions. The second hack focuses on sharing power in relationships, particularly highlighting the importance of men being influenceable and respectful towards their partners. The third hack addresses the concept of reliability, emphasizing the importance of partners being there for each other, especially during times of need. Overall, the speaker advocates for a thoughtful and informed approach to choosing a life partner, combining romanticism with practicality.
-
-演讲者探讨了预防离婚的重要性，并强调了维持成功关系的三个关键生活技巧。他强调了决策者需要认识到在现代社会中，关系动态是可变的和可教育的。第一个生活技巧涉及了解科技和约会文化对关系的影响，暗示推迟结婚可能会导致更稳定的婚姻。第二个技巧着重于在关系中分享权力，特别强调了男性在决策中的可影响性和对伴侣的尊重的重要性。第三个技巧涉及到可靠性的概念，强调了伴侣在彼此需要时的支持，尤其是在需要时。总的来说，演讲者主张在选择生活伴侣时要有思想和理性的态度，将浪漫与实际结合起来。
-
-romanticism： 美 [roʊˈmæntɪsɪzəm] 浪漫主义
-
-practicality：美 [ˌpræktɪˈkæləti] 实际性，实用性
-
-
-
-## 后记
+## Afterword
 
 2024年4月10日20点43分于上海。

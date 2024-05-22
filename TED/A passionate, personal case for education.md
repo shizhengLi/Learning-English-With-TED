@@ -82,6 +82,20 @@ reins：美 [renz] 缰绳
 
 to stand up and take the reins. 站起来控制局面。
 
+
+
+## Summary
+
+
+
+In her speech, Michelle Obama reflects on her journey as the First Lady of the United States during her first foreign trip. She emphasizes the importance of the special relationship between the U.S. and the U.K., highlighting shared values and the role of women in shaping the future. Michelle Obama recounts her humble beginnings on the South Side of Chicago and the influence of strong female and male role models in her life. She underscores the significance of education in empowering women and encourages the students to pursue their dreams and become leaders in their communities and beyond.
+
+Next, Michelle Obama addresses the students directly, sharing personal anecdotes and emphasizing the value of education in shaping one's destiny. She encourages the students to embrace their intelligence, diligence, and resilience, regardless of their backgrounds. Michelle Obama highlights the achievements of women who defied societal barriers and paved the way for future generations. She urges the students to remain resolute in pursuing their dreams and using their talents to create positive change in the world.
+
+In closing, Michelle Obama reaffirms her belief in the students' potential to overcome challenges and make a difference in the world. She expresses confidence in their abilities and encourages them to seize opportunities and fulfill their aspirations. Michelle Obama emphasizes the importance of strong, confident young women in addressing global challenges and concludes by expressing love and gratitude to the students for their dedication and potential.
+
+
+
 ## Transcript
 
 This is my first trip,
@@ -498,19 +512,13 @@ We know you can do it. We love you. Thank you so much.
 
 
 
-## Summary
 
 
 
-In her speech, Michelle Obama reflects on her journey as the First Lady of the United States during her first foreign trip. She emphasizes the importance of the special relationship between the U.S. and the U.K., highlighting shared values and the role of women in shaping the future. Michelle Obama recounts her humble beginnings on the South Side of Chicago and the influence of strong female and male role models in her life. She underscores the significance of education in empowering women and encourages the students to pursue their dreams and become leaders in their communities and beyond.
 
-Next, Michelle Obama addresses the students directly, sharing personal anecdotes and emphasizing the value of education in shaping one's destiny. She encourages the students to embrace their intelligence, diligence, and resilience, regardless of their backgrounds. Michelle Obama highlights the achievements of women who defied societal barriers and paved the way for future generations. She urges the students to remain resolute in pursuing their dreams and using their talents to create positive change in the world.
-
-In closing, Michelle Obama reaffirms her belief in the students' potential to overcome challenges and make a difference in the world. She expresses confidence in their abilities and encourages them to seize opportunities and fulfill their aspirations. Michelle Obama emphasizes the importance of strong, confident young women in addressing global challenges and concludes by expressing love and gratitude to the students for their dedication and potential.
+## Afterword
 
 
-
-## 后记
 
 
 

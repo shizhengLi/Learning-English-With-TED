@@ -23,11 +23,11 @@ Date:
 
 ## Vocabulary
 
-## Transcript
-
 ## Summary
 
-## 后记
+## Transcript
+
+## Afterword
 ```
 
 

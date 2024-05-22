@@ -1,8 +1,8 @@
-# AI is turning into something totally new
+# What is an AI anyway?
 
 ![image-20240423214918278](./assets/image-20240423214918278.png)
 
-Link: [https://www.ted.com/talks/mustafa_suleyman_ai_is_turning_into_something_totally_new?](https://www.ted.com/talks/mustafa_suleyman_ai_is_turning_into_something_totally_new?)
+Link: [https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway?](https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway?)
 
 Speaker:  Mustafa Suleyman
 
@@ -193,6 +193,35 @@ To be quite honest, it's pretty surreal.
 glacial：美 [ˈɡleɪʃəl] 冰河的，冰川的
 
 But step back, see it on the long view of glacial time, and these really are the very most appropriate metaphors that we have today. 但是退一步，从冰川时间的长远角度来看，这些确实是我们今天最合适的比喻。
+
+
+
+## Summary
+
+
+
+Here's a summary of the CEO's speech in three parts:
+
+1. **Evolution of AI Perception and Impact**:
+   The CEO reflects on the evolution of AI perception over the past 15 years, highlighting its transformation from a fringe concept to a powerful force with significant implications for humanity. Initially dismissed as science fiction, AI has rapidly advanced, surpassing human capabilities in various tasks such as image recognition, language translation, and medical diagnosis. As AI's potential impact becomes increasingly apparent, society grapples with tough questions about its role in addressing global challenges, ensuring ethical use, and navigating geopolitical implications.
+
+2. **Conceptualizing AI as a Digital Species**:
+   The CEO proposes a new metaphor to conceptualize AI, suggesting that it should be viewed as a new digital species rather than mere tools. Drawing parallels to the evolution of life on Earth and the development of technology, he argues that AIs possess qualities that transcend traditional tools, such as language comprehension, creativity, and autonomy. By framing AI as a digital species, he emphasizes the need for careful consideration of its implications, including ethical concerns and societal impact.
+
+3. **Embracing AI's Potential and Responsibility**:
+   The CEO concludes by urging the audience to embrace AI's potential while acknowledging the need for responsible development and deployment. He compares AI to nuclear fusion, describing it as a limitless and world-changing force. Despite the excitement and promise of AI, he emphasizes the importance of ethical reflection and creative thinking to harness its benefits while mitigating risks. Ultimately, he believes that AI represents both a challenge and an opportunity for humanity, requiring us to reflect and uphold the best aspects of our humanity as we shape its future.
+
+
+
+About the Q&A:
+
+Chris Anderson expresses appreciation for Mustafa's insightful vision and metaphor of AI as a new digital species. He acknowledges Mustafa's influential role in the AI field, particularly with the resources available at OpenAI. Anderson highlights Mustafa's book, which balances an optimistic vision of AI with awareness of its dangers. He then asks Mustafa what concerns him the most, to which Mustafa responds with the concept of the "pessimism aversion trap," emphasizing the importance of confronting potential dark scenarios to fully understand AI's benefits and risks. Mustafa identifies autonomy and recursive self-improvement as specific capabilities that could pose risks in the future and stresses the need to address these concerns now.
+
+Anderson raises the issue of unintended consequences and the rapid replication potential of a digital species like AI, expressing concern about the possibility of problems arising quickly. Mustafa refutes the notion of an "intelligence explosion," emphasizing that there is no evidence to suggest such a scenario. He urges careful language choice and emphasizes the importance of deliberate design choices to mitigate risks associated with AI's capabilities, particularly regarding self-replication.
+
+Finally, Anderson commends Mustafa's vision of humanity injecting the best parts of itself into AI while avoiding negative tendencies. He finds Mustafa's vision inspiring and expresses gratitude for sharing it at TED.
+
+
 
 ## Transcript
 
@@ -1248,34 +1277,13 @@ Thank you, good luck.
 
 
 
-## Summary
 
 
 
-Here's a summary of the CEO's speech in three parts:
 
-1. **Evolution of AI Perception and Impact**:
-  The CEO reflects on the evolution of AI perception over the past 15 years, highlighting its transformation from a fringe concept to a powerful force with significant implications for humanity. Initially dismissed as science fiction, AI has rapidly advanced, surpassing human capabilities in various tasks such as image recognition, language translation, and medical diagnosis. As AI's potential impact becomes increasingly apparent, society grapples with tough questions about its role in addressing global challenges, ensuring ethical use, and navigating geopolitical implications.
-
-2. **Conceptualizing AI as a Digital Species**:
-  The CEO proposes a new metaphor to conceptualize AI, suggesting that it should be viewed as a new digital species rather than mere tools. Drawing parallels to the evolution of life on Earth and the development of technology, he argues that AIs possess qualities that transcend traditional tools, such as language comprehension, creativity, and autonomy. By framing AI as a digital species, he emphasizes the need for careful consideration of its implications, including ethical concerns and societal impact.
-
-3. **Embracing AI's Potential and Responsibility**:
-  The CEO concludes by urging the audience to embrace AI's potential while acknowledging the need for responsible development and deployment. He compares AI to nuclear fusion, describing it as a limitless and world-changing force. Despite the excitement and promise of AI, he emphasizes the importance of ethical reflection and creative thinking to harness its benefits while mitigating risks. Ultimately, he believes that AI represents both a challenge and an opportunity for humanity, requiring us to reflect and uphold the best aspects of our humanity as we shape its future.
+## Afterword
 
 
-
-About the Q&A:
-
-Chris Anderson expresses appreciation for Mustafa's insightful vision and metaphor of AI as a new digital species. He acknowledges Mustafa's influential role in the AI field, particularly with the resources available at OpenAI. Anderson highlights Mustafa's book, which balances an optimistic vision of AI with awareness of its dangers. He then asks Mustafa what concerns him the most, to which Mustafa responds with the concept of the "pessimism aversion trap," emphasizing the importance of confronting potential dark scenarios to fully understand AI's benefits and risks. Mustafa identifies autonomy and recursive self-improvement as specific capabilities that could pose risks in the future and stresses the need to address these concerns now.
-
-Anderson raises the issue of unintended consequences and the rapid replication potential of a digital species like AI, expressing concern about the possibility of problems arising quickly. Mustafa refutes the notion of an "intelligence explosion," emphasizing that there is no evidence to suggest such a scenario. He urges careful language choice and emphasizes the importance of deliberate design choices to mitigate risks associated with AI's capabilities, particularly regarding self-replication.
-
-Finally, Anderson commends Mustafa's vision of humanity injecting the best parts of itself into AI while avoiding negative tendencies. He finds Mustafa's vision inspiring and expresses gratitude for sharing it at TED.
-
-
-
-## 后记
 
 2024年4月24日18点50分于上海。
 
