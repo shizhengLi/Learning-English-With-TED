@@ -68,7 +68,7 @@ hypnotize：美 [ˈhɪpnəˌtaɪz] 使进入催眠状态；
 
 But our minds are still hypnotized by them, and we have to disenthrall ourselves of some of them. 但是我们的思想仍然被它们催眠着，我们必须从它们中解放出来。
 
-wrstwatch：美 [ˈrɪstˌwɑtʃ]  手表
+wristwatch：美 [ˈrɪstˌwɑtʃ]  手表
 
 wear a wristwatch： 戴手表
 
@@ -174,7 +174,7 @@ In conclusion, Robinson calls for a transformation from an industrial to an agri
 
 
 
-**肯·罗宾逊爵士在TED演讲的总结**
+**肯·罗宾逊在TED演讲的总结**
 
 在肯·罗宾逊爵士风趣幽默的TED演讲中，他首先回顾了自己之前的演讲，该演讲在网上获得了极大的关注。他幽默地提到人们对他视频的需求，随即过渡到讨论重新思考当前教育系统的重要性。罗宾逊认为，传统的教育模式通过优先考虑线性进展和一致性，压制了创造力，忽视了个人的天赋和激情。他强调需要对教育进行革命性变革，从一刀切的方法转变为更加个性化、有机的模式，以培养每个学生的独特能力。
 
