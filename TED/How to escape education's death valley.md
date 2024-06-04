@@ -12,6 +12,10 @@ Date: April 2013
 
 ## Introduction
 
+Sir Ken Robinson outlines 3 principles crucial for the human mind to flourish -- and how current education culture works against them. In a funny, stirring talk he tells us how to get out of the educational "death valley" we now face, and how to nurture our youngest generations with a climate of possibility.
+
+
+
 ## Vocabulary
 
 Have you come across this idea? 你遇到过这种想法吗？
