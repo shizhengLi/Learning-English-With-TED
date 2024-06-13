@@ -3,10 +3,11 @@
 This repo contains materials for studying English.
 
 - TED: learning notes of TED speeches
+- Magazines: learning notes of The Economist, New Yorker, etc.
 
 
 
-Format of learning notes
+Format of TED learning notes
 
 ```markdown
 # Title
@@ -32,3 +33,4 @@ Date:
 
 
 
+This project was launched in April 2024.
