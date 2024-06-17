@@ -6,6 +6,10 @@ Link: [https://www.ted.com/talks/vinod_khosla_12_predictions_for_the_future_of_t
 
 Speaker:  Vinod Khosla
 
+>**Vinod Khosla** (born 28 January 1955) is an Indian-American billionaire businessman and [venture capitalist](https://en.wikipedia.org/wiki/Venture_capitalist). He is a co-founder of [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) and the founder of [Khosla Ventures](https://en.wikipedia.org/wiki/Khosla_Ventures).[[1\]](https://en.wikipedia.org/wiki/Vinod_Khosla#cite_note-1) Khosla made his wealth from early venture capital investments in areas such as networking, software, and alternative energy technologies.[[2\]](https://en.wikipedia.org/wiki/Vinod_Khosla#cite_note-2) He is considered one of the most successful and influential venture capitalists.[[3\]](https://en.wikipedia.org/wiki/Vinod_Khosla#cite_note-3)
+>
+>In 2014, *[Forbes](https://en.wikipedia.org/wiki/Forbes)* counted him among the 400 richest people in the United States.[[4\]](https://en.wikipedia.org/wiki/Vinod_Khosla#cite_note-4) In 2021, he was ranked 92nd on the *Forbes* 400 list.[[5\]](https://en.wikipedia.org/wiki/Vinod_Khosla#cite_note-forbes400-5) As of March 2024, *Forbes* estimated his net worth at US$6.8 billion.[[6\]](https://en.wikipedia.org/wiki/Vinod_Khosla#cite_note-Forbes_profile-6)
+
 Date: April 2024
 
 @[toc]
