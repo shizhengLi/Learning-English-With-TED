@@ -4,6 +4,7 @@ This repo contains materials for studying English.
 
 - TED: learning notes of TED speeches
 - Magazines: learning notes of The Economist, New Yorker, etc.
+- YouTube: learning notes of YouTube videos
 
 
 
