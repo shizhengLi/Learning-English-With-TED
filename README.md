@@ -1,10 +1,20 @@
 # Learning English From TED
 
+
+
+## Contents
+
+
+
 This repo contains materials for studying English.
 
-- TED: learning notes of TED speeches
-- Magazines: learning notes of The Economist, New Yorker, etc.
-- YouTube: learning notes of YouTube videos
+- TED: transcript and learning notes of TED speeches
+- Magazines: notes of The Economist, New Yorker, etc.
+- YouTube: subtitles and learning notes of YouTube videos
+
+
+
+## Format
 
 
 
@@ -34,4 +44,15 @@ Date:
 
 
 
+## Timestamp
+
+
+
 This project was launched in April 2024.
+
+
+
+## Disclaimer
+
+This project has nothing to do with political stance and is only used for English learning. 
+
