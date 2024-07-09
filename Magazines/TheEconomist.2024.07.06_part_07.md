@@ -92,7 +92,7 @@ mismanaged：管理不善
 
 accrue：美 [əˈkruː]  （钱款、债务）累积；积累；
 
-lad loans：不良贷款
+bad loans：不良贷款
 
 real-estate developers：房地产开发商
 
