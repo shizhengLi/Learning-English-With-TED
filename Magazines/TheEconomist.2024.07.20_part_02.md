@@ -182,7 +182,7 @@ the opposition to the tariffs.
 
 学习：
 
-start contrast：鲜明的对比
+stark contrast：鲜明的对比
 
 stiff：严格的；严厉的；
 
