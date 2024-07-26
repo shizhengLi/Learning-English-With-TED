@@ -306,7 +306,7 @@ tariffs zapping profits：关税“攻击”利润，意思是关税让利润降
 
 despise：美 [dɪˈspaɪz] 轻视；蔑视；看不起；厌恶
 
-save haven：避风港
+safe haven：避风港
 
 blunders：愚蠢的错误；大错；（blunder的复数）
 
