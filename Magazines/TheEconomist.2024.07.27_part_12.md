@@ -409,7 +409,7 @@ outlays：美 [ˈaʊtˌleɪz] 花费；费用；（outlay的复数）
 
 ammunition：美 [ˌæmjuˈnɪʃn] 弹药；子弹；军火；
 
-living quaaters：生活区；宿舍；生活小区          
+living quarters：生活区；宿舍；生活小区          
 
 barracks：美 [ˈbɛrəks] 兵营；营房
 
