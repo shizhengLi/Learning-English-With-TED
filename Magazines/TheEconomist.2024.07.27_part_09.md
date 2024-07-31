@@ -74,7 +74,7 @@ needs is “just like a pack of cigs and like a BIC lighter”.
 
 copycat：美 [ˈkɑːpikæt] 仿效者；跟风者；
 
-reixes：美 [ˈri:ˈmiksiz] 调整版录制音乐；重新合成版；（remix的复数）
+remixes：美 [ˈri:ˈmiksiz] 调整版录制音乐；重新合成版；（remix的复数）
 
 spawned：美 [s'pɔnd] 大量生产；（spawn的过去分词）
 
