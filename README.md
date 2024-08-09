@@ -48,6 +48,8 @@ Date:
 
 
 
+Have read 100 economist articles from June to August 2024.
+
 This project was launched in April 2024.
 
 
