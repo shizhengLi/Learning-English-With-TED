@@ -56,7 +56,7 @@ the capital of Shanxi province. The scheme is said to have generated 380m
 
 yuan ($53m) in revenue. Nearly 80 people have reportedly been detained.
 
-国有在线出版物《人民日报》于8月8日披露了这一消息。丑闻涉及几个省的火葬场和医学实验室的尸体。据称，这些尸体被切割，然后运送到山西省省会太原的一家名为Shanxi Aorui Biomaterials公司进行处理。据说该计划已经产生了3 . 8亿元人民币(5300万美元)的收入。据报道，近80人被拘留。
+国有在线出版物《澎湃新闻》于8月8日披露了这一消息。丑闻涉及几个省的火葬场和医学实验室的尸体。据称，这些尸体被切割，然后运送到山西省省会太原的一家名为Shanxi Aorui Biomaterials公司进行处理。据说该计划已经产生了3 . 8亿元人民币(5300万美元)的收入。据报道，近80人被拘留。
 
 学习：
 crematoria：美 [ˌkremə'tɔrɪr] 火葬场；（crematorium的复数）
