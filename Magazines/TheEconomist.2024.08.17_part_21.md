@@ -2,6 +2,12 @@
 
 The superpower faces more adversaries, new technologies and less-confident allies
 
+eye: 考虑，密切关注
+
+>这里的 "eye" 意思是密切关注或考虑。结合上下文，这句话的意思是，美国虽然不情愿，但正在考虑建造更多核武器。
+>
+>例句：The company is eyeing new markets for expansion.（这家公司正在考虑开拓新市场。）
+
 ![image-20240821162052180](./assets/image-20240821162052180.png)
 
 原文：
