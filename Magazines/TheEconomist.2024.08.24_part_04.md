@@ -38,7 +38,7 @@ published this, will be examined even more closely than usual.
 
 学习：
 
-fell seasick：晕船
+feel seasick：晕船
 
 swirl：美 [swɜːrl] 漩涡；涡流；
 
