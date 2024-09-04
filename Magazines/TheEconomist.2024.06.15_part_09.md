@@ -78,7 +78,7 @@ oppressive：美 [əˈpresɪv] 压迫性的；压制性的；高压的；沉重�
 
 growing more oppressive：变得越来越咄咄逼人
 
-make a touch choice：做出艰难的决定
+make a tough choice：做出艰难的决定
 
 resign：辞职
 

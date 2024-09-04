@@ -92,7 +92,7 @@ surging shares, though Meta and Microsoft have notably not done so.
 
 学习：
 
-hit new higts：创下新高
+hit new highs：创下新高
 
 come into effect：生效
 

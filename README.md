@@ -14,6 +14,16 @@ This repo contains materials for studying English.
 
 
 
+## Timestamp
+
+
+
+Have thoroughly read 200 articles from *The Economist* between June 13 and September 3, 2024 (2 months).
+
+This project was launched in April 2024.
+
+
+
 ## Format
 
 
@@ -41,16 +51,6 @@ Date:
 
 ## Afterword
 ```
-
-
-
-## Timestamp
-
-
-
-Have read 100 economist articles from June to August 2024.
-
-This project was launched in April 2024.
 
 
 
