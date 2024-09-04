@@ -18,7 +18,7 @@ This repo contains materials for studying English.
 
 
 
-Have thoroughly read 200 articles from *The Economist* between June 13 and September 3, 2024 (2 months).
+Have thoroughly read 200 articles from *The Economist* between June 13 and September 3, 2024 (two and a half months).
 
 This project was launched in April 2024.
 
