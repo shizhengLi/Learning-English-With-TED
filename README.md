@@ -56,5 +56,5 @@ Date:
 
 ## Disclaimer
 
-This project has nothing to do with political stance and is only used for English learning. 
+This project does not represent the author's political views and is only used for English learning. 
 
