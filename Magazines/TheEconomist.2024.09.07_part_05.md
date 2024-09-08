@@ -160,7 +160,7 @@ battleground, those who disagree with the politics of Mr Musk and his allies
 
 have become relaxed about the onslaught.
 
-自从这本书问世以来，关于言论和法律的争论一直很激烈，更不用说脸书了。我们的长期立场是明确的:只有拥有犯错的自由，社会才能慢慢走向正确。发生了变化的是，如今对压制言论自由最强烈的反对来自X的老板埃隆马斯克(Elon Musk)等右翼人士，而许多自称自由主义者的人则为他们认为是对支持特朗普的亿万富翁的打击而欢呼。随着言论成为文化战争的战场，那些不同意马斯克及其盟友政治观点的人对这场冲击已经放松了。
+自从书籍发明以来，关于言论和法律的争论一直很激烈，更不用说脸书了。我们的长期立场是明确的:只有拥有犯错的自由，社会才能慢慢走向正确。发生了变化的是，如今对压制言论自由最强烈的反对来自X的老板埃隆马斯克(Elon Musk)等右翼人士，而许多自称自由主义者的人则为他们认为是对支持特朗普的亿万富翁的打击而欢呼。随着言论成为文化战争的战场，那些不同意马斯克及其盟友政治观点的人对这场冲击已经放松了。
 
 学习：
 
@@ -168,7 +168,14 @@ objection：反对
 
 self-described：自称为；自诩；自我标榜为
 
-onslaught： 美 [ˈɑːnslɔːt] 攻击；猛攻；冲击；强烈抨击          
+onslaught： 美 [ˈɑːnslɔːt] 攻击；猛攻；冲击；强烈抨击     
+
+> 这里的 **book** 并非指具体的书，而是象征“知识”或“思想表达”的媒介。文中提到的“Arguments about speech and the law have been raging since the invention of the book” 意味着，自从书籍的发明以来，关于言论和法律的争论就一直存在。这表明，人们在如何平衡言论自由与法律限制的问题上，争论由来已久。
+>
+> **例子**：
+>
+> - **英文**：Debates about censorship have existed since the invention of the book, as societies struggle to balance free expression and societal norms.
+> - **中文**：自从书籍发明以来，关于审查制度的争论就一直存在，因为社会在努力平衡言论自由与社会规范。  
 
 原文：
 
