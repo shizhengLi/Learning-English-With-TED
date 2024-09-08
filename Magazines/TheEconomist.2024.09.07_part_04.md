@@ -36,7 +36,15 @@ Nigel Farage, in July.
 
 comforting：令人欣慰的；安慰的；
 
-whisker: 美 [ˈwɪskər]
+whisker: 美 [ˈwɪskər]: 极小的差距，险些
+
+>
+>
+>这里的 **whisker** 是指“极小的差距”或“险些”。在文中，它用来形容德国右翼政党（AfD）在萨克森州的选举中以微弱的差距输掉选举，类似于英语中的短语 "by a hair"。
+>
+>**例子**：
+>- **英文**：The team lost the championship by a whisker, with the final score 2-1 in extra time.
+>- **中文**：那支球队以微弱的差距输掉了冠军，最终比分是加时赛的2比1。
 
 nasty: 美 [ˈnæsti] 令人不快的；讨厌的；肮脏的；
 
