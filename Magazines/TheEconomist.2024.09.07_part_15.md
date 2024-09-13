@@ -70,6 +70,12 @@ participants to put together a plausible reconstruction of events.
 
 spin game:
 
+>
+>
+>这里的 **"spin game"** 指的是在辩论或事件之后，参与者或支持者对事件的解释或包装，以便塑造公众的看法。这种“旋转”通常是为了让某一方看起来更好或更有利，尽管事实可能不完全如此。换句话说，**"spin game"** 是指人们通过策略性的宣传或解读来控制舆论导向和影响公众认知的过程。
+>
+>在这个语境中，辩论结束后，演化论者通过这种“spin game”赢得了胜利，尽管实际发生的事情并没有确切记录，回忆各不相同，但舆论最终有利于演化论者，损害了主教的声誉，并给了赫胥黎“达尔文的斗犬”的称号。
+
 tarnish: 损坏（名声等）；败坏（声誉等）
 
 reputation was badly tarnished：声誉严重受损
