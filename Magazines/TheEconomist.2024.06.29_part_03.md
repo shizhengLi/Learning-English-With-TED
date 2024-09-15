@@ -112,7 +112,7 @@ playing-field：竞技场
 
 tilted：美 [tɪltɪd] 使倾斜；（tilt的过去式）
 
-in their tougue：用他们的说法方式
+in their tongue：用他们的说法方式
 
 disseminate：美 [dɪˈsemɪneɪt] 传播；普及；宣传；
 
