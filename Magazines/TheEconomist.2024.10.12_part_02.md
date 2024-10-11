@@ -116,17 +116,31 @@ trounced in the 2018 midterms—a candidate who has never won the popular
 
 vote and probably never will—has remade American policy in his image.
 
-这种政策挖墙脚在政治上是有道理的。特朗普首先进入了民主党的地盘，用爱情轰炸工会，废除共和党削减养老金和医疗保健公共支出的计划。因为选举将在六到七个摇摆州进行，所有这些州Republican都比2020年的全国平均水平高出几个百分点，哈里斯女士悄悄地采取特朗普式的立场可能有助于她获胜。然而，结果是，一个在上次选举中失败的候选人，他的政党在2018年的中期选举中被击败——一个从未赢得普选并且可能永远不会赢得普选的候选人——按照他的形象重塑了美国政策。
+这种政策挖墙脚在政治上是有道理的。特朗普首先进入了民主党的地盘，拉拢工会，废除共和党削减养老金和医疗保健公共支出的计划。因为选举将在六到七个摇摆州进行，所有这些州Republican都比2020年的全国平均水平高出几个百分点，哈里斯女士悄悄地采取特朗普式的立场可能有助于她获胜。然而，结果是，一个在上次选举中失败的候选人，他的政党在2018年的中期选举中被击败——一个从未赢得普选并且可能永远不会赢得普选的候选人——按照他的形象重塑了美国政策。
 
 学习：
 
 poaching：漂洗；（poach的现在分词）
 
-policy-poaching
+policy-poaching：借用或采纳另一政党或政治人物的政策想法或主张
+
+>**"Policy-poaching"** 指的是借用或采纳另一政党或政治人物的政策想法或主张。在这里，它形容的是卡马拉·哈里斯借用了特朗普的某些政策，虽然她是民主党成员，但她采纳了一些特朗普在其第一任期内的保守政策，以增加她在摇摆州选民中的吸引力。
+>
+>**例子**：
+>
+>- **English**: The politician engaged in policy-poaching by adopting the rival party’s popular healthcare reforms to win more votes.
+>- **中文**：这位政客通过采纳对手党派的热门医疗改革政策来吸引更多选票，进行政策“偷猎”。
 
 turf：（自己的）地盘；势力范围；主场
 
-love-bombing
+love-bombing: 指用过度的关注、奉承或亲近感来赢得别人的支持或好感
+
+>**"Love-bombing"** 通常指用过度的关注、奉承或亲近感来赢得别人的支持或好感。在这里，"love-bombing" 描述了特朗普通过与工会和工人阶级建立密切联系，以赢得他们支持的策略。
+>
+>**例子**：
+>
+>- **English**: The candidate’s love-bombing of undecided voters included multiple campaign stops and personal meetings to gain their support.
+>- **中文**：这位候选人通过多次竞选站点停留和个人会面，向未决定的选民大肆示好，试图赢得他们的支持。
 
 scrapping：废弃；
 
