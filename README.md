@@ -6,11 +6,12 @@
 
 
 
-This repo contains materials for studying English.
+This repository contains materials for studying English.
 
-- TED: transcript and learning notes of TED speeches
-- Magazines: notes of The Economist, New Yorker, etc.
-- YouTube: subtitles and learning notes of YouTube videos
+- TED: transcript and notes of TED speeches
+- Magazines: notes of English magazines like The Economist
+- YouTube: subtitles and notes of YouTube videos
+- Books: learning notes of English books
 
 
 
