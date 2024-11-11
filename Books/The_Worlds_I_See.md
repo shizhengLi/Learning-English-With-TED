@@ -784,7 +784,249 @@ the coast was clear：四下无人，固定搭配
 >
 >在此上下文中，"coast was clear" 表示用户小心地确认周围没有人注意到他，然后悄悄进入了会议室。
 
+原文：
+
+Through the doors I found an appropriately stately interior, with windows extending from floor to ceiling, wooden shutters, and tassel-clad curtains. Rows of audience seating and room for the press packed the space, with framed portraits lining the surrounding walls. Looming over it all was an ornate dais, its cushioned seats outfitted with microphones and name plates for the committee members who would soon occupy them. At the center of the room was the witness table, waiting for me. I was amused to see my name, DR. LI, printed unceremoniously in Times New Roman on an 8.5-by-11-inch sheet of paper and slid into a reusable name plate of my own. It was charming—even a bit reassuring—to find something so modest in the middle of such an intimidating scene.
+
+透过门，我发现了一个适当的庄严的内部，窗户从地板延伸到天花板，木制百叶窗，流苏装饰的窗帘。一排排的观众座位和媒体空间挤满了这个空间，周围的墙上挂满了镶框的肖像。笼罩着这一切的是一个华丽的讲台，它的软垫座位配有麦克风和名牌，供即将入座的委员会成员使用。房间的中央是证人席，正等着我。看到我的名字，李博士，被毫不客气地印在一张8.5×11英寸的纸上，然后放进我自己的可重复使用的姓名牌里，我觉得很有趣。在如此令人生畏的场景中找到如此朴素的东西，这很迷人，甚至有点让人安心。
+
+学习：
+
+stately：仪态高贵的；壮观的；气宇不凡的；
+
+shutters：美 ['ʃʌtəz] 百叶窗；（shutter的复数）
+
+wooden shutters：木制百叶窗
+
+tassel：美 [ˈtæsəl] 穗；缨；流苏；装饰穗；
+
+clad：穿着衣服的；覆盖着的；镀层的；
+
+tassel-clad：流苏装饰的
+
+curtains：美 [ˈkɜːrtnz] 窗帘；帷幕；门帘；幕布；（curtain的复数）
+
+seating: 座位
+
+>这里的 "seating" 意思是**“座位”**，指安排好供人坐的座位或座位区域。在这里，"audience seating" 指的是为观众安排的座位。
+>
+>类似的用法示例如下：
+>
+>- "The seating was arranged in a circular pattern around the stage."
+>
+>  座位围绕舞台以圆形排列。
+>
+>- "We couldn’t find any seating at the concert because it was so crowded."
+>
+>  由于音乐会人满为患，我们找不到座位。
+
+audience seating ：观众座位
+
+framed：装入框架的；有框架的；
+
+portraits：美 [ˈpɔːrtrəts] 肖像；画像；（portrait的复数）
+
+looming over it all:  在整个场景之上显得巨大且令人注目
+
+>"looming" 的意思是**“隐约可见的”**或**“逼近的”**，通常形容某物在远处显得很大、显眼，或者让人感到压迫和威胁。在这里，"looming over it all" 表示**“在整个场景之上显得巨大且令人注目”**，暗示议事台的威严和气氛。
+>
+>类似的用法示例如下：
+>
+>- "The mountain loomed in the distance, casting a shadow over the valley."
+>
+>  山脉隐约出现在远处，给山谷投下了阴影。
+>
+>- "The deadline was looming, and everyone in the office was feeling the pressure."
+>
+>  截止日期迫在眉睫，办公室里的每个人都感受到了压力。
+>
+>在此上下文中，"looming over it all" 描述的是议事台在房间中占据中心位置，给整个场景带来一种庄严、压倒一切的氛围。
+
+ornate：美 [ɔːrˈneɪt] 华丽的；华美的；豪华的 **注意发音**
+
+dais：英 [ˈdeɪɪs] （尤指房间一端的）讲台；高台；主席台
+
+cushioned：加垫褥；放在垫子上；（cushion的过去分词）          
+
+outfitted：供应；配备；（outfit的过去式和过去分词）
+
+name plates：名牌
+
+unceremoniously：随便地；唐突地；
+
+times new roman：（Times New Roman）新罗马字体；新罗马体（一种常用的衬线字体）          
+
+slid
+
+intimidating：吓人的；令人敬畏的
+
+原文：
+
+The silence hung for a few more seconds before being broken by the murmur of the chamber beginning to fill: representatives and their aides, members of the media, and, finally, my fellow witnesses—Dr. Tim Persons, chief scientist of the Government Accountability Office, and Greg Brockman, cofounder and chief technology officer of a recently founded start-up called OpenAI. This was it.
+
+沉默持续了几秒钟，然后被会议厅里开始充满的低语声打破:代表们和他们的助手，媒体成员，最后是我的证人——政府问责局首席科学家蒂姆·皮斯博士，以及最近成立的初创公司OpenAI的联合创始人兼首席技术官格雷格·布罗克曼。这就是全部。
+
+学习：
+
+murmur:低语；轻声细语；咕哝；私语；耳语；杂音；
+
+原文：
+
+I took my seat, along with a few deep breaths, and tried to keep cool as I felt the first pulse of adrenaline race through me. This wasn’t my classroom, I reminded myself; these weren’t students and I wasn’t here to deliver a lecture. I had one idea to share today, and I repeated it in my thoughts like a mantra. *It matters what motivates the development of AI, in both science and industry, and I believe that motivation* must *explicitly center on human benefit.* I tried to put everything else out of my mind—the dark side of AI, the techlash, even, for a few minutes, my mother’s condition. Back to that mantra. *It matters what motivates the development—*
+
+我坐在座位上，深呼吸了几下，试图保持冷静，因为我感觉到了我体内肾上腺素的第一次脉动。我提醒自己，这不是我的教室；他们不是学生，我也不是来这里讲课的。今天我有一个想法要分享，我像念咒语一样在脑子里重复着。无论是在科学领域还是在工业领域，是什么推动了人工智能的发展，这一点很重要，我相信动机必须明确地以人类利益为中心。我试着把其他一切都抛在脑后——人工智能的阴暗面，科技风暴，甚至有几分钟，我母亲的状况。回到那个咒语。是什么推动了发展——
+
+学习：
+
+keep cool：保持冷静；保持镇定；沉住气
+
+adrenaline： 美 [əˈdrenəlɪn] 肾上腺素
+
+deliver a lecture：讲课
+
+mantra：咒语；口头禅
+
+原文：
+
+“The Committee on Science, Space, and Technology will come to order.” They were the first words I heard amplified through the room’s PA system, snapping me back into the moment. “Good morning, and welcome to today’s hearing, entitled ‘Artificial Intelligence—With Great Power Comes Great Responsibility.’”
+
+"科学、空间和技术委员会将开始运作."这是我通过房间的扩音系统听到的第一句话，把我拉回了那个时刻。“早上好，欢迎参加今天的听证会，题为‘人工智能——强大的能力带来巨大的责任’"
+
+学习：
+
+come to order：开始开会
+
+>这里的 "come to order" 意思是**“开始开会”**或**“开会开始”**，通常用于会议或正式场合，表示会议或讨论正式开始，参与者需要安静并准备好开始。
+>
+>类似的用法示例如下：
+>
+>- "The chairman called the meeting to order at 9 AM."
+>
+>  主席在上午9点宣布会议开始。
+>
+>- "After some delay, the court session was called to order."
+>
+>  经过一段时间的延迟，法庭庭审开始了。
+
+PA system: 公共广播系统
+
+>"PA" 是**“公共广播系统（Public Address system）”**的缩写，指用于在大型场所进行声音扩展的系统，通常用于放大声音，使得远处的人也能听清楚演讲或讲话内容。
+>
+>类似的用法示例如下：
+>
+>- "The PA system was malfunctioning, so we couldn’t hear the announcements."
+>
+>  公共广播系统出了问题，我们听不见公告内容。
+>
+>- "The crowd went silent when the speaker took the microphone from the PA system."
+>
+>  当演讲者拿起麦克风时，观众寂静无声，等待他的发言。
+
+snap：猛地拉回注意力
+
+>"Snap" 在这里是**“猛地拉回注意力”**的意思，通常用来描述某人因某个突发事件或突然的动作而迅速从漫无目的的思考或状态中回过神来。
+>
+>类似的用法示例如下：
+>
+>- "The loud noise snapped me out of my daydream."
+>
+>  响亮的声音让我从白日梦中猛地清醒过来。
+>
+>- "The sudden announcement snapped him back to reality."
+>
+>  突如其来的公告让他猛地回到了现实中。
+>
+>在此上下文中，"snapping me back into the moment" 表示那句话突然打断了用户的思绪，让他们重新专注于眼前的情景。
+
+原文：
+
+I pushed the anxieties out of my mind. Whatever awaited me, I was sure of one thing: this technology had the power to transform the world for the better. How exactly we’d reach that future remained an open question, but it was clear, even then, that conversations like the one about to begin were our best chance at answering it. I’d flown across the country and left my ailing mother’s bedside to be here, and I couldn’t leave without making that clear.
+
+我消除了心中的焦虑。无论等待我的是什么，我确信一件事:这项技术有能力让世界变得更好。我们究竟如何实现这一未来仍是一个未决问题，但很明显，即使在那时，像即将开始的对话是我们回答这个问题的最佳机会。我飞越了整个国家，离开了我生病的母亲的床边来到这里，我不能不讲清楚这一点就离开。
+
+学习：
+
+ailing：美 [ˈeɪlɪŋ] 生病的；体弱的；不健康的
+
+原文：
+
+I believe our civilization stands on the cusp of a technological revolution with the power to reshape life as we know it. To ignore the millennia of human struggle that serves as our society’s foundation, however—to merely “disrupt,” with the blitheness that has accompanied so much of this century’s innovation—would be an intolerable mistake. This revolution must build on that foundation, faithfully. It must respect the collective dignity of a global community. And it must always remember its origins: the restless imagination of an otherwise unremarkable species of hominid, so mystified by its own nature that it now seeks to re-create it in silicon. This revolution must, therefore, be unequivocally human-centered.
+
+我相信我们的文明正站在一场技术革命的尖端，这场革命有能力重塑我们所知的生活。然而，忽视作为我们社会基础的千年人类斗争——仅仅“颠覆”伴随着本世纪如此多创新的轻率的反思——将是一个不可容忍的错误。这场革命必须忠实地建立在这个基础上。它必须尊重全球社会的集体尊严。而且它必须永远记住自己的起源:一个原本不起眼的原始人类物种的无休止的想象力，它对自己的本性如此迷惑，以至于现在它试图用硅来重新创造它。因此，这场革命必须明确以人为中心。
+
+学习：
+
+cusp：尖端；尖头；顶点；
+
+blitheness：轻率
+
+>这里的 **"blitheness"** 意思是 **“无忧无虑”** 或 **“轻率”**，通常指对某件事物缺乏深思熟虑或责任感，表现出不够严肃或不以为意的态度。在这个上下文中，"blitheness" 指的是某些创新活动可能过于轻率、缺乏对历史或人类社会后果的深刻反思。
+>
+>类似的用法示例如下：
+>
+>- "He approached the task with blitheness, not realizing the consequences of his actions."
+>
+>  他轻率地处理这项任务，没意识到自己的行为会带来后果。
+>
+>- "The blitheness of their decision-making led to unforeseen problems."
+>
+>  他们决策时的轻率导致了难以预见的问题。
+
+restless: 不安的，焦虑的
+
+>**"Restless"** 在这里是 **“不安的”** 或 **“焦虑的”**，通常指无法安宁或有强烈需求去做某事的状态。在此上下文中，"restless imagination" 表示人类有着强烈的、无法安宁的想象力，总是不断思考、探索和创新。
+>
+>类似的用法示例如下：
+>
+>- "The restless crowd waited eagerly for the concert to begin."
+>
+>  焦躁的观众急切地等待音乐会开始。
+>
+>- "His restless mind made it hard for him to focus on one task for too long."
+>
+>  他不安的思绪让他很难集中注意力长时间做一项任务。
+
+unremarkable：平庸的；不出众的；平凡的；普通的
+
+hominid：英 [ˈhɒmɪnɪd] 人科动物；人科；类人猿；
+
+otherwise: 否则，如果不是这样
+>**"Otherwise"** 在这里表示 **“否则”** 或 **“如果不是这样”**，通常用来引出一种假设的情形或结果。这个词强调如果某种情况不成立，结果会是不同的。在这个上下文中，"otherwise unremarkable species" 意味着人类本身在自然界中原本并不出众，指的是如果没有人类的想象力和创造力，人类可能只是一个平凡的物种。
+>
+>类似的用法示例如下：
+>
+>- "She was otherwise healthy, except for a minor cold."
+>
+>  除了轻微的感冒，她的身体其他方面都很健康。
+>
+>- "The film was good, but the acting was otherwise mediocre."
+>
+>  这部电影总体不错，但演技却平平无奇。
+>
+>在这个上下文中，"otherwise unremarkable" 表示人类如果没有超凡的想象力和创新能力，就只是一个普通的物种。
+
+mystified：使困惑；使迷惑；（mystify的过去式和过去分词）
+
+unequivocally：清楚明确地；毫不含糊地          
 
 
-## End
 
+原文：
+
+More than two decades earlier, a journey had begun that defined the person I’d become. It was an improbable, often inexplicable path that led me across oceans, from the middle class to poverty and back again, to the lecture halls of the Ivy League and the boardrooms of Silicon Valley. Gradually, it shaped everything I’d come to believe about this technology—the inspiring, the challenging, and the frightening—and where I believe it will go next. Most important, it served as a twenty-year lesson on the essential role of humanity in the technological quest that I’m certain will define this century.
+
+二十多年前，一段旅程开始了，这段旅程决定了我的未来。这是一条不可思议的、常常令人费解的道路，它带领我跨越重洋，从中产阶级到贫困，然后再回来，来到常春藤联盟的演讲厅和硅谷的董事会会议室。渐渐地，它塑造了我对这项技术的一切看法——鼓舞人心的、充满挑战的、令人恐惧的——以及我相信它接下来会走向何方。最重要的是，它给我上了20年的一课，让我认识到人类在技术探索中的重要作用，我确信这将是本世纪的特征。
+
+学习：
+
+improbable：不大可能的；难以置信的；出乎意料的；
+
+inexplicable：美 [ˌɪnɪkˈsplɪkəbl] 无法解释的；费解的；
+
+quest：探索
+
+
+
+## 后记
+
+2024年11月11日18点39分于上海。完成李飞飞自传英文版第一章的精读。
