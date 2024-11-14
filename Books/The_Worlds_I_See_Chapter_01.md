@@ -856,7 +856,21 @@ unceremoniously：随便地；唐突地；
 
 times new roman：（Times New Roman）新罗马字体；新罗马体（一种常用的衬线字体）          
 
-slid
+slid：滑入，滑动， 美 [slɪd] （slide的过去分词）
+
+>这里的 **"slid"** 是 **“滑入”** 或 **“滑动”** 的意思，通常指平稳地、轻轻地进入某个位置。在这里，"slid into a reusable name plate" 表示我的名字（DR. LI）被放入了一个可重复使用的名牌里，暗示这种放置过程非常自然、轻松。
+>
+>类似的用法示例如下：
+>
+>- "He slid the letter into the envelope before sealing it."
+>  
+>  他把信滑进信封里，然后封好。
+>
+>- "She slid into the seat just as the movie was about to start."
+>  
+>  她刚好滑入座位，电影就要开始了。
+>
+>在此上下文中，"slid" 传达了一种平稳、毫不费力的动作，反映了名字放入名牌的过程非常简便。
 
 intimidating：吓人的；令人敬畏的
 
