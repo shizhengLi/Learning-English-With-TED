@@ -256,7 +256,241 @@ The North Star：北极星
 
 
 
-## End
+原文：
+
+I was born the only child of a family in a state of quiet upheaval. I could feel an air of uncertainty throughout my early years, and sensed from a young age that something—perhaps many somethings—had left my elders reeling. Over time, new layers of their discontent revealed themselves: unrealized dreams, pangs of regret verging on unrest, and a persistent feeling that even the place we called home wasn’t truly ours. It was a picture I pieced together gradually, connecting the dots of overheard chats and stray asides as children naturally do.
+
+我出生在一个平静动荡的家庭中，是家里的独生子。在我的早年，我能感觉到一种不确定的气氛，并且从年轻的时候就感觉到一些事情——也许是许多事情——让我的长辈们感到不安。随着时间的推移，他们不满的新层面显露出来:未实现的梦想，接近不安的悔恨之痛，以及一种持续的感觉，即使是我们称之为家的地方也不是真正属于我们的。这是我逐渐拼凑起来的一幅画，像孩子自然会做的那样，把无意中听到的聊天记录和零散的旁白连接起来。
+
+学习：
+
+reeling： 震惊或感到不知所措
+
+pangs：剧痛；苦闷；（pang的复数）
+
+verging on: 接近，几乎
+
+>这里的 **"verging"** 意思是 **“接近”** 或 **“趋于”**，用来描述一种状态即将达到某种程度或边界。在这句话中，**"pangs of regret verging on unrest"** 表示 **“悔恨的痛苦接近不安的状态”**，暗示这种悔恨情绪几乎要演变为更强烈的不安或焦虑。
+>
+>类似用法的例子如下：  
+>
+>- "Her voice was trembling, verging on tears."  
+>  她的声音颤抖，几乎要哭出来了。  
+>
+>- "The debate grew heated, verging on hostility."  
+>  辩论变得激烈，几乎要发展为敌意。
+
+unrest：不安；动乱；骚动
+
+overheard：偷听；无意中听到；（overhear的过去式和过去式）       
+
+stray：零星的；孤立的；偶然的   
+
+asides：旁白；悄悄话；离题话；低声说的话；（aside的复数）          
+
+原文：
+
+Although born in Beijing, China, I was raised more than a thousand miles away, in Chengdu, capital of the Sichuan province. It was, nominally, the home of my mother’s family, although their arrival was recent. Originally from Hangzhou, near the coastal region of Shanghai, they fled like thousands of others as their towns were ravaged by the Second Sino-Japanese War in the 1930s. They were grateful to have survived, but were left with an inescapable sense of displacement that still reverberated a generation later.
+
+虽然出生在中国北京，但我是在一千多英里外的四川省会成都长大的。名义上，这是我母亲一家的家，尽管他们是最近才到的。他们来自杭州，靠近上海的沿海地区，像成千上万的其他人一样，因为他们的城镇在20世纪30年代的战争中遭到破坏而逃离。他们很庆幸自己活了下来，但留下了一种不可避免的流离失所感，这种感觉在一代人之后仍在回荡。
+
+学习：
+
+ravaged：掠夺；破坏；毁坏；（ravage的过去式）          
+
+inescapable：不可避免的；无法逃避的
+
+displacement: 流离失所
+
+sense of displacement：流离失所感
+
+>这里的 **"displacement"** 意思是 **“流离失所”** 或 **“被迫迁移”**，通常指由于战争、自然灾害或其他原因导致人们不得不离开自己的家园。在这句话中，**"an inescapable sense of displacement"** 描述了一种深刻的、无法摆脱的失落感，源于作者母亲的家人因为战争而被迫逃离家乡的经历。这种感受甚至在后代中依然回荡。
+>
+>类似的用法示例如下：
+>
+>- "The earthquake caused widespread displacement among the local population."  
+>  地震导致当地人口大规模流离失所。  
+>
+>- "After the war, many families struggled with a deep sense of displacement, unable to return to their homes."  
+>  战后，许多家庭深受流离失所感的折磨，无法回到自己的家园。
+
+reverberated：美 [rɪˈvɜ:bəˌreɪtid] 回响；反响；（reverberate的过去式和过去分词）
+
+原文：
+
+My maternal grandfather was especially given to pained reflections on life before the turmoil; a star student with a promising future, he was left with little choice but to abandon school to support his family, even as they descended into years of poverty. It was an unresolved tension he would carry for decades and pass down to his children. In time, it would come to grip me as well: the dull, wordless feeling that home—indeed, life itself—lay elsewhere.
+
+我的外祖父特别喜欢痛苦地反思动乱前的生活；作为一名前途光明的明星学生，他别无选择，只能辍学养家，尽管他们陷入了多年的贫困。这是一个未解决的紧张感觉，他将带着它几十年，并传递给他的孩子。总有一天，它也会抓住我:那种沉闷、无言的感觉，那就是家——事实上，生活本身——在别处。
+
+学习：
+
+maternal：美 [məˈtɜːrnl] 母亲的；母性的；
+
+maternal grandfather：姥爷
+
+given to： **“倾向于”** 或 **“常常表现出某种行为或情绪”**
+
+>这里的 **"given to"** 意思是 **“倾向于”** 或 **“常常表现出某种行为或情绪”**，用来描述某人有某种习惯或特质。在句中，**"My maternal grandfather was especially given to pained reflections"** 表示作者的外祖父特别容易沉浸在痛苦的回忆中。
+>
+>类似的用法示例如下：
+>
+>- "She is given to bouts of anxiety before major exams."
+>  她在大考前容易出现焦虑情绪。
+>- "He was given to spontaneous acts of kindness."
+>  他常常会做一些即兴的善举。
+
+descend into: **“陷入”** 或 **“逐渐恶化到某种糟糕的状态”**
+>这里的 **"descend into"** 意思是 **“陷入”** 或 **“逐渐恶化到某种糟糕的状态”**，通常用于描述从较好的状态逐步走向混乱、贫困或其他负面的情境。在句中，**"even as they descended into years of poverty"** 表示作者的外祖父一家逐渐陷入了多年的贫困之中。
+>
+>类似的用法示例如下：
+>
+>- "The discussion quickly descended into chaos."
+>  讨论很快就陷入了混乱。
+>- "Without proper management, the company could descend into financial ruin."
+>  如果缺乏适当的管理，公司可能会陷入财政危机。
+
+原文：
+
+Though an ancient city of rich heritage, the Chengdu of my childhood was an ode to Soviet-style central planning, built on a series of concentric, ring-shaped roads, serving as a kind of municipal scaffolding extending in every direction toward the countryside. Growth was vertical as well, with buildings of uniform design but ever-rising heights, reaching farther and farther into balmy skies blanketed in near-constant fog and hemmed in by the surrounding basin.
+
+尽管成都是一座拥有丰富遗产的古城，但我童年时代的成都是对苏联式中央规划的赞美，它建在一系列同心的环形道路上，充当着向乡村各个方向延伸的市政脚手架。增长也是垂直的，建筑物设计统一，但高度不断上升，越来越远地伸向温暖的天空，笼罩在近乎持续的雾中，被周围的盆地包围。
+
+学习：
+
+ode：美 [oʊd] 颂歌；颂诗；抒情诗；
+
+concentric：同心的；同心圆的；
+
+balmy：温暖舒适的；温和宜人的；
+
+blanketed：掩盖；覆盖；
+
+hemmed：包围；（hem的过去式）          
+
+basin：盆地
+
+原文：
+
+Architecture stretching from horizon to horizon celebrated density in scale but banality in spirit; it was a world built from circles, rectangles, and a disciplined palette of grays and browns—accented with rhythmic predictability by the bold reds of propaganda posters—coarsely woven into a distinct industrial style. The city’s roots could still be seen, of course, in narrow streets with low rooflines, pitched and layered in shingles, surrounding open-air courtyards and verdant landscaping. Still, from a bird’s-eye view, the trend was clear. It was as if utilitarianism had been elevated to an urban art form, the austerity of its surface masking a relentless ambition still in its early stages.
+
+一望无际的建筑在规模密度上值得庆祝，但在精神上却是平庸的；这是一个由圆形、矩形和有规律的灰色和棕色构成的世界——点缀着通过宣传海报上醒目的红色带来的有节奏的可预测性——被粗糙地编织成一种独特的工业风格。当然，这个城市的根仍然可以在狭窄的街道上看到，这些街道的屋顶很低，周围是露天庭院和翠绿的景观。不过，从鸟瞰的角度来看，趋势是明显的。这就好像功利主义已经被提升到一种城市艺术形式，其表面的简朴掩盖了仍处于早期阶段的无情野心。
+
+学习：
+
+from horizon to horizon: **“一望无际”** 或 **“从地平线的一边到另一边”**
+
+>这里的 **"from horizon to horizon"** 意思是 **“一望无际”** 或 **“从地平线的一边到另一边”**，用于描述某物（例如建筑或景观）占据了广阔的视野，似乎无边无际。在句中，**"Architecture stretching from horizon to horizon"** 形容建筑物规模巨大，密密麻麻地占据了视野范围。
+>
+>类似的用法示例如下：
+>
+>- "The golden wheat fields stretched from horizon to horizon."
+>  金黄色的麦田一望无际。
+>- "Clouds covered the sky from horizon to horizon."
+>  云层覆盖了天空，延伸到地平线的尽头。
+
+banality：英 [bəˈnæləti] 陈腐；平凡；陈词滥调
+
+palette：美 [ˈpælət] 调色板；色彩范围；色调；风格
+
+coarsely：英 [ˈkɔːsli] 粗略地；粗暴地；
+
+accented: 点缀，装饰
+
+> 这里的 "accent" 意思是 **“点缀”或“装饰”**，表示在一片相对单调的环境中加入一些引人注目的细节。
+
+roofline：屋顶轮廓；屋顶边缘；屋顶高度
+
+shingles：美 [ˈʃɪŋɡəlz] 木瓦；屋顶瓦；屋顶板；
 
 
 
+>这里的 **"pitched and layered in shingles"** 用来描述传统建筑的屋顶。
+>
+>- **"Pitched"** 指 **“倾斜的”**，通常用来形容屋顶有坡度的设计，有助于排水和雪的滑落。
+>- **"Layered in shingles"** 指屋顶覆盖了 **“层叠的屋瓦”**（shingles 通常是小块的瓦片或木片），这些屋瓦层层叠叠地排列，形成保护性结构。
+>
+>句中的 **"pitched and layered in shingles"** 描述了一种典型的传统建筑风格，屋顶低矮、倾斜，并用瓦片层层覆盖。
+>
+>类似的用法示例如下：
+>
+>- "The cottage had a pitched roof layered in wooden shingles."
+>  小屋有一个倾斜的屋顶，上面覆盖着层叠的木瓦。
+>- "Traditional Japanese homes often feature pitched roofs covered with clay tiles."
+>  传统的日本住宅通常有倾斜的屋顶，覆盖着粘土瓦片。
+
+open-air：露天；户外          
+
+verdant：青翠的；碧绿的；
+
+utilitarianism：美 [ˌjuːtɪlɪˈteriənɪzəm] 功利主义；功利性；
+
+austerity：简朴；朴素；朴实；简陋；
+
+原文：
+
+But even in a nation racing toward a 1980s picture of modernity, in a city built to expand, a child’s view of the world is provincial by nature. Its horizons are close and steep, admitting only hints of what lies beyond. For one to see further, to the frontiers that await, there needs to be a special kind of influence.
+
+但是，即使在一个奔向20世纪80年代现代化图景的国家，在一个为扩张而建的城市，孩子对世界的看法本质上也是狭隘的。儿童的认知就像被近而陡峭的地平线包围，只能略微窥探到更广阔世界的存在。一个人要想看得更远，看到等待着她的新领域，需要一种特殊的影响。
+
+学习：
+
+modernity：现代性；现代性的东西；现代作风
+
+provincial：美 [prəˈvɪnʃl]  **“狭隘的”** 或 **“视野局限的”**
+
+>这里的 **"provincial"** 意思是 **“狭隘的”** 或 **“视野局限的”**，通常用来形容对外界了解有限、目光短浅的人或事物。在这句话中，**“a child’s view of the world is provincial by nature”** 意味着儿童天生对世界的认知是局限的，只能看到自己身边的小环境，无法理解更广阔的世界。
+>
+>类似的用法示例如下：
+>
+>- "Her understanding of the world was still provincial, shaped by the small town where she grew up."
+>  她对世界的理解仍然很局限，受到她成长的小镇影响。
+>- "The provincial mindset of the villagers made them skeptical of outside influences."
+>  村民们狭隘的思维方式让他们对外界的影响持怀疑态度。
+
+
+
+>**Its horizons are close and steep, admitting only hints of what lies beyond.**
+>
+>这句话用比喻的手法，描绘了儿童对世界的认知范围有限。
+>
+>- **"Horizons are close"** 表示 **“视野非常有限”**，就像地平线近在眼前，阻碍了他们看到更远的东西。
+>- **"Steep"** 指 **“陡峭的”**，进一步强调这些视野边界不仅近，还像屏障一样难以逾越。
+>- **"Admitting only hints of what lies beyond"** 的意思是 **“只能透露出一些外界的模糊线索”**，意味着孩子只能感受到外面世界的些许迹象，但无法完全理解。
+>
+>句子的整体意思是，儿童的认知就像被近而陡峭的地平线包围，只能略微窥探到更广阔世界的存在，但对其真正的面貌一无所知。
+>
+>类似的用法示例如下：
+>
+>- "The dense fog made the mountain’s horizon feel close and steep, hiding the valleys below."
+>  浓雾让山的地平线显得既近又陡峭，遮住了下面的山谷。
+>- "For young students, the boundaries of their knowledge feel steep, with only glimpses of the vast field ahead."
+>  对于年轻学生来说，他们的知识边界显得陡峭，只能隐约看到前方广阔的领域。
+
+
+
+admit: **“允许”** 或 **“容许”** 的意思，表示允许某些东西通过或进入
+
+>这里的 **"admit"** 是 **“允许”** 或 **“容许”** 的意思，表示允许某些东西通过或进入。在这句话中，**"admitting only hints of what lies beyond"** 的意思是：这些“视野的边界”只允许一小部分关于外界的线索显现出来，而不会完全展现出外面的全貌。
+>
+>更具体地解释：
+>
+>- **"Horizons are close and steep"** 描绘了地平线（比喻视野）近在眼前且像屏障一样陡峭；
+>- **"Admitting only hints"** 则进一步说明，这种视野只“容许”外界的一些模糊迹象进入孩子的认知范围，而无法展示外界的全貌。
+>
+>类似的用法示例：
+>
+>1. **描述允许进入的情况**：
+>   - "The narrow door admitted only one person at a time."  
+>     这扇窄门一次只容许一个人通过。  
+>   - "The old window admitted a faint beam of light into the dark room."  
+>     旧窗户让一道微弱的光束进入了黑暗的房间。  
+>
+>2. **比喻性的用法**：
+>   - "Her guarded demeanor admitted little of her true feelings."  
+>     她谨慎的举止几乎不允许外人窥见她的真实感受。  
+>   - "The dense forest admitted only glimpses of the path ahead."  
+>     茂密的森林只让人偶尔瞥见前方的道路。
+>
+>结合原句：
+>
+>在原句中，**"admit"** 是比喻性的用法，指视野的“边界”允许了一些模糊的线索显现，但整体上依然将大部分外界隔绝。这种表达突出了儿童认知的局限性。
