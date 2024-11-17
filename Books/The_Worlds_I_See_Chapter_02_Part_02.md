@@ -213,7 +213,7 @@ maze: 迷宫
 
 No moment better demonstrates my father’s character—equal parts playful and exasperating, thoughtless and clever—than his role in my birth. It was a trying day, as the story was later told to me, more than a thousand miles from Chengdu on the second floor of a hospital in Beijing (not far from the Forbidden City palace), where his family resided. But he arrived late—absurdly so—not because of gridlocked traffic or some unexpected emergency, but because he’d been so absorbed in an impromptu day of bird-watching at a local park that he’d completely lost track of time. Among his many quirks was an affinity for wordplay, however, and the ordeal brought to mind the Mandarin word *fēi*, meaning “to fly.” Its whimsical connotations, reinforced by its bird-like rendering in simplified Chinese—飞—made “Fei-Fei” a natural choice for my name. It happened to be unisex, too, reflecting his lack of concern even about an idea as fundamental to the culture as gender, and was uncommon enough among my generation to appeal to his off-kilter sensibilities. But it was also his first contribution as a parent, unpretentious and sweet. And although his own flightiness hadn’t exactly won my mother’s affections for the day, she conceded she liked the name, too.
 
-没有哪个时刻比我父亲在我出生时的角色更能体现他的性格——既顽皮又令人恼火，既轻率又聪明。后来有人告诉我，那是一个艰难的日子，在离成都一千多英里的北京一家医院的二楼(离故宫不远)，他的家人就住在那里。但他迟到了——荒谬的是——不是因为交通堵塞或一些意想不到的紧急情况，而是因为他在当地公园即兴的一天观鸟中太投入了，以至于完全忘记了时间。然而，他的许多怪癖中有一个是喜欢玩文字游戏，这次经历让我想起了中文单词“飞”，意思是“飞翔”。它异想天开的内涵，通过简体中文的鸟一样的翻译得到加强—飞——让“飞飞”成为我名字的自然选择。它碰巧也是中性的，反映出他甚至对像性别这样对文化至关重要的想法都不关心，这在我这一代人中是不常见的，足以迎合他不正常的情感。但这也是他作为父母的第一份付出，朴实无华，甜美可人。虽然那天他自己的轻浮没有赢得我母亲的喜爱，但她承认她也喜欢这个名字。
+没有哪个时刻比我父亲在我出生时的角色更能体现他的性格——既顽皮又令人恼火，既轻率又聪明。后来有人告诉我，那是一个艰难的日子，在离成都一千多英里的北京一家医院的二楼(离故宫不远)，他的家人就住在那里。但他迟到了——荒谬的是——不是因为交通堵塞或一些意想不到的紧急情况，而是因为他在当地公园即兴的一天观鸟中太投入了，以至于完全忘记了时间。然而，他的许多怪癖中有一个是喜欢玩文字游戏，这次经历让他想起了中文单词“飞”，意思是“飞翔”。它异想天开的内涵，通过简体中文的鸟一样的翻译得到加强—飞——让“飞飞”成为我名字的自然选择。它碰巧也是中性的，反映出他甚至对像性别这样对文化至关重要的想法都不关心，这在我这一代人中是不常见的，足以迎合他不寻常的情感。但这也是他作为父母的第一份付出，朴实无华，甜美可人。虽然那天他自己的轻浮没有赢得我母亲的喜爱，但她承认她也喜欢这个名字。
 
 学习：
 
@@ -314,5 +314,9 @@ flightiness： 轻浮；
 >- "His flightiness often got him into trouble at work."
 >  他的轻浮性格经常让他在工作中惹麻烦。
 
-后记：2024年11月17日14点47分于上海。
+**后记：2024年11月17日14点47分于上海。**
+
+
+
+## End
 
