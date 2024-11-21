@@ -22,7 +22,7 @@ This repository contains materials for studying English.
 
 ## Timestamp
 
-
+[**2024.11.21**] Have learnt 500 American idioms.
 
 [**2024.09.03**] Have thoroughly read 200 articles from *The Economist* between June 13 and September 3, 2024 (two and a half months).
 
