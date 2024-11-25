@@ -283,6 +283,8 @@ This idiom originates from card games where players must strategically play thei
 
 ## 640. Ignorance is bliss
 
+ignorance 美 [ˈɪɡnərəns] 无知；愚昧；不了解
+
 bliss：美 [blɪs] 极乐；大喜；福佑；至福
 
 “不知者无忧” 或 “无知是福”。
