@@ -310,6 +310,138 @@ coaxing：劝诱；（coax的现在分词）
 
 后记：2024年12月1日18点36分于上海。
 
+2024年12月7日22点25分继续阅读，实验室电脑有点卡，准备重启。
+
+
+
+原文
+
+Evolution **bore down** on a single photosensitive protein for a half-billion years, pushing relentlessly as it blossomed across eons into an apparatus so exquisite that it nearly **defies comprehension**. Now, at Caltech, the fruits of that labor were to become our teacher—the entire visual cortex, reaching from the glassy surface of the eye to the **deepest recesses** of the mind. As far as my advisors were concerned, an essential first step toward the promise of machine intelligence was a better understanding of the human kind.
+
+进化在半亿年的时间里施加了压力，推动着一个光敏蛋白不断发展，最终演化成一个如此精致的结构，几乎令人难以理解。如今，在加州理工学院，这份进化的成果将成为我们的导师——整个视觉皮层，从眼睛的玻璃表面延伸至大脑深处。对于我的导师们而言，理解人类是迈向机器智能承诺的第一步。
+
+学习：
+
+photosensitive protein ：光敏蛋白
+
+bore down：施加压力
+
+>**"Bore down"** 是动词短语，意思是 **“施加压力”**、**“逼迫”** 或 **“强烈推进”**。在这段话中，**“evolution bore down on a single photosensitive protein”** 表示进化在半亿年的时间里对单一的光敏蛋白施加了不断的压力，推动其发展和演变。
+>
+>**类似用法示例**:
+>
+>- "The teacher bore down on the students to finish their assignments on time."
+>  **中文翻译**: 老师施加压力要求学生按时完成作业。
+>- "The storm bore down on the coast, causing widespread damage."
+>  **中文翻译**: 暴风雨猛烈袭击了海岸，造成了广泛的破坏。
+
+blossomed: 美 [ˈblɔsəmd] 兴旺；成功发展；（blossom的过去式和过去分词）
+
+>**"Blossom"** 是动词，意思是 **“开花”** 或 **“蓬勃发展”**，在这里指的是从简单到复杂的逐渐发展。文中用“blossomed across eons”形容这项光敏蛋白的演变，强调其经历了长时间的演化，最终成为一个复杂而精美的系统。
+>
+>**类似用法示例**:
+>
+>- "Her skills in painting blossomed after she took an art class."
+>  **中文翻译**: 她的绘画技巧在参加了艺术课程后得到了飞速提升。
+>- "The city blossomed into a thriving metropolis."
+>  **中文翻译**: 这座城市发展成了一座繁荣的大都市。
+
+eons:  美 ['iənz] 万古；（eon的复数）
+
+apparatus:  美 [ˌæpəˈrætəs] 设备；仪器；器械； **注意发音**
+
+exquisite：美 [ɪkˈskwɪzɪt] 极美的；精致的；精美的；
+
+defy comprehension: 难以理解，超出理解范围
+>**"Defy comprehension"** 是短语，意思是 **“难以理解”** 或 **“超出理解范围”**，用来形容某事或某物非常复杂、神秘，以至于人们难以理解或解释。
+>
+>**类似用法示例**:
+>
+>- "The complexity of the universe defies comprehension."
+>  **中文翻译**: 宇宙的复杂性让人难以理解。
+>- "The beauty of the landscape was so overwhelming that it almost defied comprehension."
+>  **中文翻译**: 风景的美丽如此震撼，几乎让人难以理解。
+
+visual cortex：视觉皮层
+
+glassy： 玻璃状的；光滑的
+
+>**"Glassy"** 是形容词，意思是 **“像玻璃一样光滑的”** 或 **“光亮的”**，通常用来描述眼睛、表面等事物的平滑、清澈或发亮的状态。这里形容眼球的表面，看起来像玻璃一样光滑，传递出视觉感官的细致与敏感。
+>
+>**类似用法示例**:
+>
+>- "The lake's surface was calm and glassy, reflecting the sky perfectly."
+>  **中文翻译**: 湖面平静而光滑，完美地倒映着天空。
+>- "Her eyes were glassy with tears, but she tried to smile."
+>  **中文翻译**: 她的眼睛因为泪水而晶莹剔透，但她还是努力微笑。
+
+recesses： 壁凹；指 **“深处”** 或 **“隐秘的地方”**（recess的复数）
+
+>**"Recesses"** 是名词，指 **“深处”** 或 **“隐秘的地方”**，用来形容某个地方的深层或远离表面的位置。在文中，**"the deepest recesses of the mind"** 指的是人类大脑中最深层的部分，通常与潜意识或复杂的思维活动相关。
+>
+>**类似用法示例**:
+>
+>- "He explored the recesses of the ancient castle."
+>  **中文翻译**: 他探索了古老城堡的深处。
+>- "The mystery of the missing treasure lies in the recesses of history."
+>  **中文翻译**: 失落宝藏的谜团藏在历史的深处。
+
+原文：
+
+I didn’t know exactly what I hoped to get out of my postgraduate years apart from the opportunity to immerse myself in the field that had stolen my heart. But I hoped that somewhere along the way I’d find a pursuit that I could follow with the zeal of my role models—the spirit that drove Eric Wieschaus to turn an obsession with fruit fly abnormalities into a Nobel Prize, or Neil deGrasse Tyson to spin the cosmos into numerical poetry. I wanted a North Star of my own. But until I found it, I was content to **wrap my mind around** the question of how the ineffable experience of vision really works—or, in the puckish words of my textbook’s subtitle, how photons become phenomenology.
+
+我并不完全知道在研究生期间我希望得到什么，除了有机会沉浸在那个深深吸引了我的领域中。但我希望，在这个过程中，我能找到一个可以全身心投入的追求，就像我的榜样们那样——正是这种精神促使埃里克·魏斯科斯将对果蝇异常的痴迷转化为诺贝尔奖，或促使尼尔·德格拉斯·泰森将宇宙编织成数字诗歌。我渴望有自己的北极星。但在我找到它之前，我也满足于将心思集中在一个问题上，那就是视觉这种无法言喻的体验到底是如何运作的——或者，正如我的教科书副标题中调皮的话语所说，光子如何转化为现象学。
+
+学习：
+
+immerse：浸泡；沉浸于；沉浸在；全神贯注；深入研究
+
+role models：偶像
+
+fruit fly：果蝇
+
+abnormalities：美 [ˌæbnɔ'mælɪtɪz] 反常；畸形；（abnormality的复数）
+
+cosmos：美 [ˈkɑːzməs] 宇宙；整个有序的宇宙体系
+
+wrap my mind around： 理解，搞明白
+>**"Wrap my mind around"** 是短语，意思是 **“理解”** 或 **“搞明白”**，通常用来描述对某个复杂的概念或问题进行深入思考，直至理解为止。
+>
+>**类似用法示例**:
+>
+>- "It took me a while to wrap my mind around the new software update."
+>  **中文翻译**: 我花了一段时间才弄明白这个新软件更新。
+>- "She was trying to wrap her mind around the idea of moving to a new city."
+>  **中文翻译**: 她在努力理解搬到新城市的想法。
+
+ineffable：美 [ɪnˈɛfəb(ə)l] 难以形容的；不可言喻的；神秘莫测的；
+
+puckish：美 [ˈpəkɪʃ] 淘气的；顽皮的；恶作剧的；调皮捣蛋的
+
+
+
+>**"Puckish"** 形容词，意思是 **“顽皮的”**、**“淘气的”** 或 **“有趣的”**，源自莎士比亚的《仲夏夜之梦》中的角色Puck，通常用来描述幽默或带有玩笑性质的表达。
+>**"Puckish words"** 表示 **“带有幽默或机智的词语”**，用来形容某些轻松或带有俏皮意味的语言。
+>
+>**类似用法示例**:
+>
+>- "His puckish sense of humor made everyone laugh at the party."
+>  **中文翻译**: 他顽皮的幽默感让派对上的每个人都笑了。
+>- "The professor’s puckish comments lightened the mood in the lecture."
+>  **中文翻译**: 教授的幽默话语让讲座的气氛变得轻松了。
+
+photons：美 ['foʊˌtəns] 光子；光量子；（photon的复数）
+
+phenomenology：美 [fəˌnɑməˈnɑlədʒi]	 现象学；现象论；现象研究
+
+>**Eric Wieschaus** 是一位著名的美国发育生物学家，因其在果蝇胚胎发育的研究上作出的突破性贡献，获得了1995年的诺贝尔生理学或医学奖。他与其他科学家合作发现了与胚胎发育相关的关键基因，改变了我们对生物学发育的理解。他的研究推动了现代发育生物学和遗传学的进展。
+>
+>**Neil deGrasse Tyson** 是美国著名的天体物理学家、作家和科学传播者。他因其在科学普及方面的贡献而闻名，尤其是他在电视节目、书籍和公开演讲中将宇宙学和天体物理学的复杂概念以生动有趣的方式讲解给大众。他还是美国国家天文学会的前主席，并且深受公众喜爱，尤其是在青少年中有很高的影响力。
+
+后记：2024年12月7日22点59分于上海。
+
+
+
 
 
 ## End
