@@ -12,6 +12,8 @@ shimmer：美 [ˈʃɪmər] 闪烁；闪耀；闪光；闪闪发光；
 
 dawn：黎明
 
+![image-20241208092642376](./assets/image-20241208092642376.png)
+
 Pasadena: 帕萨迪纳
 >**Pasadena** 是美国加利福尼亚州洛杉矶县的一座城市，因其宜人的气候和文化氛围而闻名，距离洛杉矶市区约15公里。
 >
@@ -440,11 +442,95 @@ phenomenology：美 [fəˌnɑməˈnɑlədʒi]	 现象学；现象论；现象研
 
 后记：2024年12月7日22点59分于上海。
 
+2024年12月8日09点39分继续看书
+
+原文：
+
+An early step toward that understanding came from the pages of my textbook *Vision Science*, with the introduction of the Princeton psychologist Anne Treisman. A wunderkind of experimentation and a giant of twentieth-century cognitive science, she combined charmingly simple tools with raw ingenuity to probe human perception, decades before the digital technologies that would have accelerated her research dramatically.
+
+随着普林斯顿心理学家安妮·特雷斯曼的介绍，我的教科书《视觉科学》向这种理解迈出了第一步。作为一名实验奇才和二十世纪认知科学的巨人，她将迷人的简单工具与原始的独创性结合起来，探索人类的感知，这比本可以大大加快她的研究的数字技术早了几十年。
+
+学习：
+
+wunderkind：美 [ˈwʊndərˌkɪnd] 神童；奇才；天才儿童；少年得志者
+
+原文：
+
+Treisman’s “feature integration theory of attention” became an almost universal foundation for understanding the nature of visual awareness. By presenting **subjects** with a momentary flash of an abstract arrangement—say, a single red circle mixed into a jumble of green and red squares—she was able to disentangle the time it took them to make sense of the image at varying levels of depth. She found that it was possible for people to identify the *presence* of red almost instantaneously—to simply know the color is contained within the image, somewhere—but that it took them longer to find the red *circle* in particular, as its identity was a combination of two distinct features: color and shape, coinciding in the same spot. In other words, the ability to *integrate* the perception of red and the perception of a circle not only took longer, but appeared to comprise an entirely separate, more intensive stage of visual processing.
+
+特雷斯曼的“注意的特征整合理论”成为理解视觉意识本质的几乎普遍的基础。通过向受试者展示一个抽象排列的瞬间闪现——比如，一个单一的红色圆圈混合在一堆混乱的绿色和红色方块中——她能够理清他们在不同深度水平上理解图像所花费的时间。她发现，人们几乎可以瞬间识别出红色的“存在”——简单地知道颜色包含在图像中的某个地方——但他们需要更长时间才能找到红色的“圆圈”，因为它的身份是两个不同特征的组合:颜色和形状，在同一点上重合。换句话说，整合红色感知和圆形感知的能力不仅花费了更长的时间，而且似乎包含了一个完全独立的、更密集的视觉处理阶段。
+
+学习：
+
+subjects：接受试验者；实验对象；（subject的复数）
+
+jumble：混乱；杂乱的一堆；
+
+disentangle：理清，解开，梳理
+
+>**"Disentangle"** 是一个动词，意思是 **“理清、解开、梳理”**，通常用来形容从复杂的事物中将混乱的部分分开，或者解决难以理解的情况。这个词在这里的意思是**“理清并解析”**，指的是分析和理清观察对象（如图像）中的信息处理过程。
+>
+>**解释在文中的含义**：
+>
+>在这段文字中，**"disentangle"** 的意思是**将观察者理解图像所需的时间分解**，并找出不同复杂度的视觉处理过程。作者描述的是实验中，观察者面对一个复杂图像时（如红色圆形与绿色和红色方块混杂的图像），如何“理清”图像中的信息，并在不同的深度上处理这些信息。**“Disentangle”** 强调了对不同视觉线索（颜色和形状）如何分别处理并最终整合的分析。
+>
+>**类似用法示例**：
+>
+>- "The detective had to disentangle the web of lies before he could uncover the truth."
+>   **中文翻译**: 侦探必须理清这些谎言的纠缠，才能揭开真相。
+>- "It took her hours to disentangle the knot in the string."
+>   **中文翻译**: 她花了几个小时才把绳结解开。
+>
+>**总结**：
+>
+>在这里，“disentangle” 表示分析、理清图像中不同视觉元素的处理时间和过程，尤其是在理解图像的不同层次时。
+
+comprise：包含；包括；构成
+
+原文：
+
+Treisman’s work was grand in its scope and dense in its explanations, but it was unified by the idea that human vision begins by identifying small details, then establishes the relationships between them until they reveal a complete picture. It was an intuitive thesis, and it suggested a metric for understanding vision at work: simple objects defined by few features can be recognized quickly—an orange ball on gray pavement, for instance—while more complex scenes, such as a winding forest path or the details of a friend’s face, require more time.
+
+特雷斯曼的工作范围很广，解释也很密集，但它被一个理念所统一，即人类的视觉从识别小细节开始，然后建立它们之间的关系，直到它们揭示一个完整的画面。这是一个直观的论点，它提出了一个理解视觉工作的衡量标准:由少数特征定义的简单对象可以被快速识别——例如灰色路面上的橙色球——而更复杂的场景，如蜿蜒的森林小路或朋友的脸部细节，则需要更多时间。
+
+学习：
+
+complete picture：完整的画面
+
+winding：[waɪndɪŋ]蜿蜒的；弯曲的
+
+winding forest path: 蜿蜒的林间小道
+
+原文：
+
+It was a paradigm I saw repeat across the study of computer vision, as researchers wrote and refined algorithms that could identify fundamental details in photographs and other images—sharp edges, changes in light and color, fragments of texture or patterns—then built higher-level algorithms to recognize the connections between them and associate them with more meaningful things, like people and objects. What little I knew about vision made sense. But the picture was soon to grow far more complicated.
+
+这是我在计算机视觉研究中看到的重复范式，研究人员编写并改进了算法，这些算法可以识别照片和其他图像中的基本细节——锐利的边缘、光线和颜色的变化、纹理或图案的片段——然后构建更高级别的算法来识别它们之间的联系，并将它们与更有意义的事物联系起来，如人和物体。我对视觉的一点点了解是有意义的。但是情况很快变得更加复杂。
+
+学习：
+
+fragment：纹理
+
+>**"Make sense"** 在这里的意思是 **“变得清晰，易于理解，合乎逻辑”**。这表明作者对于计算机视觉研究中的一些概念有了一定的理解，虽然之前了解的很少，但这段描述让他觉得它们是合乎逻辑的，能够理解的。
+>
+>**解释**：
+>
+>在这段话中，作者描述了计算机视觉的研究过程中，研究人员如何编写和完善算法，来识别图像中的基本细节（如边缘、光线和颜色的变化、纹理和图案等），然后建立更高层次的算法来识别这些细节之间的联系，并将它们与更有意义的事物（如人物和物体）关联起来。作者指出，尽管他对视觉的了解有限，但这些算法的工作原理对他来说是 **"make sense"** 的，即他觉得这些概念和方法合乎逻辑、能够理解。
+>
+>**类似用法**：
+>
+>- "Her explanation finally made sense to me after I asked a few clarifying questions."
+>   **中文翻译**: 在我问了几个澄清问题之后，她的解释终于让我理解了。
+>- "At first, the instructions seemed confusing, but they made sense after I read them again."
+>   **中文翻译**: 起初这些说明看起来很混乱，但我再次阅读后，它们变得清晰易懂。
+>
+>**总结**：
+>
+>在这里，“make sense”表示**理解某些信息或概念**，尤其是在面对新知识时，作者觉得计算机视觉中的基本原理是**可以理解**的，合乎逻辑的。但接下来，随着新的发现或研究的深入，情况变得更加复杂。
 
 
 
+## 后记
 
-## End
-
-
+2024年12月8日09点51分于上海。
 
