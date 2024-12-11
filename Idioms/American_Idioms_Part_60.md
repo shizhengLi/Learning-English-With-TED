@@ -19,8 +19,7 @@ Github仓库链接：[https://github.com/xiaolai/most-common-american-idioms](ht
 This phrase originates from the feeling that time seems to pass quickly when people are engaged in enjoyable activities. Conversely, if people are involved in boring or unpleasant tasks, time appears to drag on. This saying is often used to describe the perception that time flies during enjoyable events.
 
 - We were at the theme park all day, and it felt like minutes. Time flies when you’re having fun.我们在游乐园玩了一整天，感觉就像几分钟一样。快乐时光总是过得特别快。
-
-- Time flies when you’re having fun; I can’t believe the weekend is over already.快乐的时光总是稍纵即逝；我简直不敢相信周末已经结束了。
+  - Time flies when you’re having fun; I can’t believe the weekend is over already.快乐的时光总是稍纵即逝；我简直不敢相信周末已经结束了。
 
 - She couldn’t believe how quickly her vacation ended. Time flies when you’re having fun.她不敢相信她的假期已经结束了。快乐时光总是过得特别快。
 
