@@ -15,11 +15,13 @@ This repository contains materials for studying English.
   - The Worlds I see by Fei-Fei Li （李飞飞自传英文版（正在读））
 
 - Idioms: notes of most common American idioms (1,355 items in total) （常用美式俚语学习笔记）
-  - Most Common American Idioms （李笑来借助ChatGPT创建的书， 正在学习中）
+  - Most Common American Idioms （李笑来借助ChatGPT创建的书， 已学完）
 
 
 
 ## Timestamp
+
+[**2024.12.11**] Have finished the book: Most Common American Idioms; learned 1355 items.
 
 [**2024.12.04**] Have acquired 1000 American idioms.
 
