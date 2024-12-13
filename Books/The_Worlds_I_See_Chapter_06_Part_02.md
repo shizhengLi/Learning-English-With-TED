@@ -215,6 +215,143 @@ gush:滔滔不绝地说
 
 
 
+2024年12月13日22点28分继续阅读
+
+原文：
+
+“I’ve never seen anything like it,” I said. “This field is so complex, and so exciting, and yet … it’s **practically** brand-new! Most of the biggest contributors are still doing active research as we speak!”
+
+“我从未见过这样的事，”我说。“这个领域如此复杂，如此激动人心，然而……它实际上是全新的！就在我们说话的时候，大多数最大的贡献者仍在进行积极的研究！”
+
+学习：
+
+practically：几乎；差不多；很接近；基本上；实际上
+
+原文：
+
+The more time I spent with Pietro and Christof, the more I appreciated the sense of adventure that defined their careers as academics. Though they **hailed from** physics and engineering, both **wore their love for** fields like psychology, cognitive science, and neuroscience **on their sleeves**. They read computer science **journals** as regularly as anyone else in the department, but they pored over publications like *Psychological Review*, *Proceedings of the National Academy of Sciences*, and the especially prestigious *Nature* just as intently.
+
+我与Pietro和Christof相处的时间越长，就越能感受到定义他们学术生涯的那种冒险精神。尽管他们出身于物理学和工程学，但他们毫不掩饰对心理学、认知科学和神经科学等领域的热爱。他们像系里其他人一样定期阅读计算机科学期刊，但同时也全神贯注地研读像《心理学评论》、《美国国家科学院院刊》和极负盛名的《自然》等刊物。
+
+学习：
+
+hail from：来自于
+
+were xxx on their sleeves
+
+>**"On their sleeves"** 是一个常见的英语短语，来自 **"wear one's heart on one's sleeve"** 的表达。它指把情感或兴趣直接表露出来，而不是隐藏。这里的 **"wore their love for fields...on their sleeves"** 意思是他们对心理学、认知科学和神经科学等领域的热爱是显而易见的，毫不掩饰。
+>
+>**类似用法**：
+>
+>- "He wears his emotions on his sleeve, so you always know how he’s feeling."
+>  **中文翻译**: 他总是表露自己的情绪，所以你总能知道他的感受。
+>- "She wears her passion for music on her sleeve, sharing it with everyone she meets."
+>  **中文翻译**: 她毫不掩饰自己对音乐的热爱，和遇到的每个人都分享。
+
+journals：期刊
+
+pored：认真钻研；凝视；（pore的过去式和过去分词）
+
+>**"Pore over"** 指仔细阅读或研究某样东西，通常是全神贯注地审视细节。
+>
+>**类似用法**：
+>
+>- "She pored over the old letters, searching for clues about her family’s history."
+>  **中文翻译**: 她仔细阅读这些旧信件，寻找有关家族历史的线索。
+>- "Scientists are poring over the data to determine the cause of the anomaly."
+>  **中文翻译**: 科学家正在仔细研究这些数据，以确定异常的原因。
+
+intently：一心一意地；专心地；心无旁骛地          
+
+>
+>
+>**"Intently"** 描述某人非常专注或集中注意力的状态，通常带有极大的兴趣或关注。
+>
+>**类似用法**：
+>
+>- "He listened intently to the speaker, not wanting to miss a single word."
+>  **中文翻译**: 他专注地听演讲者说话，不想错过一个字。
+>- "She stared intently at the painting, trying to understand its meaning."
+>  **中文翻译**: 她专注地盯着那幅画，试图理解其含义。
+
+原文：
+
+That fascination translated into strong opinions and an eagerness to advance the frontiers of knowledge, which meant confronting the **disparity** between Thorpe’s and Treisman’s findings head-on. The evidence was strong that at least some aspects of vision—namely, the ability to recognize real-world scenery—were **all but** effortless. But what **gave rise to** that effortlessness? Could it be quantified somehow? What were the implications for our understanding of the brain as a whole? They were questions worth finding answers to, and, **conveniently** for my advisors, attempting to do so would be more than enough work to keep their particularly persistent new grad student occupied for a while.
+
+这种迷恋转化为强烈的观点，以及推动知识前沿发展的渴望，这意味着要直接面对Thorpe和Treisman研究结果之间的显著差异。现有证据强有力地表明，至少某些视觉方面——即识别现实世界场景的能力——几乎是毫不费力的。但是什么导致了这种轻松？能否以某种方式量化它？这对我们整体理解大脑的工作机制又意味着什么？这些问题值得找到答案，而且对我的导师来说，幸运的是，尝试解决这些问题足够让我这个特别执着的新研究生忙上一阵子。
+
+学习：
+
+advance the frontiers of knowledge：推动知识的边界，知识的前沿
+
+fascination: 迷恋；着迷；强烈的兴趣
+
+disparity：指明显的差异或不平等，常用于描述两个事物之间的显著不同
+
+>**"Disparity"** 指明显的差异或不平等，常用于描述两个事物之间的显著不同。在这里，指Thorpe的研究结果与Treisman的研究结果之间的显著差异。
+>
+>**类似用法**：
+>
+>- "There’s a huge disparity in access to healthcare between urban and rural areas."
+>  **中文翻译**: 城乡之间的医疗资源获取存在巨大的差异。
+>- "The income disparity between the rich and the poor continues to grow."
+>  **中文翻译**: 富人和穷人之间的收入差距持续扩大。
+
+head-on：直面
+>**"Head-on"** 表示直接、正面地应对某事，常用来形容以一种不回避或不逃避的方式面对问题或挑战。在这里，指直接面对Thorpe和Treisman的研究差异。
+>
+>**类似用法**：
+>
+>- "The team tackled the issue head-on, refusing to delay the decision any longer."
+>  **中文翻译**: 团队正面解决了这个问题，拒绝再拖延决策。
+>- "They confronted the crisis head-on, with a clear plan of action."
+>  **中文翻译**: 他们正面应对危机，并制定了清晰的行动计划。
+
+all but： 几乎；差不多；
+
+effortless:  轻松的；不费力的；容易的；轻而易举的
+
+give rise to：引发，导致
+
+>**"Give rise to"** 表示引发、导致某事发生。这里指是什么原因引发了视觉上的“轻而易举”的特点。
+>
+>**类似用法**：
+>
+>- "The new policy gave rise to widespread protests across the country."
+>  **中文翻译**: 新政策引发了全国范围内的大规模抗议。
+>- "His remarks gave rise to speculation about his future plans."
+>  **中文翻译**: 他的言论引发了对他未来计划的猜测。
+
+implications： 某事可能带来的意义、后果或影响，通常暗示深远或间接的结果
+
+>**"Implications"** 指某事可能带来的意义、后果或影响，通常暗示深远或间接的结果。这里指Thorpe的研究发现对整体脑科学研究的潜在影响。
+>
+>**类似用法**：
+>
+>- "The discovery has significant implications for the treatment of cancer."
+>  **中文翻译**: 这一发现对癌症治疗具有重要意义。
+>- "What are the implications of this decision for our company’s future?"
+>  **中文翻译**: 这一决定对我们公司的未来会带来什么影响？
+
+conveniently：恰好
+
+>**"Conveniently"** 表示某事恰好、方便地发生，通常带有一种巧合或有利于某人的意味。这里指学生研究这些问题“恰好”能让导师轻松安排学生的工作任务。
+>
+>**类似用法**：
+>
+>- "The train station is conveniently located near the city center."
+>  **中文翻译**: 火车站的位置恰好位于市中心附近。
+>- "He conveniently forgot to mention the extra charges."
+>  **中文翻译**: 他“恰好”忘了提到额外的收费。
+
+advisor：导师
+
+后记：2024年12月13日22点45分于上海。
+
+
+
+
+
 ## End
 
 
