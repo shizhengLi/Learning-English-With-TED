@@ -340,7 +340,7 @@ human beings are still better in this regard
 
 but what this led so I claim arguably to the age of pre-training and the age of pre-training is what we might say the gpt2 model the gpt3 model the
 
-scaling laws  and I want to specifically call out my former collaborators Alec Radford [https://scholar.google.com/citations?user=dOad5HoAAAAJ&hl=en](https://scholar.google.com/citations?user=dOad5HoAAAAJ&hl=en) also Jared Kaplan [https://www.linkedin.com/in/jared-kaplan-645843213/(https://www.linkedin.com/in/jared-kaplan-645843213/), Dario Amodei [https://en.wikipedia.org/wiki/Dario_Amodei](https://en.wikipedia.org/wiki/Dario_Amodei) for really making this work but that led to the age of pre-training 
+scaling laws  and I want to specifically call out my former collaborators Alec Radford [https://scholar.google.com/citations?user=dOad5HoAAAAJ&hl=en](https://scholar.google.com/citations?user=dOad5HoAAAAJ&hl=en) also Jared Kaplan [https://www.linkedin.com/in/jared-kaplan-645843213/](https://www.linkedin.com/in/jared-kaplan-645843213/), Dario Amodei [https://en.wikipedia.org/wiki/Dario_Amodei](https://en.wikipedia.org/wiki/Dario_Amodei) for really making this work but that led to the age of pre-training 
 
 
 
