@@ -306,15 +306,243 @@ national interests：国家利益
 
 
 
+原文：
+
+This tension would only be heightened by the increasingly blurred lines between public and private actors. Today, private companies operate as gatekeepers of digital information—search engines, social media platforms, and **mobile carriers** hold **troves of personal data**. When government agencies obtain access to that data, either through **coercive** legal orders or under-the-table partnerships, it becomes difficult to determine where state power ends and **private leverage** begins. The Founders valued clear constitutional **delineations** of authority, understanding that the **interplay** among branches of government and between the government and the people served as a primary defense against tyranny. Would they view the modern **entanglement** of private and public power in surveillance as a dangerous circumvention of the constitutional order, or would they accept it as a legitimate evolution of the public-private partnership in pursuit of national security?
+
+这种紧张局势在公共与私人行为体之间界限日益模糊的背景下变得更加突出。今天，私人公司充当数字信息的守门人——搜索引擎、社交媒体平台和**移动运营商**持有着**大量的个人数据**。当政府机构通过**强制性的**法律命令或幕后合作伙伴关系获取这些数据时，就很难界定国家权力的边界与**私人影响力**的起点。创国者们重视权力的清晰**界定**，理解政府各部门之间以及政府与人民之间的**相互作用**是防止暴政的主要保障。他们是否会将现代私人和公共权力在监控中的**纠缠**视为对宪法秩序的危险规避，还是会将其视为在追求国家安全的过程中，公共与私人合作关系的合法演变？
+
+学习：
+
+mobile carriers ：移动运营商
+
+>
+>
+>**Mobile carriers**
+>**"Mobile carriers"** 意为 **“移动运营商”**，指的是提供移动通信服务的公司，如中国的中国移动、美国的AT&T等。
+>
+>**例句：**
+>
+>- "Mobile carriers provide the infrastructure for our smartphones to connect to the internet."
+>
+>  **移动运营商**为我们的智能手机提供了连接互联网的基础设施。
+
+troves of personal data：大量的个人数据
+
+>
+>
+>**Troves of personal data**
+>**"Troves"** 意为 **“大量”** 或 **“宝库”**，常用来指代储藏了大量资料或信息的地方，**"personal data"** 是 **“个人数据”**。因此，**"troves of personal data"** 指的是 **“大量的个人数据”**。
+>
+>**例句：**
+>
+>- "Social media platforms collect troves of personal data about their users."
+>
+>  社交媒体平台收集了**大量的个人数据**。
+
+coercive：美 [koʊˈɜːrsɪv] 强制性的；胁迫性的
+
+>
+>
+>**"Coercive"** 意为 **“强制的”**，通常指通过威胁或强迫的方式迫使某人做某事。
+>
+>**例句：**
+>
+>- "The government issued a coercive order requiring the company to hand over the data."
+>
+>  政府发布了一个**强制性**命令，要求公司交出数据。
+
+under-the-table：暗地；私下；违规          
+
+private leverage：私人影响力
+
+>
+>
+>**"Private leverage"** 指的是 **“私人影响力”**，即私人公司或个人利用他们的权力或资源来影响政策、决策或其他人。
+>
+>**例句：**
+>
+>- "Large corporations use their private leverage to shape government policy."
+>
+>  大型公司利用它们的**私人影响力**来塑造政府政策。
+
+delineation：美 [dɪˌlɪnɪ'eɪʃn] 界定，划分
 
 
-This tension would only be heightened by the increasingly blurred lines between public and private actors. Today, private companies operate as gatekeepers of digital information—search engines, social media platforms, and mobile carriers hold troves of personal data. When government agencies obtain access to that data, either through coercive legal orders or under-the-table partnerships, it becomes difficult to determine where state power ends and private leverage begins. The Founders valued clear constitutional delineations of authority, understanding that the interplay among branches of government and between the government and the people served as a primary defense against tyranny. Would they view the modern entanglement of private and public power in surveillance as a dangerous circumvention of the constitutional order, or would they accept it as a legitimate evolution of the public-private partnership in pursuit of national security?
 
-The debate would not be one-sided. Some among them might argue that the emergence of existential threats—far subtler and more networked than any eighteenth-century army—necessitates more refined methods of detection. They might reason that if the tools are used responsibly and remain subject to checks and balances, perhaps a limited form of surveillance could align with the constitutional mandate to protect the public welfare. But the crucial question would be who holds those tools, who oversees their use, and how the spirit of liberty is preserved in a system so fundamentally altered by technological power.
+>**"Delineations"** 意为 **“界定”** 或 **“划分”**，通常指清晰的界限或分界线，尤其是指权力、责任等方面的界定。
+>
+>**例句：**
+>
+>- "The delineations of power between the branches of government are crucial for maintaining a balanced system."
+>
+>  各政府部门之间的**权力界定**对维持平衡的制度至关重要。
 
-A careful reading of the principles that undergird the Constitution reveals that the Founders’ primary goal was to establish a framework for perpetual negotiation between freedom and order. In the digital age, that negotiation has taken on unprecedented complexity. In all likelihood, the Founders would counsel a return to first principles: robust legal scrutiny for surveillance actions, a firm commitment to warrants and due process before delving into personal data, and mechanisms that allow the public to understand and challenge the reach of government power. They might call for transparent oversight committees, stronger Fourth Amendment protections tailored to the digital realm, and a demand that any intrusion into personal data be both justified and minimized.
+interplay：相互作用；相互影响；交互作用
 
-Ultimately, the Founders’ perspective on twenty-first-century surveillance would not revolve solely around preventing tyranny in a distant, theoretical sense. Rather, it would acknowledge the subtle ways in which surveillance can shape behavior and limit free exchange when citizens believe they are constantly watched. Such an environment, they might warn, threatens the very atmosphere of open debate and dissent upon which democracy thrives. The promise of liberty they enshrined so boldly was never meant to be static; it should evolve to meet new technological frontiers without losing its fundamental essence. In the digital age, preserving that essence means confronting the profound implications of widespread surveillance and ensuring that the promise of freedom remains more than a historical memory.
+>
+>
+>**"Interplay"** 意为 **“相互作用”** 或 **“互动”**，常用来指事物之间的互动、相互影响。
+>
+>**例句：**
+>
+>- "The interplay between technology and society shapes the way we live."
+>
+>  **技术与社会的互动**塑造了我们的生活方式。
+
+tyranny：美 [ˈtɪrəni] 暴政；暴虐；苛政；专横；**注意发音**
+
+entanglement：纠缠；缠结；缠住；牵连；瓜葛；复杂关系；困境
+
+>
+>
+>**"Entanglement"** 意为 **“纠缠”** 或 **“牵连”**，通常指的是复杂的、难以解开的关系或问题，尤其是指政府与私人部门之间复杂、交织的关系。
+>
+>**例句：**
+>
+>- "The entanglement of private interests and public policy can lead to conflicts of interest."
+>
+>  私人利益与公共政策的**纠缠**可能导致利益冲突。
+
+circumvention：美 [ˌsɜkəm'venʃn] 规避
 
 
+
+原文：
+
+The debate would not be one-sided. Some among them might argue that the emergence of existential threats—far subtler and more networked than any eighteenth-century army—**necessitates** more refined methods of detection. They might reason that if the tools are used responsibly and remain **subject** to checks and balances, perhaps a limited form of surveillance could align with the constitutional mandate to protect the public welfare. But the crucial question would be who holds those tools, who oversees their use, and how the spirit of liberty is preserved in a system so fundamentally altered by technological power.
+
+这场辩论不会是单方面的。某些人可能会认为，存在性威胁的出现——远比任何十八世纪的军队更加微妙且网络化——**使得**更精密的侦查方法成为必要。他们可能会推理，如果这些工具得当使用，并且**受**制于制衡机制，也许一种有限形式的监控可以与宪法保护公共福利的使命相一致。但关键问题将是，谁掌握这些工具，谁监督它们的使用，以及在一个因技术力量而根本改变的系统中，如何保持自由的精神。
+
+学习：
+
+necessitate：使得xxx有必要
+
+>
+>
+>**"Necessitates"** 意为 **“使……成为必要”**，指某种情况或条件需要某种特定的行动或方法。
+>
+>**例句：**
+>
+>- "The complexity of modern life necessitates careful planning."
+>
+>  现代生活的复杂性**使得**仔细规划**成为必要**。
+
+checks and balances：制衡；权力制衡；制约与平衡
+
+be subject to: 受制于
+
+>**"Subject to"** 意为 **“受……支配”** 或 **“取决于”**，通常用来表示某事物或某人会受到某种限制或条件的影响。
+>
+>**例句：**
+>
+>- "The law is subject to change depending on new evidence."
+>
+>  这项法律**受**新证据影响，可能会发生变化。
+
+原文：
+
+A careful reading of the principles that undergird the Constitution reveals that the Founders’ primary goal was to establish a framework for perpetual negotiation between freedom and order. In the digital age, that negotiation has taken on unprecedented complexity. **In all likelihood**, the Founders would **counsel** a return to first principles: robust legal scrutiny for surveillance actions, a firm commitment to **warrants** and **due process** before **delving into** personal data, and mechanisms that allow the public to understand and challenge the reach of government power. They might call for transparent oversight committees, stronger Fourth Amendment protections tailored to the digital realm, and a demand that any intrusion into personal data be both justified and minimized.
+
+仔细阅读支撑宪法的原则可以发现，开国元勋的主要目标是建立一个关于自由与秩序之间不断协商的框架。在数字时代，这种协商变得前所未有地复杂。**很可能**，开国元勋会**建议**回归基本原则：对监控行动进行严格的法律审查，在**深入探查**个人数据之前，坚决执行**搜查令**和**正当程序**，并建立机制让公众理解和挑战政府权力的范围。他们可能会呼吁设立透明的监督委员会，增强适应数字领域的第四修正案保护，并要求任何对个人数据的侵犯都必须是有理由的，并且加以最小化。
+
+学习：
+
+undergird：加强；巩固；支持；从底部加固          
+
+perpetual ：永久的
+
+in all likelihood：极有可能；几乎肯定的；很可能；大概率会；十之八九        
+
+>
+>
+>**"In all likelihood"** 意为 **“很可能”**，表示根据已有的情况或事实推测某件事非常可能发生。
+>
+>**例句：**
+>
+>- "In all likelihood, the meeting will be postponed due to the weather."
+>
+>  **很可能**，由于天气原因，会议将被推迟。
+
+counsel：美 [ˈkaʊnsl] 建议；劝告；
+
+>
+>
+>**"Counsel"** 在这里指 **“建议”** 或 **“劝告”**，通常是指对某事的专业或慎重的意见。
+>
+>**例句：**
+>
+>- "The lawyer counseled her to remain silent."
+>
+>  律师**建议**她保持沉默。
+
+warrants : 搜查令
+
+>
+>
+>**"Warrants"** 指 **“搜查令”** 或 **“逮捕令”**，是法律授权执法机关执行某些行动的正式文件。
+>
+>**例句：**
+>
+>- "The police obtained a warrant to search the house."
+>
+>  警方获得了**搜查令**来搜查这所房子。
+
+due process：正当程序
+
+>
+>
+>**"Due process"** 意为 **“正当程序”**，是指在法律程序中必须遵循的一系列公正、公平的程序，以确保所有人的权利不受侵犯。
+>
+>**例句：**
+>
+>- "The defendant has the right to a fair trial as part of due process."
+>
+>  被告有权在**正当程序**下接受公正审判。
+
+delve into：深入探讨
+
+>
+>
+>**"Delving into"** 意为 **“深入探讨”** 或 **“钻研”**，通常指对某个主题或问题进行详细和深入的分析。
+>
+>**例句：**
+>
+>- "The investigation delved into the financial records of the company."
+>
+>  调查**深入探讨**了公司的财务记录。
+
+justified：合理的
+
+
+
+原文：
+
+Ultimately, the Founders’ perspective on twenty-first-century surveillance would not revolve solely around preventing tyranny in a distant, theoretical sense. Rather, it would acknowledge the subtle ways in which surveillance can shape behavior and limit free exchange when citizens believe they are constantly watched. Such an environment, they might warn, threatens the very atmosphere of open debate and dissent upon which democracy thrives. The promise of liberty they **enshrined** so boldly was never meant to be static; it should evolve to meet new technological frontiers without losing its fundamental essence. In the digital age, preserving that essence means confronting the profound implications of widespread surveillance and ensuring that the promise of freedom remains more than a historical memory.
+
+最终，开国元勋对二十一世纪监控的看法，不仅仅是围绕着在远离的理论意义上防止暴政展开的。相反，他们会认识到监控在某些微妙方式上如何塑造行为，并在公民感到自己被持续监视时，限制自由交流。他们可能会警告说，这样的环境威胁到民主赖以生存的公开辩论和异议的氛围。他们**奉为神圣**的自由承诺，决不是要停滞不前；它应该随着新的技术前沿而发展，而不失去其根本的本质。在数字时代，保护这种本质意味着要面对广泛监控的深远影响，并确保自由的承诺不仅仅是历史的记忆。
+
+学习：
+
+revolve around：围绕
+
+dissent：美 [dɪˈsent] 不同意；持异议；反对；不赞成；**注意发音**
+
+enshrined：美 [enˈʃraɪnd] 奉为神圣；（enshrine的过去式和过去分词）
+
+>**"Enshrined"** 意为 **“把……奉为神圣”** 或 **“铭记”**，通常指某种重要的价值观或原则被庄严地保护或承认。
+>
+>**例句：**
+>
+>- "The principles of justice are enshrined in the constitution."
+>
+>  正义原则**被奉为神圣**地写入宪法。
+
+
+
+
+
+## 后记
+
+2024年12月18日21点25分于上海。
 
