@@ -176,7 +176,7 @@ inertia：美 [ɪˈnɜːrʃə] 惯性；惰性；
 
 Another point of tension lies in the relationship between the executive branch and Congress. The Founders endowed Congress with the “power of the purse” and the unique authority to make laws, reserving for the president a strong but limited role, primarily in executing those laws and guiding foreign affairs. Over the centuries, and especially since the mid-twentieth century, the executive branch has accumulated more discretion, often through broad legislation that delegates authority to regulatory agencies. The growth of executive orders, signing statements, and emergency powers allows presidents to shape policy with less direct input from legislators. Although the Founders recognized that crises might justify extraordinary action, they likely would have been uneasy with how frequently and readily today’s executives use their latitude, blurring the line between lawful adaptation and circumvention of congressional intent.
 
-另一种紧张关系存在于行政部门与国会之间的关系。创国者赋予国会**“财权”**以及独特的立法权，保留给总统一个强大但有限的角色，主要是在执行法律和指导外交事务上。随着时间的推移，特别是自二十世纪中期以来，行政部门积累了更多的**自主决策权**，通常通过广泛的立法将权力委托给监管机构。行政命令、签署声明和紧急权力的增加使总统能够在较少立法者直接参与的情况下塑造政策。尽管创国者认识到危机可能需要采取非常规行动，但他们可能会对今天的行政部门频繁和轻易地使用其**自由度**感到不安，这模糊了合法适应与规避国会意图之间的界限。
+另一种紧张关系存在于行政部门与国会之间的关系。创国者赋予国会“**财权**” 以及独特的立法权，保留给总统一个强大但有限的角色，主要是在执行法律和指导外交事务上。随着时间的推移，特别是自二十世纪中期以来，行政部门积累了更多的**自主决策权**，通常通过广泛的立法将权力委托给监管机构。行政命令、签署声明和紧急权力的增加使总统能够在较少立法者直接参与的情况下塑造政策。尽管创国者认识到危机可能需要采取非常规行动，但他们可能会对今天的行政部门频繁和轻易地使用其**自由度**感到不安，这模糊了合法适应与规避国会意图之间的界限。
 
 学习：
 
