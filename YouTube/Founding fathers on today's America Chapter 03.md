@@ -49,7 +49,7 @@ treatise: 美 [ˈtriːtɪs]   专著；论文；学术论文；专题论文
 
 
 
-#### Chapter 3: Political Parties and the Founders’ Intentions
+### Chapter 3: Political Parties and the Founders’ Intentions
 
 原文：
 
@@ -361,15 +361,331 @@ civic virtue：公民美德
 
 
 
+
+
+2024年12月21日20点42分开始学习
+
 原文：
 
-Another facet that would likely confound the Founders is the sheer complexity of America’s policy challenges compared to their own era. International commerce, global conflicts, climate change, and intricate financial systems necessitate specialized knowledge and sustained strategic thinking. In such a scenario, disciplined parties do have some constructive role to play by providing clarity and continuity, ensuring that voters understand what policies each side supports. While the Founders might appreciate the organizational coherence that parties bring to complex questions, they would remain wary of the tendency for party interests to overshadow informed deliberation. The danger, from their eighteenth-century perspective, would be that the machinery of modern party organizations could become a tool for narrow interests, stifling dissent and drowning out the voices of ordinary citizens.
+Another facet that would likely **confound** the Founders is the **sheer complexity** of America’s policy challenges compared to their own era. International commerce, global conflicts, climate change, and intricate financial systems **necessitate** specialized knowledge and sustained strategic thinking. In such a scenario, disciplined parties do have some constructive role to play by providing clarity and continuity, ensuring that voters understand what policies each side supports. While the Founders might appreciate the organizational coherence that parties bring to complex questions, they would remain wary of the tendency for party interests to overshadow **informed deliberation**. The danger, from their eighteenth-century perspective, would be that the machinery of modern party organizations could become a tool for narrow interests, stifling dissent and drowning out the voices of ordinary citizens.
 
-The unceasing cycle of electioneering and politicking would also astonish the architects of the republic. Many of them viewed public service as a temporary and dignified calling, not a career defined by permanent campaign mode. The modern era’s perpetual race for power, funding, and media attention stands in stark contrast to the solemn duties of governance they upheld. This might lead them to conclude that the means of retaining power have subsumed the ends for which power was originally sought: the responsible stewardship of a republic based on liberty, equality, and the rule of law.
+另一个可能令创始人感到困惑的方面是，与他们那个时代相比，美国政策挑战的**极度复杂性**。国际贸易、全球冲突、气候变化和错综复杂的金融系统**要求**专门的知识和持续的战略思维。在这样的情境下，规范的政党确实可以在提供清晰性和连续性方面发挥一定的建设性作用，确保选民了解每一方支持的政策。尽管创始人可能会欣赏政党在复杂问题上带来的组织一致性，但他们仍会对党派利益**压倒** **理性讨论**的倾向保持警惕。从他们的十八世纪视角来看，现代政党组织的运作可能会成为狭隘利益的工具，**淹没**异议，忽视普通公民的声音。
 
-And yet, it is not entirely certain that the Founders would condemn today’s parties outright. Many Founders were not immune to their own forms of factional maneuvering. Jefferson and Madison themselves, despite initial misgivings, played key roles in mobilizing what became the Jeffersonian Republicans. Over time, some might have admitted that, in a large and diverse nation, political parties can serve to aggregate interests, making governance more manageable and helping voters navigate the complex domain of public policy. They might accept that parties, if held accountable and subjected to the checks provided by free elections and a vigilant press, could serve as a reasonable mechanism for representing the people’s will.
+学习：
 
-The question becomes: would the Founders, confronted with the modern two-party system, see it as a stable if imperfect channeling of pluralistic interests, or as a broken vessel impeding the deliberate search for the public good? Their reaction might be a mixture of resignation, disappointment, and pragmatic acceptance. They would likely urge reforms to deconcentrate power within the parties and to encourage a more fluid political environment where coalitions could form and dissolve based on the issues at hand. They might call for measures that lower barriers to entry for independent candidates or that reshape congressional procedures to promote cross-party collaboration. These efforts, in their view, would help to restore the ideal of a republic anchored by civic virtue and rational debate, even amidst the inevitable differences that arise in a free society.
+facet：美 [ˈfæsɪt] 方面；特征；（事物的）部分；
 
-In the end, America’s Founders held a vision of a political culture where disagreements would not metastasize into permanent rifts and where leaders would be guided by a sense of honor and duty. Their distrust of entrenched factions and political parties sprang from a profound understanding of human nature and the dangers of unchecked ambition. Faced with the powerful and polarized parties of today, they might lament what they see as an ossification of political life. Yet they would also acknowledge that the American experiment endures, remaining open to renewal, reinvention, and the pursuit of a more inclusive and virtuous public sphere. The challenge for contemporary citizens, then, is to harness that legacy and reshape the political order to reflect the Founders’ highest aspirations rather than their deepest fears.
+confound：使困惑；使惊讶；
+
+>
+>
+>**Confound** 是动词，意思是 **“使困惑”** 或 **“使迷惑”**。在这里，它指的是使创始人感到困惑或无法理解。意思是现代的政治和社会挑战的复杂性可能会令创始人感到迷惑，因为这些问题的复杂度远超他们所经历的时代。
+>
+>**例句**：
+>
+>- "The complicated legal arguments confounded the jury." 复杂的法律论点让陪审团感到困惑。
+>- "The rapid technological advancements confound even the experts." 快速的技术进步让即便是专家也感到困惑。
+>
+>在文中，**confound** 表示现代的复杂问题会让创始人感到困惑和不解。
+
+necessitate ：需要
+
+>
+>
+>**Necessitate** 是动词，意思是 **“使成为必需”** 或 **“需要”**。它表明某种情况或需求是必然的、必须的。在文中，**necessitate** 指的是现代社会中的问题迫使我们需要**专业知识**和**持续的战略思维**。
+>
+>**例句**：
+>
+>- "The project’s success necessitates careful planning and execution." 项目的成功需要仔细的规划和执行。
+>- "The complexity of global issues necessitates collaboration among nations." 全球问题的复杂性要求各国之间的合作。
+>
+>在文中，**necessitate** 表示现代问题的复杂性要求我们拥有专门的知识和战略思维。
+
+sheer complexity: 极度复杂
+
+>**Sheer** 是形容词，意思是 **“完全的”** 或 **“纯粹的”**，用来强调事物的程度或性质。**Complexity** 是名词，意思是 **“复杂性”**。**Sheer complexity** 表示事物的**极度复杂**，指的是现代政策挑战的难度和复杂程度比创始人时代更为严峻。
+>
+>**例句**：
+>
+>- "The sheer complexity of the problem requires a multi-disciplinary approach." 这个问题的极度复杂性需要多学科的处理方法。
+>- "Sheer complexity in the project has delayed its completion." 项目的极度复杂性导致了它的完成延迟。
+>
+>在文中，**sheer complexity** 描述了现代政策挑战的复杂性，强调了这些挑战的高难度和多样性。
+
+wary of：警惕；提防
+
+informed deliberation：理性讨论和决策
+
+>**Informed** 是形容词，意思是 **“有知识的”** 或 **“有见识的”**，指的是基于充分信息的决策。**Deliberation** 是名词，意思是 **“深思熟虑”** 或 **“讨论”**，通常指经过深入思考后进行的决策过程。**Informed deliberation** 即指基于充分和准确的信息进行的理性讨论和决策。
+>
+>**例句**：
+>
+>- "Informed deliberation is crucial when making policy decisions." 在制定政策决策时，充分的信息讨论至关重要。
+>- "The debate was based on informed deliberation rather than emotion." 这场辩论是基于深思熟虑的信息，而非情绪。
+>
+>在文中，**informed deliberation** 强调了创始人们期望的理性、基于充分信息的讨论方式。
+
+stifle：压制（情感、笑声等）；窒息；使窒息；抑制；扼杀
+
+dissent：美 [dɪˈsent] 异议；不同意见；意见分歧
+
+>
+>
+>**Drowning out** 是动词短语，意思是 **“使某事听不见”** 或 **“淹没”**，通常指声音被其他更强烈的声音覆盖。在文中，**drowning out** 形容的是党派的声音过于强大，以至于压倒了普通公民的声音。
+>
+>**例句**：
+>
+>- "The loud music was drowning out the sound of the conversation." 响亮的音乐淹没了谈话的声音。
+>- "The debate became so heated that it was drowning out reasonable voices." 辩论变得如此激烈，以至于淹没了合理的声音。
+>
+>在文中，**drowning out** 表示党派的利益和声音压倒了普通公民的声音，忽视了公共讨论和民主参与。
+
+原文：
+
+The unceasing cycle of **electioneering and politicking** would also astonish the architects of the republic. Many of them viewed public service as a temporary and dignified **calling**, not a career defined by permanent campaign mode. The modern era’s perpetual race for power, funding, and media attention stands in stark contrast to the solemn duties of governance they upheld. This might lead them to conclude that the means of **retaining power** have **subsumed** the ends for which power was originally sought: the responsible **stewardship** of a republic based on liberty, equality, and the rule of law.
+
+不断进行选举活动和政治操作的周期也将令共和国的创始人们感到震惊。他们中的许多人认为公共服务是一项临时性的、崇高的**使命**，而不是一个由永恒的竞选模式所定义的职业。现代时代中对权力、资金和媒体关注的无休止争夺与他们所坚持的治理职责形成了鲜明的对比。这可能会让他们得出结论：**维持权力**的手段已经**吞并**了最初寻求权力的目标：即负责地**管理**一个以自由、平等和法治为基础的共和国。
+
+学习：
+unceasing：持续不断的；连绵不绝的；不间断的；连续的；不停的
+
+electioneering：从事选举活动；（electioneer的现在分词形式）          
+
+politicking：政治活动；竞选活动；从事政治活动；（politick的现在分词）          
+
+calling：职业；天职；职责
+
+>
+>
+>**Calling** 是名词，意思是 **“召唤”** 或 **“职业”**，尤其指一种受到使命感驱动的职业或工作。在这里，**calling** 表示创始人们认为公职是一项崇高的职责，是一种**有使命感**的工作，而非一种为了个人利益而长期从事的职业。
+>
+>**例句**：
+>
+>- "She felt that being a teacher was her true calling." 她觉得做教师是她真正的使命。
+>- "His calling was to serve the public and make a difference." 他的使命是服务公众并做出改变。
+>
+>在文中，**calling** 强调了创始人们对公共服务的看法：它是一项崇高、短期的职责，而非一个终身职业。
+
+stark contrast：形成了鲜明的对比；鲜明对比          
+
+uphold：举起；支持；支撑；赞成
+
+retain：保持
+
+retain power：保留权利
+
+>
+>
+>**Retaining** 是动词**retain**的现在分词形式，意思是 **“保持”** 或 **“保留”**，在这里指的是**保持权力**或不让权力流失。**Power** 是名词，指的是权力。在文中，**retaining power** 意味着现代政治中权力的**维持**和**巩固**，通常是通过不断的竞选、筹款和媒体操作。
+>
+>**例句**：
+>
+>- "The president’s primary focus is on retaining power during the next election." 总统的主要焦点是在下次选举中保持权力。
+>- "Retaining power requires constant vigilance and strategic planning." 保持权力需要持续的警惕和战略规划。
+>
+>在文中，**retaining power** 暗示了现代政治中不断争夺和维持政治权力的过程，创始人可能认为这违背了他们原本设定的理想。
+
+subsume：美 [səbˈsum]  包含；纳入；这里的是吞并的意思
+
+>
+>
+>**Subsumed** 是动词 **subsumed** 的过去式，意思是 **“包含”** 或 **“吞并”**，在这里指的是原本的目标或目的被其他事情所**吞并**或**压倒**，使其变得不再重要。在文中，**subsumed** 表示**维持权力**的手段已经**吞并**了最初权力所追求的目标。
+>
+>**例句**：
+>
+>- "The minor details were subsumed by the larger issues at hand." 小细节被眼前更大的问题所掩盖。
+>- "The company’s original mission was subsumed by its profit-driven focus." 公司的初衷被追求利润的焦点所吞并。
+>
+>在文中，**subsumed** 强调了现代政治中**追求权力**的手段已经占据了原本为了公共利益和治理的目的。
+
+stewardship ：管理
+
+>
+>
+>**Stewardship** 是名词，意思是 **“管理责任”** 或 **“资源的管理与保护”**，尤其是指对公共事务或重要资源的负责任管理。在这里，**stewardship** 强调的是创始人们设想的政治职责——即**对共和国的管理和责任**，包括维护自由、平等和法治。
+>
+>**例句**：
+>
+>- "The stewardship of natural resources is crucial for future generations." 自然资源的管理对未来几代人至关重要。
+>- "He took his stewardship of the community seriously, ensuring that all voices were heard." 他认真履行对社区的管理责任，确保每个声音都能被听到。
+>
+>在文中，**stewardship** 表示创始人理想中的政府职责：不仅仅是争夺和维持权力，而是负责任地管理国家事务，保护公民自由和法治。s
+
+
+
+原文：
+
+And yet, it is not entirely certain that the Founders would condemn today’s parties **outright**. Many Founders were not immune to their own forms of **factional maneuvering**. Jefferson and Madison themselves, despite initial **misgivings**, played key roles in mobilizing what became the Jeffersonian Republicans. Over time, some might have admitted that, in a large and diverse nation, political parties can serve to aggregate interests, making governance more manageable and helping voters **navigate** the complex domain of public policy. They might accept that parties, if held accountable and subjected to the checks provided by free elections and a vigilant press, could serve as a reasonable mechanism for representing the people’s will.
+
+然而，创始人们是否会**完全**谴责今天的政党并不完全确定。许多创始人并没有免于自己形式的**派系操作**。即使是杰斐逊和麦迪逊，在最初的**疑虑**之后，也在动员成为杰斐逊共和党的一方中发挥了关键作用。随着时间的推移，有些人可能会承认，在一个大而多元的国家里，政党可以帮助汇聚各种利益，使治理变得更加可管理，并帮助选民在复杂的公共政策领域中做出选择。他们可能会接受，政党如果能够承担责任，并受到自由选举和警觉的媒体所提供的制约，便可以作为一种合理的机制，代表人民的意愿。
+
+学习：
+
+outright：彻底地；完全地；直率地；
+
+>
+>
+>**Outright** 是副词，意思是 **“完全地”** 或 **“彻底地”**，表示某事是**毫不保留地**或**绝对地**发生或进行的。在文中，**outright** 表示**完全否定**或**全盘反对**，强调创始人们对现代政党的态度可能是完全否定的。
+>
+>**例句**：
+>
+>- "He outright rejected the proposal without even considering it." 他完全拒绝了这个提案，连考虑一下都没有。
+>- "The team outright won the championship, defeating every opponent." 这个队伍彻底赢得了冠军，击败了所有对手。
+>
+>在文中，**outright** 强调了创始人们可能会彻底地反对现代政党，完全不认同它们的存在。
+
+naneuvering：调遣；花招；（maneuver的现在分词）          
+
+factional maneuvering：派系操纵
+
+>
+>
+>**Factional** 是形容词，意思是 **“派系的”**，指的是与某个特定的派系、党派或团体有关的。**Maneuvering** 是名词，意思是 **“操控”** 或 **“策略性行动”**，通常指通过巧妙的操作或手段达到某种政治或个人目的。在这里，**factional maneuvering** 指的是与政治派系内部的权力斗争或操作相关的行为，特别是通过策略性手段争取利益和支持。
+>
+>**例句**：
+>
+>- "The factional maneuvering within the party made it difficult to reach a consensus." 党内的派系操作使得达成共识变得困难。
+>- "His factional maneuvering during the election helped secure his victory." 他在选举中的派系操作帮助确保了他的胜利。
+>
+>在文中，**factional maneuvering** 指的是创始人自己在政治上进行的策略操作，特别是与派系斗争相关的行为，这种行为虽然出现在他们的政治生活中，但他们可能对其有所保留。
+
+misgivings:担忧；疑虑；不安；（misgiving的复数）    
+
+>
+>
+>**Misgivings** 是名词，意思是 **“疑虑”** 或 **“不安”**，指的是对某件事情的不信任或担忧。在文中，**misgivings** 指的是创始人们对政治派系，特别是政党系统形成的初期疑虑和担心。
+>
+>**例句**：
+>
+>- "He had misgivings about the new proposal, fearing it would create problems later." 他对这个新提案有疑虑，担心它以后会带来问题。
+>- "Despite her initial misgivings, she eventually agreed to the plan." 尽管最初有些犹豫，她最终同意了这个计划。
+>
+>在文中，**misgivings** 指的是创始人们最初对政党制度的怀疑和不信任。
+
+  
+
+vigilant：警觉的；机警的；
+
+原文：
+
+The question becomes: would the Founders, confronted with the modern two-party system, see it as a stable if imperfect channeling of pluralistic interests, or as a broken vessel impeding the deliberate search for the public good? Their reaction might be a mixture of **resignation**, disappointment, and pragmatic acceptance. They would likely urge reforms to deconcentrate power within the parties and to encourage a more fluid political environment where coalitions could form and **dissolve** based on the issues at hand. They might call for measures that lower barriers to entry for independent candidates or that reshape congressional procedures to promote cross-party collaboration. These efforts, in their view, would help to restore the ideal of a republic anchored by civic virtue and rational debate, even amidst the inevitable **differences** that arise in a free society.
+
+问题在于：创始人们面对现代的两党制，会把它视为一个稳定但不完美的渠道，用来引导多元化的利益，还是看作一个阻碍公众利益深思熟虑追求的破碎工具？他们的反应可能是**无奈**、失望和现实的接受。他们可能会呼吁改革，分散党内权力，并鼓励一个更加灵活的政治环境，在这种环境中，联盟可以根据手头的问题形成或**解散**。他们可能会呼吁降低独立候选人的准入门槛，或重新塑造国会程序，以促进跨党派合作。在他们看来，这些努力将有助于恢复一个由公民美德和理性辩论支撑的共和国理想，即便在自由社会中不可避免地会出现**分歧**。
+
+学习：
+
+vessel：美 [ˈvesl] 船只；轮船；大船
+
+resignation：辞职；辞呈；辞职书；这里是无奈的意思
+
+>
+>
+>**Resignation** 是名词，意思是 **“顺从”** 或 **“放弃”**，尤其指接受某种无法改变的情况，通常伴随有消极或无奈的情绪。在文中，**resignation** 强调的是创始人们可能对现代政治体制感到的无奈或接受，尽管他们对政党制度的初衷并不完全满意。
+>
+>**例句**：
+>
+>- "After hearing the news, he accepted the situation with resignation." 听到消息后，他无奈地接受了这个情况。
+>- "She faced the outcome with resignation, knowing there was nothing more she could do." 她无奈地面对结果，知道自己无能为力。
+>
+>在文中，**resignation** 表示创始人们可能会在面对现代政党系统时，感到某种程度的无奈和接受，认为这是不可避免的现象。
+
+barriers to entry ：准入门槛
+
+dissolve： 解散，瓦解
+
+>**Dissolve** 是动词，意思是 **“解散”** 或 **“瓦解”**，通常指逐渐消失或结束。在政治语境下，**dissolve** 指的是政治联盟或政党的解散、终止或解体。在文中，**dissolve** 强调的是政党或联盟应该根据实际问题的变化而形成或解散，这是一种灵活的政治环境。
+>
+>**例句**：
+>
+>- "The alliance dissolved after a series of disagreements among the members." 该联盟在成员间一系列分歧后解散了。
+>- "The marriage slowly dissolved over the course of many years." 这段婚姻在多年的时间里渐渐瓦解。
+>
+>在文中，**dissolve** 表示创始人们可能希望政党之间的政治联盟能够根据具体问题的需要而灵活变化，而不是僵化不变。
+
+amidst：在…中间；在…期间
+
+differences：差异；分歧
+
+>
+>
+>**Differences** 是名词，意思是 **“差异”** 或 **“分歧”**，指的是两个或多个事物之间的不同之处。在文中，**differences** 指的是在自由社会中不同派别和人群之间不可避免的分歧，这些分歧是政治辩论和治理的一部分。
+>
+>**例句**：
+>
+>- "The differences between the two countries in their political systems are stark." 两国在政治体系上的差异显著。
+>- "We should respect our differences and find common ground." 我们应该尊重彼此的分歧，寻找共同点。
+>
+>在文中，**differences** 强调了自由社会中存在的多样性和分歧，这些分歧虽然不可避免，但也为理性辩论和公共利益的追求提供了动力。
+
+
+
+原文：
+
+In the end, America’s Founders held a vision of a political culture where disagreements would not **metastasize** into permanent rifts and where leaders would be guided by a sense of honor and duty. Their distrust of entrenched factions and political parties **sprang from** a profound understanding of human nature and the dangers of unchecked ambition. Faced with the powerful and polarized parties of today, they might **lament** what they see as an **ossification** of political life. Yet they would also acknowledge that the American experiment endures, remaining open to renewal, reinvention, and the pursuit of a more inclusive and virtuous public sphere. The challenge for contemporary citizens, then, is to harness that legacy and reshape the political order to reflect the Founders’ highest aspirations rather than their deepest fears.
+
+最终，美国的创始人们怀有一种政治文化的愿景，即分歧不会**蔓延**成永久的裂痕，领导者会由荣誉和责任感引导。他们对根深蒂固的派系和政党的不信任**源于**对人性的深刻理解以及对不受控制的野心的警惕。面对今天强大且两极化的政党，他们可能会**哀叹**政治生活的**僵化**。然而，他们也会承认，美国的实验仍然在继续，保持着对革新、重塑和追求更具包容性与美德的公共领域的开放性。因此，现代公民的挑战是，利用这一遗产，重塑政治秩序，反映创始人们的崇高理想，而不是他们的深刻恐惧。
+
+学习：
+
+metastasize: 美 [məˈtæstəˌsaɪz] 扩散，蔓延
+
+
+
+>**Metastasize** 是动词，意思是 **“扩散”** 或 **“蔓延”**，通常用来形容癌细胞从一个部位扩散到另一个部位，后来也用来形容负面的、迅速扩展的情况。在文中，**metastasize** 暗示政治分歧会像癌症一样扩展、恶化，形成永久的裂痕。
+>
+>**例句**：
+>
+>- "The illness metastasized to other parts of the body, making treatment more difficult." 这种疾病扩散到了身体的其他部位，使得治疗更加困难。
+>- "Their minor disagreement metastasized into a full-blown conflict." 他们的轻微分歧蔓延成了一场全面的冲突。
+>
+>在文中，**metastasize** 描述的是政治分歧如果没有得到有效调解，可能会迅速变得严重，并形成不可修复的裂痕。
+
+rifts： 裂隙；裂缝；（rift的复数）
+
+
+
+sprang from: 源于，起源于
+
+>
+>
+>**Sprang from** 是短语，意思是 **“源于”** 或 **“起源于”**，常用来描述某事的来源或起因。在这里，**sprang from** 表示创始人对党派和派系的不信任是基于他们对人性深刻的理解。
+>
+>**例句**：
+>
+>- "His dislike of politics sprang from a series of bad experiences." 他对政治的不喜源于一系列不愉快的经历。
+>- "The idea sprang from the desire to create a fairer society." 这个想法源于创建一个更公平社会的愿望。
+>
+>在文中，**sprang from** 表示创始人对党派的深刻不信任来源于他们对人性和野心的深刻理解。
+
+lament：哀悼；悲叹
+
+>
+>
+>**Lament** 是动词，意思是 **“哀叹”** 或 **“悲叹”**，通常用来表示因某事不幸或令人失望而感到悲伤。在文中，**lament** 表示创始人们可能对现代政治的固化和分裂感到失望和哀伤。
+>
+>**例句**：
+>
+>- "She lamented the loss of her childhood home." 她哀叹失去了她的童年住所。
+>- "The citizens lamented the decline of their once-thriving community." 市民们哀叹曾经繁荣的社区的衰落。
+>
+>在文中，**lament** 表示创始人们对现代党派政治分化的悲哀与失望。
+
+ossification：（思想等的）僵化；成骨          
+
+>
+>
+>**Ossification** 是名词，字面意思是 **“骨化”**，即变硬、变得不再灵活，后来也用来描述思想、政策或体制的僵化、不再进化。在文中，**ossification** 描述的是政治生活的僵化现象，即党派政治的高度固守，无法适应新的变革。
+>
+>**例句**：
+>
+>- "The ossification of bureaucratic processes has made the government inefficient." 官僚过程的僵化使得政府效率低下。
+>- "The ossification of traditional norms made it difficult for the society to evolve." 传统规范的僵化使得社会难以进化。
+>
+>在文中，**ossification** 描述的是党派政治的固化，阻碍了灵活有效的政治发展。
+
+
+
+### End
+
+2024年12月21日21点14分于上海，完成这个Chapter的学习。
 
