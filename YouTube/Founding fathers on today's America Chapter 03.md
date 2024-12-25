@@ -1,4 +1,4 @@
-# Founding fathers on today's America
+# Founding fathers on today's America: Chapter 3
 
 Link: [https://www.youtube.com/watch?v=1qTa9cJ7cjk&t=4407s](https://www.youtube.com/watch?v=1qTa9cJ7cjk&t=4407s)
 
