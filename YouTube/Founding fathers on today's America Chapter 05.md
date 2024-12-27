@@ -355,25 +355,232 @@ criminal justice：刑事司法
 
 
 
+2024年12月27日22点48分开始学习
+
+原文：
+
+They might also be astonished at the array of identities and orientations that modern Americans seek to protect. LGBTQ rights, for example, would pull the Founders into conversations unimaginable in their own time. They might find these claims to dignity and **personhood** consistent with the spirit of natural rights philosophy, even as they struggle to understand the vocabulary and social frameworks of today. **At their core**, the Founders believed the legitimate purpose of government was to safeguard liberty and secure rights. Modern civil rights movements would show them how those foundational ideas, once guarded by the selective and often **myopic** vision of eighteenth-century thinkers, have blossomed in ways both unexpected and intricately suited to a more diverse and complex society.
+
+创始人可能还会为现代美国人争取保护的多种身份和取向感到震惊。例如，LGBTQ权利将把创始人拉入他们自己时代无法想象的对话中。他们可能会发现，这些关于尊严和**人格**的诉求，与自然权利哲学的精神相一致，尽管他们可能会在理解当今的词汇和社会框架时感到困惑。**从本质上看**，创始人认为政府的合法目的是保护自由并保障权利。现代民权运动将向他们展示，这些基础性思想曾经受到十八世纪思想家**目光短浅**的局限，如今已在更为多元和复杂的社会中意外地蓬勃发展，并精妙地适应了这一社会。
+
+学习：
+
+personhood：人格；个性；人性；
+
+>
+>
+>**Personhood**
+>**意思**：**“人格”**，指一个人作为个体的存在和身份，通常与法律和道德权利相关。
+>**例句**：
+>
+>- "The issue of personhood is central to debates over abortion rights."
+>  人格问题是关于堕胎权辩论的核心。
+>- "Laws protecting the personhood of individuals are essential for ensuring human dignity."
+>  保护个体人格的法律对于确保人类尊严至关重要。
+>  **文中用法**： LGBTQ 权利的争取，特别是对人格和尊严的诉求，会让创始人参与到他们自己时代无法想象的讨论中。
+
+At their core：在核心层面
+
+>
+>
+>**At their core**
+>**意思**：**“在核心层面”**，用来强调某事的最基本或最重要的方面。
+>**例句**：
+>
+>- "At their core, all successful businesses are built on trust and reliability."
+>  从本质上看，所有成功的企业都是建立在信任和可靠性上的。
+>- "At their core, these movements are about equality and justice for all people."
+>  从本质上看，这些运动关乎所有人平等与公正。
+>  **文中用法**：在核心层面上，创始人认为政府的合法目的就是保护自由并保障权利。
+
+myopic：美 [ˌmaɪˈɑpɪk] 短视的；目光短浅的；缺乏远见的
+
+>
+>
+>**Myopic**
+>**意思**：**“目光短浅的”**，比喻只看到眼前的局部，忽视长远的或广泛的视角。
+>**例句**：
+>
+>- "His myopic view of the business world led to poor decisions."
+>  他对商业世界的目光短浅导致了错误的决策。
+>- "The myopic policies of the past have hindered social progress."
+>  过去目光短浅的政策阻碍了社会进步。
+>  **文中用法**：尽管创始人可能会认为十八世纪思想家的视野往往是**目光短浅的**，他们仍然会发现这些思想在现代民权运动中得到了意想不到的扩展。
+
+原文：
+
+In the modern legal framework, the Founders would recognize **echoes** of their own constitutional architecture, but heavily amended, reinterpreted, and reshaped. A series of Supreme Court decisions—Brown v. Board of Education, Loving v. Virginia, Obergefell v. Hodges—would stand as turning points that used the logic of the Constitution to **dismantle** old prejudices. Each legal milestone would underscore the transformative potential **latent** in the original texts. Where once only white male property owners enjoyed participation and protection, now these foundational documents are read more expansively, if not perfectly so. The Founders might marvel at how a government they established, limited in scope and modest in social ambition, now serves as a vehicle to defend individuals from discrimination and ensure a more equitable civic environment.
+
+在现代的法律框架下，创始人会看到他们自己宪法架构的**回响**，但这些回响已经被大幅修正、再解释和重塑。一系列的最高法院判决——如Brown v. Board of Education、Loving v. Virginia、Obergefell v. Hodges——将成为转折点，运用宪法的逻辑来**拆除**旧有的偏见。每一项法律里程碑都会强调原始文本中**潜在**的变革潜力。从前，只有白人男性财产拥有者享有参与和保护的权利，现在这些基础性文件被更广泛地解读，尽管这并不完美。创始人可能会对他们建立的政府感到惊讶——一个范围有限、社会野心朴素的政府，如今却成为捍卫个体免受歧视并确保更公平公民环境的工具。
+
+学习：
+
+>
+>
+>**Echoes**
+>**意思**：**“回响”**，指某事物的残留影响或类似之处。
+>**例句**：
+>
+>- "The echoes of past conflicts can still be felt in modern politics."
+>  过去冲突的回响在现代政治中依然可见。
+>- "The building's design echoes the classical architecture of ancient Greece."
+>  这座建筑的设计回响了古希腊的经典建筑风格。
+>  **文中用法**：创始人会看到现代法律框架中有他们自己宪法架构的**回响**，尽管这些回响经过了大量的修正和再解释。
+
+dismantle: 拆除；拆卸；拆开；拆散
+
+>
+>
+>**Dismantle**
+>**意思**：**“拆除”**，指分解或逐步破坏某物，尤其是制度、结构或权力体系。
+>**例句**：
+>
+>- "The government has promised to dismantle the old bureaucratic system."
+>  政府承诺拆除旧的官僚体制。
+>- "The company plans to dismantle its outdated infrastructure."
+>  公司计划拆除其过时的基础设施。
+>  **文中用法**：一系列的最高法院判决（如Brown v. Board of Education, Loving v. Virginia, Obergefell v. Hodges）会被视为使用宪法逻辑来**拆除**旧有的偏见。
 
 
-## TODO
+
+>
+>
+>**Latent**
+>**意思**：**“潜在的”**，指未显现出来、潜藏的，常用于描述某事物的潜力或能力尚未被发掘。
+>**例句**：
+>
+>- "The latent talent within the team only emerged after years of training."
+>  团队中的潜力才华在经过多年训练后才显现出来。
+>- "Latent political unrest eventually led to the downfall of the regime."
+>  潜在的政治动荡最终导致了政权的垮台。
+>  **文中用法**：每一个法律里程碑都凸显了**潜藏**在原始文本中的变革潜力。
 
 
 
-They might also be astonished at the array of identities and orientations that modern Americans seek to protect. LGBTQ rights, for example, would pull the Founders into conversations unimaginable in their own time. They might find these claims to dignity and personhood consistent with the spirit of natural rights philosophy, even as they struggle to understand the vocabulary and social frameworks of today. At their core, the Founders believed the legitimate purpose of government was to safeguard liberty and secure rights. Modern civil rights movements would show them how those foundational ideas, once guarded by the selective and often myopic vision of eighteenth-century thinkers, have blossomed in ways both unexpected and intricately suited to a more diverse and complex society.
+原文：
 
-In the modern legal framework, the Founders would recognize echoes of their own constitutional architecture, but heavily amended, reinterpreted, and reshaped. A series of Supreme Court decisions—Brown v. Board of Education, Loving v. Virginia, Obergefell v. Hodges—would stand as turning points that used the logic of the Constitution to dismantle old prejudices. Each legal milestone would underscore the transformative potential latent in the original texts. Where once only white male property owners enjoyed participation and protection, now these foundational documents are read more expansively, if not perfectly so. The Founders might marvel at how a government they established, limited in scope and modest in social ambition, now serves as a vehicle to defend individuals from discrimination and ensure a more equitable civic environment.
+Ultimately, the Founders would encounter a **moral reckoning** with themselves. Their eighteenth-century context cannot **excuse** the moral **contradictions** of their era, yet one can imagine them feeling both pride and discomfort in what America has become. Pride, perhaps, in the sense that their core principles—human equality, the rule of law, the pursuit of justice—have persisted and evolved, taken up by generation after generation to challenge entrenched injustices. Discomfort, perhaps, at seeing how far removed today’s **egalitarian ethos** is from their own assumptions, and how the process of adaptation was neither seamless nor guaranteed.
 
-Ultimately, the Founders would encounter a moral reckoning with themselves. Their eighteenth-century context cannot excuse the moral contradictions of their era, yet one can imagine them feeling both pride and discomfort in what America has become. Pride, perhaps, in the sense that their core principles—human equality, the rule of law, the pursuit of justice—have persisted and evolved, taken up by generation after generation to challenge entrenched injustices. Discomfort, perhaps, at seeing how far removed today’s egalitarian ethos is from their own assumptions, and how the process of adaptation was neither seamless nor guaranteed.
+最终，创始人会与自己进行一次**道德审视**。他们十八世纪的背景无法**为**那个时代的道德**矛盾**辩解，然而可以想象他们在看到美国如今的样子时，既感到自豪，又感到不安。自豪，可能是因为他们的核心原则——人类平等、法治、追求正义——一直延续并演变，代代相传，挑战根深蒂固的不公。感到不安，可能是因为今天的**平等主义精神**与他们当时的假设有如此大的差距，而且这一适应过程既不顺利也没有保障。
 
-In witnessing the radical expansion of civil rights and the ongoing struggle to broaden the definition of equality, the Founders would at last confront the outcome of the American experiment they launched. They might recognize that what they considered a finished blueprint was, in fact, only the starting point for centuries of debate and reform. Thus, from their vantage, today’s robust yet imperfect landscape of civil rights would stand as a testament that the principles they bequeathed were not static artifacts of the past, but ever-living seeds, continually reshaped to meet the moral demands of the present.
+学习：
+
+reckoning: 估计；测算；推测
+
+moral reckoning
+
+>**Moral reckoning**
+>**意思**：**“道德审视”**，指在面对某些道德困境或不正义行为时对自己的行为和立场进行反思和评判。
+>**例句**：
+>
+>- "The nation is going through a moral reckoning after years of corruption."
+>  在经历多年腐败后，这个国家正在进行一次道德审视。
+>- "She had a moral reckoning about her role in the conflict."
+>  她对自己在冲突中的角色进行了道德审视。
+>  **文中用法**：创始人最终会面对一次**道德审视**，审视他们自己的历史与选择。
 
 
 
+>excuse:
+>
+>**意思**：**“为……辩解”**，表示为某种行为或现象提供理由或借口。
+>**例句**：
+>
+>- "The manager couldn’t excuse the team’s poor performance."
+>  经理无法为团队糟糕的表现辩解。
+>- "His actions cannot be excused, no matter the circumstances."
+>  无论在什么情况下，他的行为都不能被辩解。
+>  **文中用法**：虽然创始人的十八世纪背景不能**为**那个时代的道德**矛盾**辩解，但他们或许会为美国的发展感到自豪。
+
+contradictions：反驳；否认；矛盾；（contradiction的复数）
+
+>
+>
+>**Contradictions**
+>**意思**：**“矛盾”**，指两种相互冲突或不一致的观点、事实或情况。
+>**例句**：
+>
+>- "There are many contradictions in his argument."
+>  他的话中有许多矛盾。
+>- "The report highlighted the contradictions between the company’s values and its actions."
+>  报告突出了公司价值观与其行动之间的矛盾。
+>  **文中用法**：创始人尽管有深刻的理想，但他们的时代仍然存在道德上的**矛盾**，例如奴隶制与平等理念之间的冲突。
+
+egalitarian：美 [iˌɡælɪˈteriən] 平等主义的；主张平等的；主张人人平等的；
+
+ethos：美 [ˈiːθɑːs] 风气；（某团体或社会的）道德思想；道德观；
+
+>
+>
+>**Egalitarian ethos**
+>**意思**：**“平等主义精神”**，指一种注重平等、主张消除不平等现象的社会理念或精神。
+>**例句**：
+>
+>- "The country prides itself on its egalitarian ethos, valuing equal opportunities for all citizens."
+>  这个国家以其平等主义精神为荣，重视为所有公民提供平等的机会。
+>- "The company's egalitarian ethos is reflected in its diverse leadership team."
+>  该公司平等主义的精神体现在其多元化的领导团队中。
+>  **文中用法**：今天的**平等主义精神**与他们当时的假设之间有很大差距，这也让创始人感到不安。
+
+process of adaptation：适应的过程
 
 
-## End
+
+原文：
+
+In witnessing the radical expansion of civil rights and the ongoing struggle to broaden the definition of equality, the Founders would at last confront the outcome of the American experiment they launched. They might recognize that what they considered a finished blueprint was, in fact, only the starting point for centuries of debate and reform. Thus, **from their vantage**, today’s robust yet imperfect landscape of civil rights would stand as a testament that the principles they **bequeathed** were not static **artifacts** of the past, but ever-living seeds, continually reshaped to meet the moral demands of the present.
+
+在目睹民权的激进扩展以及持续努力拓宽平等定义的过程中，创始人最终将面对他们所开启的美国实验的结果。他们或许会认识到，曾被视为完成的蓝图，实际上只是几个世纪辩论和改革的起点。因此，**从他们的视角**来看，今天这个充满活力但不完美的民权景观将成为他们所**传给**后代的原则不是静止的过去**遗物**，而是不断发展、不断被重塑的“活种子”，不断满足当下的道德需求。
+
+学习：
+
+from their vantage
+
+>
+>
+>**Vantage**
+>**意思**：**“视角”**，指某种观察或评估事物的角度或立场。
+>**例句**：
+>
+>- "From my vantage point, the project seems to be going well."
+>  从我的角度来看，这个项目似乎进展顺利。
+>- "The mountains provided a perfect vantage from which to see the entire valley."
+>  山脉提供了一个完美的视角，可以看到整个山谷。
+>  **文中用法**：从他们的**视角**来看，今天这个充满活力但不完美的民权景观将成为他们所奠定原则的见证。
+
+bequeathed:  美 [bɪˈkwi:ðd] 遗赠；遗留；（bequeath的过去式和过去分词）
+
+>
+>
+>**Bequeath**
+>**意思**：**“传给”**，通常指通过遗嘱将财产或遗产传给后代或继承人。
+>**例句**：
+>
+>- "He bequeathed all his possessions to his children."
+>  他把所有的财产都传给了他的孩子们。
+>- "The will bequeaths the family home to his eldest daughter."
+>  遗嘱将家族的房子传给了他的长女。
+>  **文中用法**：他们可能会认识到，他们所**传给**后代的并非一个已经完成的蓝图，而是一个不断展开的辩论和改革的起点。
+
+
+
+>
+>
+>**Artifacts**
+>**意思**：**“遗物”**，指具有历史或文化价值的物品，尤其是指那些来自过去的东西，通常是考古学的发现。
+>**例句**：
+>
+>- "The museum displayed ancient artifacts from Egypt."
+>  博物馆展示了来自埃及的古代遗物。
+>- "Artifacts from the early civilizations help us understand their culture."
+>  来自早期文明的遗物帮助我们理解他们的文化。
+>  **文中用法**：他们可能会认识到，今天的民权景观并非他们认为的过去的**遗物**，而是不断被重新塑造的，随时应对当下道德需求的“活种子”。
+
+## 后记
+
+2024年12月27日23点01分于上海，完成chapter 5的学习。
+
+
 
 
 
