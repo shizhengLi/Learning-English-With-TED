@@ -1,4 +1,4 @@
-# **The world this year 2024**
+# The world this year 2024
 
 ![image-20241229181910444](./assets/image-20241229181910444.png)
 
@@ -24,7 +24,7 @@ became the Democratic candidate when Joe Biden pulled out of the race
 
 after a disastrous debate for him.
 
-唐纳德·特朗普(Donald Trump)出人意料地再次当选美国总统。在投票前6个月，特朗普被判在一桩封口费案件中伪造商业记录，这是入主椭圆形办公室的人首次被判有罪。7月，一名持枪者试图在一次竞选活动中刺杀这位共和党人，使他受了轻伤；特朗普的战斗口号“战斗，战斗，战斗！”激发了他的选民团体。卡玛拉·哈里斯的“brat summer”对民主党来说是一记哑炮，他们也在选举中失去了对参议院的控制。乔·拜登在一场灾难性的辩论后退出竞选，哈里斯女士成为民主党候选人
+唐纳德·特朗普(Donald Trump)出人意料地再次当选美国总统。在投票前6个月，	特朗普被判在一桩封口费案件中伪造商业记录，这是入主椭圆形办公室的人首次被判有罪。7月，一名持枪者试图在一次竞选活动中刺杀这位共和党人，使他受了轻伤；特朗普的战斗口号“战斗，战斗，战斗！”激发了他的选民团体。卡玛拉·哈里斯的“brat summer”对民主党来说是一记哑炮，他们也在选举中失去了对参议院的控制。乔·拜登在一场灾难性的辩论后退出竞选，哈里斯女士成为民主党候选人
 
 学习：
 
@@ -192,7 +192,76 @@ interim：美 [ˈɪntərɪm] 暂时的；临时的；过渡期的；
 
 ## **Election day**
 
+2024年12月30日23点18分开始学习
+
+原文：
+
+Labour won **Britain’s** election with a stonking majority, ending 14
+
+years of Conservative rule. But things quickly turned sour for Sir
+
+Keir Starmer’s new government. Anti-migrant riots soon broke out
+
+and a decision to end winter-fuel aid for pensioners was widely
+
+criticised. Businesses took fright at a tax-raising budget. The Tories
+
+chose Kemi Badenoch as their new leader, the first black person to
+
+head one of Britain’s big parties. In February Michelle O’Neill
+
+became the first Irish-nationalist to lead Northern Ireland’s
+
+executive
+
+工党以压倒性的多数赢得了英国大选，结束了长达14年的保守党统治。但基尔·斯塔默爵士的新政府很快就陷入困境。反移民骚乱随之爆发，终止老年人冬季燃料补贴的决定遭到广泛批评。企业对增税预算感到恐慌。保守党选择凯米·巴德诺赫为新任党魁，她是首位领导英国主要政党的黑人。2月，米歇尔·奥尼尔成为首位领导北爱尔兰行政部门的爱尔兰民族主义者。
+
+学习：
+
+stonking：美 [ˈstɑŋkɪŋ] 极大的
+
+stonking majority：压倒性优势
+
+take fright at：对...感到害怕      
+
+>这里的 **"executive"** 指的是**行政机关或政府行政部门**，尤其是指一个地区或国家的最高执行管理机构。在这段话中，它特指**北爱尔兰的行政机构**，即北爱尔兰政府的领导层。
+>
+>在北爱尔兰，**行政部门**由一位**首席部长 (First Minister)** 和一位**副首席部长 (Deputy First Minister)** 共同领导。这种安排源自《贝尔法斯特协议》(Good Friday Agreement)，旨在确保权力共享。
+>
+>------
+>
+>**例句：**
+>
+>- **English**: "The executive passed a new law to regulate housing prices."
+>  **中文**: “行政部门通过了一项新法律来规范房价。”
+>- **English**: "The local executive is responsible for implementing policies approved by the legislature."
+>  **中文**: “地方行政部门负责执行立法机关批准的政策。”
+
+原文：
+
+**Ukraine** lost ground in its fight against Russia. In a bold move,
+
+Ukrainian troops took the fight across the border into Russia’s
+
+Kursk province. But Russia turned to North Korea for soldiers to
+
+replenish its forces, the first time in a century it has invited a
+
+foreign force into the country. **NATO** allies sent F-16 fighter jets to
+
+Ukraine for the first time and America allowed it to use long-range
+
+ATACMS missiles. Meanwhile, Sweden at last joined NATO. Mark
+
+Rutte became the military alliance’s new secretary-general.
+
+乌克兰在与俄罗斯的战斗中节节败退。在一次大胆的行动中，乌克兰军队越过边境进入了俄罗斯的库尔斯克省。但俄罗斯向朝鲜寻求士兵以补充其军队，这是一个世纪以来俄罗斯首次邀请外国军队进入该国。北约盟国首次向乌克兰派出F-16战斗机，美国允许其使用远程反坦克导弹。与此同时，瑞典终于加入了北约。马克·吕特成为军事联盟的新秘书长。
+
+学习：
+replenish：美 [rɪˈplenɪʃ] 补充；再装满；重新填充
 
 
 
+## **My vote don’t count**
 
+2024年12月30日23点25分学不动了。
