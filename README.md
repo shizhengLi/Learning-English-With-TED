@@ -68,6 +68,16 @@ Date:
 
 
 
+
+
+## Acknowledgement
+
+For e-books of The Economist:
+
+[https://github.com/hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)
+
+[https://github.com/Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)
+
 ## Disclaimer
 
 This project does not represent the author's political views and is only used for English learning. 
