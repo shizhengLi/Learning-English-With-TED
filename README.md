@@ -10,16 +10,21 @@ This repository contains materials for studying English.
 
 - TED: transcript and notes of TED speeches (TED演讲稿和笔记)
 - Magazines: notes of English magazines like The Economist （杂志精读笔记，以《经济学人》为主）
+  - Year 2024：全年精读过316篇《经济学人》文章
+  - Year 2025：Keep working
+
 - YouTube: subtitles and notes of YouTube videos （油管视频字幕和笔记）
 - Books: learning notes of English books （英文书籍读书笔记）
   - The Worlds I see by Fei-Fei Li （李飞飞自传英文版（正在读））
 
 - Idioms: notes of most common American idioms (1,355 items in total) （常用美式俚语学习笔记）
-  - Most Common American Idioms （李笑来借助ChatGPT创建的书， 已学完）
+  - Most Common American Idioms （已学完）
 
 
 
 ## Timestamp
+
+[**2025.01.02**] Have carefully read over 310 articles from *The Economist* in 2024.
 
 [**2024.12.11**] Have finished the book: Most Common American Idioms; learned 1355 items.
 
