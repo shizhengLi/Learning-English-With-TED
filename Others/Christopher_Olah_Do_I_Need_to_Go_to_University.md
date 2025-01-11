@@ -216,3 +216,119 @@ Doing an internship, residency, or startup can be easier -- at least in some reg
 
 ## Not Having a Degree
 
+原文：
+
+It’s important to be aware that not having a degree can have several negative long-term consequences.
+
+University degrees have a lot of signaling and credentialing value. They cheaply communicate to other individuals and organizations that you have some baseline skills, at least in theory. In some fields, you can succeed without a degree by demonstrating skill in other ways (publications, open source projects, **portfolios**, talks, awards, work history, **referrals**, etc). Other fields are less accepting. How can you tell which type of field you're in? One useful test can be to look for examples of people who are successful without degrees in your field. Even if your field is very good about this, you may wish to move into another field at some later point and run into challenges where your previous successes aren’t **legible** to the new field, or the new field is more credential focused.
+
+学习：
+
+referrals：美 [rɪˈfɜrəlz] 推荐
+
+
+
+>
+>
+>**Referrals** 指的是推荐或介绍，通常指他人（如导师、雇主或同事）基于对你的了解，为你提供的推荐意见或推荐信。这在求职、学术申请或职业发展中很常见。
+>
+>**中英文例句**
+>
+>- "Strong referrals from respected professionals can significantly boost your chances of getting hired."
+>  **来自有声望的专业人士的强有力推荐可以显著提高你的录取机会。**
+>- "The company encourages employees to make referrals for potential hires."
+>  **公司鼓励员工为潜在雇员提供推荐。**
+>
+>**Referrals 在上下文中的含义**：
+>在一些领域中，即使没有学位，通过导师或同事的推荐信（referrals）也可以证明你的能力，帮助你获得成功。
+
+legible：美 [ˈledʒəbl]
+
+>
+>
+>**Legible** 的本义是“易读的，清晰的”，引申含义为“易于理解的”或“被他人认可或解读的”。在上下文中，**legible** 指的是你的过去成就是否能被新领域的人理解或认可。
+>
+>**中英文例句**
+>
+>- "Your handwriting is neat and legible."
+>  **你的书写工整且清晰易读。**
+>- "Her skills were not legible to the hiring managers because they were outside the scope of the job description."
+>  **她的技能对招聘经理而言不易理解，因为这些技能超出了职位描述的范围。**
+>- "Make your work legible to a broader audience by using common standards and frameworks."
+>  **通过使用通用的标准和框架，让你的工作更容易被更广泛的观众理解。**
+>
+>**Legible 在上下文中的含义**：
+>当你从一个领域转换到另一个领域时，之前的成就可能不容易被新领域认可（not legible）。这可能是因为新领域有不同的评判标准或不熟悉你的工作内容。
+
+
+
+原文：
+
+Unfortunately, traditional credentials may be more important for **demographics** than others. As a white male, I suspect that it's easier for me to be taken seriously without a degree that it would be for others. If you are part of a group that society is less likely to perceive as skilled by default, it may be harder to do without the validation of a degree. This is obviously really unfair, but I don't feel qualified to give advice on it or comment on how big an issue it is.
+
+学习：
+
+demographics： 美 [ˌdeməˈɡræfɪks] 人口统计资料；人口统计数据；人口分布情况
+
+
+
+原文：
+
+There's also a weird **flip side** to all these downsides. Once you establish yourself as competent there is this kind of **threshold effect** where not having a university degree can suddenly start causing people to actually take you more seriously. This kind of countersignalling effect seems to be common when you do non-traditional things.
+
+学习：
+
+flip side：反面；唱片的反面；事物的另一面；相反情况；不同方面
+
+downsides：负面；消极面；（downside的复数）          
+
+threshold effect：门槛效应
+
+原文：
+
+In addition to the direct career consequences, not having a degree can be a source of major immigration challenges. The version of this I’ve seen most often is people wanting to move to the US (usually the Bay Area) but being **ineligible** for most visas due to the lack of a degree. If you think you may have this problem, try to do a short consultation with an immigration lawyer early: there may be things you can do to start building a case. (For those immigrating to the US, the solution to this is usually to get an “alien of extraordinary ability” O-1 visa, which doesn’t require a degree but does require a lot of evidence of your accomplishments.)
+
+学习：
+
+ineligible： 美 [ˌɪnˈɛlədʒəb(ə)l] 不符合资格的；不合格的；
+
+
+
+## Family Challenges
+
+原文：
+
+Unfortunately, even if you feel confident that you would be best served by taking a non-traditional path, many young people face significant social and emotional barriers to doing so, particularly from adults. While some people are lucky enough to have a family that will support them doing something unusual, many are not. This can manifest in ways ranging from gentle skepticism, to lack of support, all the way up to **coercive** measures. It can also involve hurtful accusations or gossiping (eg. someone isn’t going to university because they’re lazy or failed).
+
+学习：
+
+
+>**Coercive** 是一个形容词，意思是“胁迫的，强制的，迫使的”。它描述一种通过威胁、施压或其他强制手段来影响或控制他人行为的方式。与“persuasive”（劝说的）相对，**coercive** 通常带有负面的含义，强调强迫性和缺乏选择的自由。
+>
+>------
+>
+>**中英文例句**
+>
+>1. "The government implemented coercive measures to enforce the lockdown."
+>   **政府实施了强制措施来执行封锁政策。**
+>2. "She felt trapped in a coercive relationship where she had no say in important decisions."
+>   **她感到被困在一个受胁迫的关系中，无法在重要决策中发表意见。**
+>3. "Using coercive tactics to make someone agree is unethical and often counterproductive."
+>   **使用胁迫手段让某人同意是不道德的，通常也是适得其反的。**
+>
+>------
+>
+>**结合上下文解释**
+>
+>在文中，**coercive measures** 是指成年人（如家人或社会）通过胁迫或强制手段干涉年轻人选择非传统路径的行为。这可能表现为强迫他们接受特定的教育选择（例如去上大学），或者通过威胁剥夺经济支持等手段来施加压力。
+>
+>例如：
+>
+>- 家长可能威胁停止资助孩子的生活费，迫使他们选择去大学。
+>- 社会舆论可能施加压力，使年轻人不得不遵从传统路径。
+
+
+
+原文：
+
+Skepticism or lack of support from family often comes from a good place. People around you are, naturally, worried about what will happen to you if you do something unusual. They may also face other pressures. For example, they may worry that their peers will think they are being irresponsible by “allowing” their child to do this. They may even worry how it will influence legal proceedings like a divorce, if such a thing is relevant. It can feel especially hurtful when these other pressures are clearly major factors. It’s a difficult and emotionally stressful situation on both sides.
