@@ -36,7 +36,7 @@ Unfortunately, society isn’t very well set up to support and validate young pe
 
 I suspect that some people who write to me are really looking for validation and support of their preference to not go to university. Unfortunately, I’m not well positioned to give that support, because I don’t know them well.
 
-What I can give, and what this essay aims to do, is to share thoughts on ways to think about the decision, navigating the social and emotional challenges, and resources you may find helpful.
+What I can give, and what this essay aims to do, is to share thoughts on ways to think about the decision, navigating the social and emotional challenges, and resources you may find helpful.	
 
 ## Ways of Thinking about the Decision
 
@@ -329,6 +329,78 @@ Unfortunately, even if you feel confident that you would be best served by takin
 
 
 
+以下学习内容：经过百川大模型生成，因为我不能使用chatgpt今天。
+
 原文：
 
 Skepticism or lack of support from family often comes from a good place. People around you are, naturally, worried about what will happen to you if you do something unusual. They may also face other pressures. For example, they may worry that their peers will think they are being irresponsible by “allowing” their child to do this. They may even worry how it will influence legal proceedings like a divorce, if such a thing is relevant. It can feel especially hurtful when these other pressures are clearly major factors. It’s a difficult and emotionally stressful situation on both sides.
+
+
+
+The situation is often complicated by deeply asymmetric power dynamics. Depending on the situation, your parents may have direct legal power, you may depend on them for financial support, you may depend on them for housing, and even if you are self-sufficient they may have legal control of your assets. They also have, independent of their hard power, a great deal of emotional power from the role and authority they’ve exercised throughout your life. This can make the situation scary, volatile, and in some cases potentially dangerous for you.
+
+学习：
+>
+>
+>Power dynamics指的是在人际关系中，特别是在家庭关系中，不同个体之间存在的权力差异和相互作用。这种权力差异可以是实际的权力，例如法律上的控制权、经济支持或住房提供，也可以是情感上的权力，即由于一个人在另一个人生活中长期扮演的角色和行使的权威而产生的影响力。 
+>
+>中英文例句 
+>
+>- "The power dynamics in the workplace can affect team morale and productivity."  工作场所中的权力动态可能会影响团队的士气和生产力。 
+>- - "In a healthy relationship, power dynamics are balanced and respectful."  在健康的关系中，权力动态是平衡和相互尊重的。 
+>- - "Understanding the power dynamics within a family can help resolve conflicts more effectively."  了解家庭内部的权力动态有助于更有效地解决冲突。 
+>
+>Power dynamics 在上下文中的含义： 
+>
+>在这个上下文中，power dynamics指的是家庭成员之间存在的不对等权力关系。父母可能拥有法律上的直接权力、经济上的支持能力、住房的提供能力，甚至在子女自给自足的情况下，仍可能对子女的资产拥有法律控制权。此外，父母还拥有情感上的权力，这种权力来源于他们一生中所扮演的角色和行使的权威。这些权力动态可能会使情况变得复杂、令人恐惧、不稳定，甚至在某些情况下对个人构成潜在的危险。
+
+The most common resolution I’ve seen or heard of is external validation: someone gets a Thiel Fellowship, or their startup gets funded, etc, and people around them become much more supportive. This can be a somewhat disappointing resolution for the “validated” party (“why couldn’t they believe in me before I was endorsed?”). It may help to try and picture things from the perspective of someone who is scared for you and doesn’t understand the situation very well.
+
+In many cases, communicating with your family may be helpful. There’s a lot of general advice on how to have difficult conversations (non-violent communication, difficult conversations, etc.) that might be useful in having an effective conversation. There's also more specific advice on how to have particular kinds of difficult conversations with your parents (eg. telling them that you're gay, or an **atheist**, or other things they may not respond to well) that may have some **transferable** advice. Unfortunately, there are also cases where communicating might make things worse, because of the asymmetric power adults may have over you.
+
+学习：
+
+atheist：美 [ˈeɪθiɪst] 无神论者
+
+
+
+>这里的“transferable”意思是“可转移的”或“可迁移的”。在原文中的意思是，针对特定类型的困难对话（如向父母出柜、告知他们自己是无神论者等）的一些建议或策略，可以被应用或迁移到其他类似的困难对话情境中去。 
+>
+>中文例句： 他在处理客户投诉时积累的经验是可转移的，可以帮助他更好地解决与供应商之间的纠纷。 
+>
+>英文例句： The experience he gained in handling customer complaints is transferable, helping him better resolve disputes with suppliers.
+
+
+
+原文：
+
+While it won’t solve the fundamental issues, it can be extremely emotionally helpful to have an aligned support network. Having people who were proud of me for good reasons and could recognize my successes and failures was deeply affirming and motivating for me. This is something you can deliberately build by seeking out people who share your interests and values.
+
+
+
+(In truly extreme cases, such as abusive families, there may be ways to get support from a family court, get yourself **emancipated** or have your **custody** transferred. There may be softer courses of action, like living with family or friends for a bit without legal action. These are extreme courses of action that may sometimes be the best of many terrible options in rare cases. I've also heard stories where they made things worse. I don't feel qualified to give advice on this; if you are considering it, please seek specialized advice and be careful. You may be able to go to a legal clinic or get a **pro-bono** consultation with a family lawyer. You may wish to confirm **confidentiality** rules before speaking, in case they are different for someone underage. There may be specialized non-profits in your area that can give you advice, hotlines, or useful resources online. I am not the right person to ask for advice on this.)
+
+学习：
+
+abusive families：虐待家庭
+
+emancipated： 美 [i'mænsipeitid] 解放；释放；（emancipate的过去式）
+
+custody：美 [ˈkʌstədi] 监护权；拘留；监禁；
+
+pro-bono：无偿的；为了公益；为慈善机构和穷人提供的免费专业服务          美 [ˈboʊnoʊ]
+
+legal clinic：法律诊所；法律咨询服务处；法律援助中心；
+
+underage：未成年的；
+
+confidentiality： 美 [ˌkɑːnfɪˌdenʃiˈæləti] 保密性；机密性
+
+
+
+## Social Challenges
+
+
+
+
+
