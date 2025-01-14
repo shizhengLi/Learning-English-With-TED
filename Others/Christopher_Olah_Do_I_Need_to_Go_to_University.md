@@ -400,7 +400,73 @@ confidentiality： 美 [ˌkɑːnfɪˌdenʃiˈæləti] 保密性；机密性
 
 ## Social Challenges
 
+For many people, university is a period of social development. They learn social skills, make long-term friends, and form romantic relationships. For some people, especially readers of this essay, it seems possible this is the biggest benefit of university.
 
 
 
+It seems like many **precocious** young adults who leave university have less friends their own age. Does that mean that not going to university **stunts** social development? It seems hard to tell to what extent going to university actually causally effects social outcomes rather than just being correlated with them. After all, it seems like many of us also didn't connect that much with our peers in grade school. For example, I was intensely bullied in elementary school, and while I had friends in high school, I wasn't that close to anyone. In fact, until recently, the vast majority of my friends have been 5-10 years older than me. Conversely, I have friends I'd put in the "precocious teenager" category who went to university but didn't seem to really make friends their own age, especially during their freshman year.
+
+学习：
+
+precocious：美 [prəˈkoʊʃəs] 早熟的；智力超常的；较早显出的
+
+stunts： 美 [stʌnts] 妨碍；（stunt的第三人称单数）
+
+
+
+My guess is that correlated issues -- like not fitting in with one's age group and maybe being a bit shy -- are the bigger effect, but that there's also a direct causal effect from not going to university. Either way, I suspect some readers may find it hard to make friends among peers, regardless of their decision on university. So it seems good to talk about a little bit.
+
+Firstly, I think it's okay to have your friends be older than you. Teenage-Chris had lots of deeply meaningful connections with older friends and I think that was fine. They were often more emotionally mature, thoughtful, and principled than my teenage peers, and sometimes felt like older siblings. Over time, the age gap became less significant and by my mid 20s it was gone.
+
+
+
+I do think there's a lot to be said for investing in being social if it doesn't come naturally for you. University might make being social easier, but I think committing yourself to investing it it is much more important. For me, I've always disliked bars and parties, but I deeply cherish having close friends, which requires me to meet people. What should I do? Partly I've found it important to push to go to parties even if I find them stressful. But I've found it more helpful to just really deliberately seek out social contexts that I do like, and to create new ones if I can't find them. For example, last year I held lots of small tea parties, and it was lovely!
+
+
+
+Another concern is the effect of not going to university on romantic relationships. Many people have their first serious relationship in university, and I've seen friends, both male and female, worry about having missed this. For me, there was a point when it seemed like most of my peers had found a partner in undergrad, and younger-Chris was dramatically worried that he'd lost his chance and would be alone forever. In retrospect, I was more worried than I needed to be. Most of those relationships didn't last and, at least in my social circles, most people find their long-term partner outside university. I'm now inclined towards a middle view: going to university is helpful for finding your life partner, and missing out on that is perhaps the biggest cost of not going, but it's also only one factor. It's **cliche**, but the thing that really does matter is putting yourself out there, meeting people you might connect with, and waiting for the [micromarriages](https://colah.github.io/personal/micromarriages/) to add up.
+
+学习：
+
+cliche： 美 [klɪˈʃeɪ] 陈词滥调 **注意发音**
+
+
+
+There's one final subtle issue I want to mention, which intersects with all of the above: not going to university can create a professional gap between you and your age group. I became a full time researcher at Google Brain when I was 23. In that role, I started teaching, mentoring, and even managing **residents** and PhD interns who were often quite a bit older than me. And sometimes when I spent time with people in my age group outside of work -- often, junior PhD students at that point -- people would not infrequently ask me about opportunities to **do an internship** with me. But the thing I wanted was to find friends and peers, not find an intern! Even when people didn't do this, I worried a lot about the possibility that I was in a position of power relative to people I was interacting with. Meanwhile, a lot of my professional colleagues were older than me and, having known me since I was a teenager, still treated me that way. This dynamic of mismatched professional achievement faded for a variety of reasons as I moved into my mid and late 20s, but was still a strange aspect of that period of my life.
+
+
+
+学习
+>在这段话中，**residents** 指的是 **research residents**，也就是研究员或研究助理。这通常是指参与短期研究项目的人员，特别是在科技公司（例如 Google Brain）或学术机构中。这些居民通常具有研究经验，但可能尚未达到正式研究员或全职职位的资历。研究居民的角色可以包括协助实验、撰写论文、开发原型系统等。
+>
+>在文中，作者提到自己在 Google Brain 担任研究员时，与居民（residents）和博士实习生（PhD interns）合作并对他们进行指导和管理。这些居民通常是具有一定学术背景的人员，他们希望通过这些短期项目积累经验并进一步发展自己的研究职业。
+>
+>------
+>
+>**补充背景**
+>
+>在学术和研究环境中：
+>
+>- Residents通常与 interns
+>
+>   不同。
+>
+>  - **Residents** 更倾向于从事科研工作，通常时间更长，项目更深入。
+>  - **Interns** 通常是临时的实习生，可能还在完成学业，参与时间较短，任务更具体。
+>
+>- **Residents** 和医生中的 **residency**（住院医师阶段）也有相似点：都是短期的、带有学习性质的工作经历，用于积累实际经验。
+>
+>------
+>
+>**英文例句**：
+>
+>1. "The research residents at Google Brain worked on machine learning projects alongside full-time researchers."
+>   Google Brain 的研究居民与全职研究员合作从事机器学习项目。
+>2. "During her residency, she developed skills in natural language processing and published her first paper."
+>   在她的研究居住期内，她发展了自然语言处理的技能并发表了第一篇论文。
+
+
+
+
+## Resources
 
