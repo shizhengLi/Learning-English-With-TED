@@ -470,3 +470,7 @@ There's one final subtle issue I want to mention, which intersects with all of t
 
 ## Resources
 
+### Community / Learning:
+
+- **[SPARC Camp](https://sparc-camp.org/)** (14-19?) - Camp for talented high school students. Everything I’ve heard suggests it’s an incredible program, and can help you consider a diversity of paths moving forward.
+
