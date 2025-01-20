@@ -1,6 +1,6 @@
 # Inside Carnegie Mellon University: Innovation, Education, and Global Impact
 
-
+This is a book created by Shizheng Li with the help of OpenAI o1-mini LLM.
 
 ------
 
@@ -86,4 +86,22 @@ In the preface, the book will introduce CMU's unique position as one of the worl
 ### Conclusion: Why Choose Carnegie Mellon University?
 
 The concluding chapter will synthesize the key themes of the book, drawing on your interests in computer science, finance, and entrepreneurship, to explain why CMU is an ideal choice for students and professionals aiming to excel in these fields. It will highlight how the university’s unique culture, interdisciplinary approach, and focus on innovation make it a leading institution for shaping the future of technology and business.
+
+
+
+## Book Cover
+
+Book cover created by Grok 2
+
+![image-20250120161248277](./assets/image-20250120161248277.png)
+
+
+
+## Afterword
+
+January 20th, 2025
+
+Shanghai, China
+
+Shizheng Li
 
