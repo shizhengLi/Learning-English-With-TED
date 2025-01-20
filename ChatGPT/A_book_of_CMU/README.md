@@ -10,7 +10,7 @@ In the preface, the book will introduce CMU's unique position as one of the worl
 
 ------
 
-### Chapter 1: The History and Culture of Carnegie Mellon University
+### Chapter 01: The History and Culture of Carnegie Mellon University
 
 **Main Content:**
 
@@ -22,7 +22,7 @@ In the preface, the book will introduce CMU's unique position as one of the worl
 
 ------
 
-### Chapter 2: CMU's Leadership in Computer Science and Artificial Intelligence
+### Chapter 02: CMU's Leadership in Computer Science and Artificial Intelligence
 
 **Main Content:**
 
@@ -35,7 +35,7 @@ In the preface, the book will introduce CMU's unique position as one of the worl
 
 ------
 
-### Chapter 3: Cross-disciplinary Innovation and the Entrepreneurial Ecosystem
+### Chapter 03: Cross-disciplinary Innovation and the Entrepreneurial Ecosystem
 
 **Main Content:**
 
@@ -47,7 +47,7 @@ In the preface, the book will introduce CMU's unique position as one of the worl
 
 ------
 
-### Chapter 4: CMU and the Global Development of FinTech
+### Chapter 04: CMU and the Global Development of FinTech
 
 **Main Content:**
 
@@ -59,7 +59,7 @@ In the preface, the book will introduce CMU's unique position as one of the worl
 
 ------
 
-### Chapter 5: Carnegie Mellon University’s Global Influence
+### Chapter 05: Carnegie Mellon University’s Global Influence
 
 **Main Content:**
 
@@ -71,7 +71,7 @@ In the preface, the book will introduce CMU's unique position as one of the worl
 
 ------
 
-### Chapter 6: The Future of Carnegie Mellon University: Innovating Education for a Global Impact
+### Chapter 06: The Future of Carnegie Mellon University: Innovating Education for a Global Impact
 
 **Main Content:**
 
