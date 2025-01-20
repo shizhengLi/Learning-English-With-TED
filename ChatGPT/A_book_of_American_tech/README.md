@@ -1,6 +1,6 @@
 # From Cotton Gins to Quantum Chips: A Comprehensive History of American Technological Development
 
-
+This is a book created by Shizheng Li with the help of OpenAI o1 and o1-mini LLMs.  
 
 ------
 
@@ -196,5 +196,23 @@
 
 **This book aims to offer a multifaceted view of how technology evolved in the United States—spurred by wars, competition, policy, private sector leadership, and a deeply rooted entrepreneurial spirit. By dissecting the successes and failures, readers can better understand the structures and cultural values that propelled American tech leadership, and see how they might be applied, or adapted, to other contexts such as China’s rapidly advancing innovation ecosystem.**
 
+## Book Cover
 
+
+
+Book Cover created by Grok 2
+
+
+
+![image-20250120145929394](./assets/image-20250120145929394.png)
+
+
+
+## Afterword
+
+Date: January 20th, 2025. 
+
+Location: Shanghai, China
+
+Author: Shizheng Li
 
