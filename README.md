@@ -24,7 +24,7 @@ This repository contains materials for studying English.
 
 ## Timestamp
 
-[**2025.01.20**] Created a book about American tech history: [From Cotton Gins to Quantum Chips: A Comprehensive History of American Technological Development](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/ChatGPT/A_book_of_American_tech) with the help of OpenAI o1 and o1-mini LLMs. Just for learning English.
+[**2025.01.20**] Created a book about American tech history: [From Cotton Gins to Quantum Chips: A Comprehensive History of American Technological Development](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/ChatGPT/A_book_of_American_tech) with the help of OpenAI o1 and o1-mini LLMs. Just for learning English. Its Chinese name is 《美国科技简史：从轧棉机到量子芯片》
 
 [**2025.01.02**] Have carefully read over 310 articles from *The Economist* in 2024.
 

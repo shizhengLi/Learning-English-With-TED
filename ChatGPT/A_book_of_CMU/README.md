@@ -93,6 +93,18 @@ The concluding chapter will synthesize the key themes of the book, drawing on yo
 
 Book cover created by Grok 2
 
+The first one
+
+![image-20250120164704185](./assets/image-20250120164704185.png)
+
+The second one
+
+![image-20250120164719585](./assets/image-20250120164719585.png)
+
+The third one
+
+
+
 ![image-20250120161248277](./assets/image-20250120161248277.png)
 
 
