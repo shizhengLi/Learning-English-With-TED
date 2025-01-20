@@ -1,6 +1,6 @@
 # Inside Carnegie Mellon University: Innovation, Education, and Global Impact
 
-This is a book created by Shizheng Li with the help of OpenAI o1-mini LLM.
+This is a book created by Shizheng Li with the help of OpenAI o1-mini and GPT 4o.
 
 ------
 
