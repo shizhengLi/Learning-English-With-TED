@@ -200,11 +200,21 @@ This is a book created by Shizheng Li with the help of OpenAI o1 and o1-mini LLM
 
 
 
-Book Cover created by Grok 2
+Book Cover created by Grok 2. Although there are some spelling mistakes here, I like it.
+
+
 
 
 
 ![image-20250120145929394](./assets/image-20250120145929394.png)
+
+Another one:
+
+
+
+![image-20250120162442802](./assets/image-20250120162442802.png)
+
+
 
 
 
