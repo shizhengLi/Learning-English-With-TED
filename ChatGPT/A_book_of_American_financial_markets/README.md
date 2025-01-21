@@ -140,6 +140,8 @@ This structure ensures the book not only covers key historical events but also d
 
 Book cover created by Grok 2
 
+
+
 ![image-20250120203747545](./assets/image-20250120203747545.png)
 
 Option 2
