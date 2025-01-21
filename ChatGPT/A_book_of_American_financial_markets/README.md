@@ -1,5 +1,11 @@
 # The Evolution of U.S. Financial Markets
 
+This is a book created by Shizheng Li with the help of GPT 4o.  
+
+---
+
+
+
 ## Chapter 01: The Birth of American Financial Markets (18th Century)
 
 - **1.1 The Early Colonial Economy**
@@ -150,9 +156,10 @@ Option 2
 
 
 
-
-
-
-
 ## Afterword
 
+January 11th, 2025
+
+Shanghai, China
+
+Shizheng Li
