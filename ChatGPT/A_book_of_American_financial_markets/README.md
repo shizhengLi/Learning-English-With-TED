@@ -158,7 +158,7 @@ Option 2
 
 ## Afterword
 
-January 11th, 2025
+January 21th, 2025
 
 Shanghai, China
 
