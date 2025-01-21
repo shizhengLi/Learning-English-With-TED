@@ -24,6 +24,10 @@ This repository contains materials for studying English.
 
 ## Timestamp
 
+[**2025.01.21**] Created a book about the history and future of U.S. financial markets: [The Evolution of U.S. Financial Markets](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/ChatGPT/A_book_of_American_financial_markets).  This is a book created by Shizheng Li with the help of GPT 4o. Just for learning English. Its Chinese name is 《美国金融市场发展史》
+
+[**2025.01.20**] Created a book about Carnegie Mellon University: [Inside Carnegie Mellon University: Innovation, Education, and Global Impact](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/ChatGPT/A_book_of_CMU) with the help of OpenAI o1-mini and GPT 4o. Just for learning English. Its Chinese name is 《深入世界顶尖名校CMU内部：创新，教育与全球影响力》
+
 [**2025.01.20**] Created a book about American tech history: [From Cotton Gins to Quantum Chips: A Comprehensive History of American Technological Development](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/ChatGPT/A_book_of_American_tech) with the help of OpenAI o1 and o1-mini LLMs. Just for learning English. Its Chinese name is 《美国科技简史：从轧棉机到量子芯片》
 
 [**2025.01.02**] Have carefully read over 310 articles from *The Economist* in 2024.
