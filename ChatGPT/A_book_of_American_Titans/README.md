@@ -2,6 +2,14 @@
 
 # American Titans: Profiles of Business, Investment, and Innovation Leaders
 
+> This is a book created by Shizheng Li with the help of GPT 4o.
+
+### Book Cover
+
+Created by Grok 2
+
+![image-20250201232150181](./assets/image-20250201232150181.png)
+
 
 
 Below is a detailed book outline in English that profiles several iconic American business and investment leaders. Each chapter is devoted to one individual and is divided into independent sections that together paint a multifaceted picture of their lives, strategies, and lasting impact. This outline aims to blend historical insight with innovative, modern examples that draw parallels between past strategies and today’s business landscape.
