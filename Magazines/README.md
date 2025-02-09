@@ -12,7 +12,7 @@
 https://marktext.weero.net/download 或者 
 https://www.marktext.cc/
 
-我所有的笔记都开源在：https://github.com/shizhengLi/Learning-English-With-TED（需要外网）
+我所有的笔记都开源在GitHub（需要外网）：https://github.com/shizhengLi/Learning-English-With-TED
 
 我的笔记是免费的，请注意不要被骗。
 
