@@ -2,7 +2,9 @@
 
 
 
-> 为了帮助你从《经济学人》这类高水平的经济金融杂志中提升英语词汇量，我们可以将这些词汇和词组分为以下几个主要类别。这些类别会涵盖商业金融领域的各个方面，并且符合雅思、托福甚至GRE水平的要求。
+> 为了帮助读者从《经济学人》这类高水平的经济金融杂志中提升英语词汇量，我们可以将这些词汇和词组分为以下几个主要类别。这些类别会涵盖商业金融领域的各个方面，并且符合雅思、托福甚至GRE水平的要求。
+>
+> 总共大约1200个词汇与词组。
 >
 > Created by Shizheng Li with the help of ChatGPT o1 model.
 
@@ -55,3 +57,10 @@
    - 例如：**market penetration, brand equity, product differentiation, value proposition, disruptive innovation, customer segmentation**
 
 这些类别将帮助你系统地掌握经济金融领域的核心词汇，能有效提升你在阅读《经济学人》等专业期刊时的理解能力。
+
+
+
+## 后记
+
+2025年3月23日16点22分于上海。
+
