@@ -46,19 +46,11 @@
    - 包括涉及政府监管、金融监管政策、税务政策、合规性等的高级词汇。
    - 例如：**regulatory oversight, anti-money laundering (AML), financial stability, taxation policies, Dodd-Frank Act, central bank independence**
 
-### 11. **金融科技与创新 (FinTech & Innovation)**
-   - 涉及金融技术、区块链、数字货币、支付系统等创新金融领域的词汇。
-   - 例如：**blockchain, cryptocurrency, robo-advisors, peer-to-peer lending, digital wallets, smart contracts**
-
-### 12. **经济理论与思想 (Economic Theories & Thought)**
+### 11. **经济理论与思想 (Economic Theories & Thought)**
    - 涉及经济学中的经典和现代理论，例如凯恩斯主义、供给侧经济学等。
    - 例如：**neoliberalism, Keynesian economics, supply-side economics, monetarism, rational expectations theory**
 
-### 13. **社会与环境影响 (Social & Environmental Impact)**
-   - 涉及企业社会责任、可持续发展、绿色金融等领域的词汇。
-   - 例如：**sustainable finance, impact investing, environmental, social, and governance (ESG), green bonds, carbon credits**
-
-### 14. **创新与市场营销 (Innovation & Marketing)**
+### 12. **创新与市场营销 (Innovation & Marketing)**
    - 涉及市场营销战略、产品创新、消费者行为等的高级词汇。
    - 例如：**market penetration, brand equity, product differentiation, value proposition, disruptive innovation, customer segmentation**
 
