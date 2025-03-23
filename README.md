@@ -25,7 +25,7 @@ This repository contains materials for studying English.
 
 ## Timestamp
 
-[**2025.03.23**] Created a vocabulary list (approximate 1200 items) about economy, finance and accounting with the help of ChatGPT o1 model. [Link here](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/Economic_Finance_Words)
+[**2025.03.23**] Created a vocabulary list (approximate 1200 items) about economy, finance and accounting with the help of ChatGPT o1 model. [Link here](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/Economy_Finance_Words)
 
 [**2025.01.21**] Created a book about the history and future of U.S. financial markets: [The Evolution of U.S. Financial Markets](https://github.com/shizhengLi/Learning-English-With-TED/tree/main/ChatGPT/A_book_of_American_financial_markets).  This is a book created by Shizheng Li with the help of GPT 4o. Just for learning English. Its Chinese name is 《美国金融市场发展史》
 
