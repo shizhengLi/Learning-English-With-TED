@@ -44,19 +44,15 @@
    - 涉及金融技术、区块链、数字货币、支付系统等创新金融领域的词汇。
    - 例如：**blockchain, cryptocurrency, robo-advisors, peer-to-peer lending, digital wallets, smart contracts**
 
-### 12. **企业财务与资本结构 (Corporate Finance & Capital Structure)**
-   - 包括资本运作、融资、企业财务分析等的相关词汇。
-   - 例如：**capital structure, debt-to-equity ratio, cost of capital, initial public offering (IPO), leveraged buyouts (LBOs), financial leverage**
-
-### 13. **经济理论与思想 (Economic Theories & Thought)**
+### 12. **经济理论与思想 (Economic Theories & Thought)**
    - 涉及经济学中的经典和现代理论，例如凯恩斯主义、供给侧经济学等。
    - 例如：**neoliberalism, Keynesian economics, supply-side economics, monetarism, rational expectations theory**
 
-### 14. **社会与环境影响 (Social & Environmental Impact)**
+### 13. **社会与环境影响 (Social & Environmental Impact)**
    - 涉及企业社会责任、可持续发展、绿色金融等领域的词汇。
    - 例如：**sustainable finance, impact investing, environmental, social, and governance (ESG), green bonds, carbon credits**
 
-### 15. **创新与市场营销 (Innovation & Marketing)**
+### 14. **创新与市场营销 (Innovation & Marketing)**
    - 涉及市场营销战略、产品创新、消费者行为等的高级词汇。
    - 例如：**market penetration, brand equity, product differentiation, value proposition, disruptive innovation, customer segmentation**
 
