@@ -1,9 +1,5 @@
 # **公司治理与管理 (Corporate Governance & Management)**
 
-​	
-
-以下是“公司治理与管理 (Corporate Governance & Management)”类别的词汇和词组，从编号1开始提供，并附上简要释义和例句：
-
 ---
 
 1. **Accountability** – /əˌkaʊn.təˈbɪl.ə.ti/ – 问责制；责任承担  

@@ -2,7 +2,7 @@
 
    - 主要与企业财务报表、会计标准、盈利预测等相关的术语。
 
-以下是**财务报表与会计 (Financial Statements & Accounting)**类别的词汇和词组，编号从1开始：
+以下是 **财务报表与会计 (Financial Statements & Accounting)** 类别的词汇和词组，编号从1开始：
 
 ---
 

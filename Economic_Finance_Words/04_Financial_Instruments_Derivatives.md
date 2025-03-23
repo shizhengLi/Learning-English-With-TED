@@ -122,9 +122,7 @@
     例句：A volatility swap is a derivative contract in which the buyer and seller exchange payments based on the future volatility of an underlying asset.  
     (波动率互换是一种衍生品合同，买卖双方根据基础资产未来的波动率交换支付。)
 
----
 
-以下是“金融工具与衍生品 (Financial Instruments & Derivatives)”类别的下一个批次的30个高级词汇和词组：
 
 ---
 
@@ -332,9 +330,7 @@
       例句：A performance swap is a financial derivative in which one party receives the performance of an asset or index, and the other party receives a fixed payment.  
       (业绩互换是一种金融衍生品，其中一方接收资产或指数的表现，另一方接收固定支付。)
 
----
 
-以下是“金融工具与衍生品 (Financial Instruments & Derivatives)”类别的下一个批次的30个高级词汇和词组：
 
 ---
 

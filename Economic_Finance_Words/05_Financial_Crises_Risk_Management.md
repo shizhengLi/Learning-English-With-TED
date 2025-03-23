@@ -1,7 +1,5 @@
 # **金融危机与风险管理 (Financial Crises & Risk Management)**
 
-好的，以下是“金融危机与风险管理 (Financial Crises & Risk Management)”类别的第一个批次的30个高级词汇和词组：
-
 ---
 
 1. **Systemic Risk** – /sɪˈstɛmɪk rɪsk/ – 系统性风险  
