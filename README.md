@@ -23,6 +23,8 @@ This repository contains materials for studying English.
 
 - Others: notes of blogs.
 
+- Basketball: 《Hoops English：篮球英语完全手册》（一本学习篮球英语的完全手册）
+
 
 
 ## Timestamp
