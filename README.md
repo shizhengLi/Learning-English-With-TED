@@ -25,6 +25,8 @@ This repository contains materials for studying English.
 
 - Basketball: 《Hoops English：篮球英语完全手册》（一本学习篮球英语的完全手册）
 
+- Medicine: 《Med English：医学英语完全手册》(一本学习医学英语的入门书)
+
 
 
 ## Timestamp
